@@ -133,33 +133,84 @@
 // fruits.join(" ")
 // console.log(fruits);
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-fruits.unshift( "Pinaple")
-fruits.splice(2, 0, "Kiwe", 'Watermelon')
-document.getElementById("main").innerHTML = fruits.join("  ");
-document.getElementById('main').style.fontSize = "80px";
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// fruits.unshift( "Pinaple")
+// fruits.splice(2, 0, "Kiwe", 'Watermelon')
+// document.getElementById("main").innerHTML = fruits.join("  ");
+// document.getElementById('main').style.fontSize = "80px";
 
-const fruitss = ["Banana", "Orange", "Apple", "Mango"];
-const fruitsss = ["Banana", "Orange", "Apple", "Mango"];
-const allFruits = fruitss.concat(fruitsss);
-document.getElementById('main').innerHTML = allFruits.join(' ')
-document.getElementById('main').innerHTML = allFruits.sort().join(' ')
+// const fruitss = ["Banana", "Orange", "Apple", "Mango"];
+// const fruitsss = ["Banana", "Orange", "Apple", "Mango"];
+// const allFruits = fruitss.concat(fruitsss);
+// document.getElementById('main').innerHTML = allFruits.join(' ')
+// document.getElementById('main').innerHTML = allFruits.sort().join(' ')
 
-const number = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
-number.sort((a, b)=>{
-    return a - b
-})
-console.log(number);
+// const number = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+// number.sort((a, b)=>{
+//     return a - b
+// })
+// console.log(number);
 
-const numbers = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
-numbers.sort((a, b)=>{
-    return b - a
-})
-console.log(numbers);
+// const numbers = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+// numbers.sort((a, b)=>{
+//     return b - a
+// })
+// console.log(numbers);
 
-const numberss = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
-numberss.sort(()=>{
-    return 0.5 - Math.random();
-})
-console.log(numberss);
+// const numberss = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+// numberss.sort(()=>{
+//     return 0.5 - Math.random();
+// })
 
+// console.log(numberss);
+
+const number = [2, 54, 8, 6, 4, 9, 52, 92, 72, 84];
+
+// const myFun = (value, index, array)=>{
+// console.log(value)
+// console.log(index)
+// console.log(array)
+// console.log('-----------')
+// return value * 2
+// };
+// const nyFun1 =number.sort((a, b)=>{
+//     return a - b
+// })
+
+// const myFun2 = (value)=>{
+//     return value * 2
+// }
+
+// number.forEach(myFun)
+// const newNum= number.map(myFun2);
+
+// console.log(number)
+// console.log(newNum)
+
+// const myFun3 = (value, index, array)=>{
+//     return value > 60;
+// }
+// number.forEach(myFun)
+// const newNum1= number.filter(myFun3);
+
+
+
+
+// console.log(newNum1)
+
+// const myFun5 = (total, value, index, array)=>{
+//     console.log(total);
+//     console.log("-------");
+// return total + (value * 2)
+// }
+
+// const newNumber = number.reduce(myFun5, 10);
+
+// console.log(newNumber);
+
+
+const a = Array.from('abcdefg');
+console.log(a)
+
+const b = a[2];
+console.log(b);
