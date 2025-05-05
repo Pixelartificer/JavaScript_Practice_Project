@@ -138,3 +138,28 @@ fruits.unshift( "Pinaple")
 fruits.splice(2, 0, "Kiwe", 'Watermelon')
 document.getElementById("main").innerHTML = fruits.join("  ");
 document.getElementById('main').style.fontSize = "80px";
+
+const fruitss = ["Banana", "Orange", "Apple", "Mango"];
+const fruitsss = ["Banana", "Orange", "Apple", "Mango"];
+const allFruits = fruitss.concat(fruitsss);
+document.getElementById('main').innerHTML = allFruits.join(' ')
+document.getElementById('main').innerHTML = allFruits.sort().join(' ')
+
+const number = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+number.sort((a, b)=>{
+    return a - b
+})
+console.log(number);
+
+const numbers = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+numbers.sort((a, b)=>{
+    return b - a
+})
+console.log(numbers);
+
+const numberss = [1, 5, 8, 6, 4, 50, 15, 6, 280, 61, 72];
+numberss.sort(()=>{
+    return 0.5 - Math.random();
+})
+console.log(numberss);
+
