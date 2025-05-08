@@ -4105,5 +4105,66 @@
         "borrowerName": " ",
         "deedValue": "4,35,000.00",
         "remarks": "Mutation has not been done yet."
+    },
+    {
+        "id": "49",
+        "mouza": "Banani",
+        "upazila": "Tejgaon",
+        "ps": "Gulshan",
+        "destricted": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 18",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Gawsia Deviloper",
+        "deedNo": "Juy Garden",
+        "date": " ",
+        "landAreaPerDeed": null,
+        "buildingAreaSqft": 2382.00,
+        "biaDeed": [
+            {
+                "deedNo": "11736",
+                "date": "09-11-2010"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            "2/A"
+        ],
+        "saKhatianDetails": [
+            null
+        ],
+        "saDaagDetails": [
+            "2/A"
+        ],
+        "rsKhatianDetails": [
+           null
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": null,
+        "khajna": null,
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance",
+        "borrowerName": " Home Lone ",
+        "deedValue": "4,60,58,000.00",
+        "remarks": "Plot-2A, Road- 2/1, 6th Floor, A-7, Banani, Gawsia Jui Garden. The document has been mortgaged through a tripartite agreement, and despite many attempts, it has not been possible to complete the mutation (name transfer) under various names."
     }
 ]
