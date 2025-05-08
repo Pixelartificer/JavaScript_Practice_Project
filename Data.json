@@ -1563,7 +1563,7 @@
         "deedType": "Safkabla",
         "jlNumber": "R S- 54",
         "buyer": "Mohammed Fayazur Rahman Bhuiyan",
-        "seller": "Moss. Rojena Begum",
+        "seller": "Mst. Rojena Begum",
         "deedNo": "3476",
         "date": "04-03-2015",
         "landAreaPerDeed": 15.00,
@@ -1959,7 +1959,6 @@
         "deedValue": "36,00,000.00",
         "remarks": null
     },
-
     {
         "id": "25",
         "mouza": "Baghata",
@@ -2095,23 +2094,54 @@
                 "deedNo": "22492",
                 "date": "12-10-2011"
             }
-
-
         ],
         "csKhatianDetails": null,
         "csDaagDetails": [
-            2851, 2876, 2876, 2876, 2858, 2859, 2851, 2859, 2863            
+            2851,
+            2876,
+            2876,
+            2876,
+            2858,
+            2859,
+            2851,
+            2859,
+            2863
         ],
         "saKhatianDetails": [
-            326, 319, 324, 302, 302, 302, 302, 315, 326, 320, 317, 328
-
+            326,
+            319,
+            324,
+            302,
+            302,
+            302,
+            302,
+            315,
+            326,
+            320,
+            317,
+            328
         ],
         "saDaagDetails": [
-            2851, 2876, 2876, 2876, 2858, 2859, 2851, 2859, 2863
+            2851,
+            2876,
+            2876,
+            2876,
+            2858,
+            2859,
+            2851,
+            2859,
+            2863
         ],
         "rsKhatianDetails": [
-            289, 308, 126, 308, 308, 1639, 1446, 526, 1320
-            
+            289,
+            308,
+            126,
+            308,
+            308,
+            1639,
+            1446,
+            526,
+            1320
         ],
         "rsDaagDetails": [
             {
@@ -2189,7 +2219,6 @@
         "deedValue": "1,97,67,000.00",
         "remarks": null
     },
-
     {
         "id": "26",
         "mouza": "Baghata",
@@ -2222,19 +2251,28 @@
             366
         ],
         "csDaagDetails": [
-            2663, 2646, 2647, 2645, 2874
-            
+            2663,
+            2646,
+            2647,
+            2645,
+            2874
         ],
         "saKhatianDetails": [
-            627, 988, 499
-            
+            627,
+            988,
+            499
         ],
         "saDaagDetails": [
-            2663, 2646, 2647, 2645, 2874
+            2663,
+            2646,
+            2647,
+            2645,
+            2874
         ],
         "rsKhatianDetails": [
-            1395, 654, 1066
-            
+            1395,
+            654,
+            1066
         ],
         "rsDaagDetails": [
             {
@@ -2288,7 +2326,6 @@
         "deedValue": "61,63,000.00",
         "remarks": null
     },
-
     {
         "id": "27",
         "mouza": "Baghata",
@@ -2328,18 +2365,15 @@
         "csKhatianDetails": null,
         "csDaagDetails": [
             2867
-            
         ],
         "saKhatianDetails": [
             513
-            
         ],
         "saDaagDetails": [
             2867
         ],
         "rsKhatianDetails": [
             1640
-            
         ],
         "rsDaagDetails": [
             {
@@ -2369,7 +2403,6 @@
         "deedValue": "49,30,000.00",
         "remarks": null
     },
-
     {
         "id": "28",
         "mouza": "Baghata",
@@ -2407,13 +2440,15 @@
             2850
         ],
         "saKhatianDetails": [
-            318, 324
+            318,
+            324
         ],
         "saDaagDetails": [
             2850
         ],
         "rsKhatianDetails": [
-            362, 289
+            362,
+            289
         ],
         "rsDaagDetails": [
             {
@@ -2443,7 +2478,6 @@
         "deedValue": "19,12,000.00",
         "remarks": "Mutation has not been done yet."
     },
-
     {
         "id": "29",
         "mouza": "Baghata",
@@ -2503,6 +2537,1573 @@
         "mortgageBank": "Free",
         "borrowerName": null,
         "deedValue": "6,00,000.00",
+        "remarks": "Mutation has not been done yet."
+    },
+    {
+        "id": "30",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Khalelur Rahman",
+        "deedNo": "11588",
+        "date": "23-06-2014",
+        "landAreaPerDeed": 28.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3693",
+                "date": "08-04-2002"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1941
+        ],
+        "saKhatianDetails": [
+            228
+        ],
+        "saDaagDetails": [
+            1941
+        ],
+        "rsKhatianDetails": [
+            117
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3224,
+                "perDeed": 28.00,
+                "perMutation": 28.00,
+                "perMortgage": 28.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3622",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "7,85,000.00",
+        "remarks": null
+    },
+    {
+        "id": "31",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Khalelur Rahman",
+        "deedNo": "8642",
+        "date": "15-05-2014",
+        "landAreaPerDeed": 28.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6258",
+                "date": "18-07-1990"
+            },
+            {
+                "deedNo": "1485",
+                "date": "22-02-2005"
+            },
+            {
+                "deedNo": "8148",
+                "date": "06-05-2014"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1936
+        ],
+        "saKhatianDetails": [
+            228
+        ],
+        "saDaagDetails": [
+            1936
+        ],
+        "rsKhatianDetails": [
+            117
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3216,
+                "perDeed": 28.00,
+                "perMutation": 28.00,
+                "perMortgage": 28.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3673",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "7,85,000.00",
+        "remarks": null
+    },
+    {
+        "id": "32",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Kazi Keron & Other",
+        "deedNo": "28248",
+        "date": "21-12-2011",
+        "landAreaPerDeed": 18.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1475
+        ],
+        "saKhatianDetails": [
+            1035
+        ],
+        "saDaagDetails": [
+            1475
+        ],
+        "rsKhatianDetails": [
+            681
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2548,
+                "perDeed": 18.00,
+                "perMutation": 18.00,
+                "perMortgage": 18.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3082",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "1,80,000.00",
+        "remarks": null
+    },
+    {
+        "id": "33",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Kamrul Islam & Other",
+        "deedNo": "20016",
+        "date": "09-11-2014",
+        "landAreaPerDeed": 6.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": " ",
+                "date": "05-12-1979"
+            },
+            {
+                "deedNo": "10371",
+                "date": "09-10-1984"
+            },
+            {
+                "deedNo": "1006",
+                "date": "24-01-1987"
+            },
+            {
+                "deedNo": "2564",
+                "date": "10-04-1996"
+            },
+            {
+                "deedNo": "14824",
+                "date": "19-11-2009"
+            },
+            {
+                "deedNo": "3140",
+                "date": "24-04-1996"
+            },
+            {
+                "deedNo": "10038",
+                "date": "29-04-2012"
+            },
+            {
+                "deedNo": "10524",
+                "date": "19-05-1913"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            13
+        ],
+        "saKhatianDetails": [
+            1010
+        ],
+        "saDaagDetails": [
+            13
+        ],
+        "rsKhatianDetails": [
+            1272
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 17,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3687",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading",
+        "deedValue": "1,70,000.00",
+        "remarks": null
+    },
+    {
+        "id": "34",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Najrul Islam & Other",
+        "deedNo": "617",
+        "date": "12-01-2010",
+        "landAreaPerDeed": 10.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8633",
+                "date": "21-08-1969"
+            },
+            {
+                "deedNo": "11837",
+                "date": "30-09-2009"
+            },
+            {
+                "deedNo": "8952",
+                "date": "30-07-2008"
+            },
+            {
+                "deedNo": "11563",
+                "date": "29-09-2008"
+            },
+            {
+                "deedNo": "11520",
+                "date": "14-09-2009"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1271,
+            1272
+        ],
+        "saKhatianDetails": [
+            402,
+            739
+        ],
+        "saDaagDetails": [
+            1271,
+            1272
+        ],
+        "rsKhatianDetails": [
+            938,
+            217
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2330,
+                "perDeed": 6.75,
+                "perMutation": 6.75,
+                "perMortgage": 6.75
+            },
+            {
+                "rsDaag": 2332,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2503",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery",
+        "deedValue": "1,00,000.00",
+        "remarks": "In this deed, land was purchased under two RS plot numbers, but the mutation has been done for all the property under a single plot number, which may need to be corrected."
+    },
+    {
+        "id": "35",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Nurjahan Begum & Other",
+        "deedNo": "20019",
+        "date": "12-09-2011",
+        "landAreaPerDeed": 140.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            2148,
+            2012,
+            2038,
+            2113,
+            1904,
+            1909
+        ],
+        "saKhatianDetails": [
+            1218,
+            464,
+            589,
+            581,
+            1222,
+            824,
+            1217,
+            460
+        ],
+        "saDaagDetails": [
+            2148,
+            2012,
+            2038,
+            2113,
+            1904,
+            1909
+        ],
+        "rsKhatianDetails": [
+            71,
+            89,
+            366,
+            86,
+            1231,
+            1304
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5033,
+                "perDeed": 26.00,
+                "perMutation": 26.00,
+                "perMortgage": 26.00
+            },
+            {
+                "rsDaag": 3026,
+                "perDeed": 42.00,
+                "perMutation": 42.00,
+                "perMortgage": 42.00
+            },
+            {
+                "rsDaag": 3005,
+                "perDeed": 20.00,
+                "perMutation": 20.00,
+                "perMortgage": 20.00
+            },
+            {
+                "rsDaag": 5027,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            },
+            {
+                "rsDaag": 3076,
+                "perDeed": 25.00,
+                "perMutation": 25.00,
+                "perMortgage": 25.00
+            },
+            {
+                "rsDaag": 3102,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            },
+            {
+                "rsDaag": 3103,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2962",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery",
+        "deedValue": "13,30,000.00",
+        "remarks": null
+    },
+    {
+        "id": "36",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mohammed Ali & Other",
+        "deedNo": "16791",
+        "date": "26-07-2011",
+        "landAreaPerDeed": 7.33,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "14551",
+                "date": "22-06-2011"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1934
+        ],
+        "saKhatianDetails": [
+            null
+        ],
+        "saDaagDetails": [
+            1934
+        ],
+        "rsKhatianDetails": [
+            358
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3207,
+                "perDeed": 3.77,
+                "perMutation": 3.77,
+                "perMortgage": 3.77
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2962",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery",
+        "deedValue": "1,00,000.00",
+        "remarks": null
+    },
+    {
+        "id": "37",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Kaji Md. Monir Hossain",
+        "deedNo": "776",
+        "date": "10-01-2012",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1255
+        ],
+        "saKhatianDetails": [
+            974
+        ],
+        "saDaagDetails": [
+            1255
+        ],
+        "rsKhatianDetails": [
+            273
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2326,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3328",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery",
+        "deedValue": "50,000.00",
+        "remarks": null
+    },
+    {
+        "id": "38",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jahinger Alam Bhuiyan & Other",
+        "deedNo": "21",
+        "date": "05-01-2011",
+        "landAreaPerDeed": 23.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1116",
+                "date": "19-01-2010"
+            },
+            {
+                "deedNo": "20151",
+                "date": "14-10-2010"
+            },
+            {
+                "deedNo": "25283",
+                "date": "20-12-2010"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1878
+        ],
+        "saKhatianDetails": [
+            1050
+        ],
+        "saDaagDetails": [
+            1878
+        ],
+        "rsKhatianDetails": [
+            1078
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3056,
+                "perDeed": 23.50,
+                "perMutation": 23.50,
+                "perMortgage": 23.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2649",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "2,25,000.00",
+        "remarks": null
+    },
+    {
+        "id": "39",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdur Rahim & Other",
+        "deedNo": "1382",
+        "date": "19-01-2011",
+        "landAreaPerDeed": 33.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            2037
+        ],
+        "saKhatianDetails": [
+            616
+        ],
+        "saDaagDetails": [
+            2037
+        ],
+        "rsKhatianDetails": [
+            1140
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3035,
+                "perDeed": 33.50,
+                "perMutation": 33.50,
+                "perMortgage": 33.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2649",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "6,70,000.00",
+        "remarks": null
+    },
+    {
+        "id": "40",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mahaid Expo International Textile Ltd",
+        "seller": "Jaj Spinning Mils Ltd.",
+        "deedNo": "19068",
+        "date": "23-08-2011",
+        "landAreaPerDeed": 309.84,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8348",
+                "date": "17-07-2008"
+            },
+            {
+                "deedNo": "13664",
+                "date": "24-11-2008"
+            },
+            {
+                "deedNo": "13148",
+                "date": "11-11-2008"
+            },
+            {
+                "deedNo": "8124",
+                "date": "13-07-2009"
+            },
+            {
+                "deedNo": "10112",
+                "date": "18-08-2009"
+            },
+            {
+                "deedNo": "6837",
+                "date": "18-04-2010"
+            },
+            {
+                "deedNo": "5526",
+                "date": "29-03-2010"
+            },
+            {
+                "deedNo": "1451",
+                "date": "26-01-2010"
+            },
+            {
+                "deedNo": "3588",
+                "date": "25-02-2010"
+            },
+            {
+                "deedNo": "15402",
+                "date": "08-08-2010"
+            },
+            {
+                "deedNo": "3388",
+                "date": "10-02-2011"
+            },
+            {
+                "deedNo": "6889",
+                "date": "21-03-2011"
+            },
+            {
+                "deedNo": "7029",
+                "date": "22-03-2011"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            919,
+            918,
+            906,
+            923,
+            1679,
+            1649,
+            1904,
+            1909,
+            1999,
+            2008,
+            2007,
+            1924,
+            1934
+        ],
+        "saKhatianDetails": [
+            267,
+            1237,
+            756,
+            267,
+            524,
+            446,
+            1237,
+            581,
+            598,
+            1242,
+            459,
+            1034
+        ],
+        "saDaagDetails": [
+            919,
+            918,
+            906,
+            923,
+            1679,
+            1649,
+            1904,
+            1909,
+            1999,
+            2008,
+            2007,
+            1924,
+            1934
+        ],
+        "rsKhatianDetails": [
+            450,
+            1152,
+            461,
+            1073,
+            655,
+            833,
+            742,
+            366,
+            89,
+            87,
+            419,
+            359
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1857,
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": 13.00
+            },
+            {
+                "rsDaag": 1858,
+                "perDeed": 29.00,
+                "perMutation": 29.00,
+                "perMortgage": 29.00
+            },
+            {
+                "rsDaag": 1867,
+                "perDeed": 40.00,
+                "perMutation": 40.00,
+                "perMortgage": 40.00
+            },
+            {
+                "rsDaag": 2913,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            },
+            {
+                "rsDaag": 2978,
+                "perDeed": 22.50,
+                "perMutation": 22.50,
+                "perMortgage": 22.50
+            },
+            {
+                "rsDaag": 3196,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3198,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3194,
+                "perDeed": 13.50,
+                "perMutation": 13.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 2851,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3102,
+                "perDeed": 26.25,
+                "perMutation": 26.25,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3103,
+                "perDeed": 26.25,
+                "perMutation": 26.25,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3128,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3057,
+                "perDeed": 11.00,
+                "perMutation": 11.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3058,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3199,
+                "perDeed": 14.67,
+                "perMutation": 14.67,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 3207,
+                "perDeed": 14.67,
+                "perMutation": 14.67,
+                "perMortgage": null
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2678",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "31,00,000.00",
+        "remarks": "The total land area mentioned in the deed is 309.84 decimals, and it is mortgaged with Agrani Bank. However, as per the deed records obtained from Madhabdi, mutation has been found for only 119.50 decimals of land."
+    },
+    {
+        "id": "41",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Ranu Begum & Other",
+        "deedNo": "3924",
+        "date": "20-09-2011",
+        "landAreaPerDeed": 6.86,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11556",
+                "date": "15-09-2010"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1255
+        ],
+        "saKhatianDetails": [
+            null
+        ],
+        "saDaagDetails": [
+            1255
+        ],
+        "rsKhatianDetails": [
+            273
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2326,
+                "perDeed": 6.86,
+                "perMutation": 6.86,
+                "perMortgage": 6.86
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": null,
+        "khajna": null,
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "10,30,000.00",
+        "remarks": "The deed is mortgaged with Agrani Bank, but the mutation khatian could not be found in the deed records obtained from Madhabdi."
+    },
+    {
+        "id": "42",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Kopil Uddin Allial Kofil Uddin",
+        "deedNo": "4413",
+        "date": "24-02-2011",
+        "landAreaPerDeed": 20.85,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            2155
+        ],
+        "saKhatianDetails": [
+            321
+        ],
+        "saDaagDetails": [
+            2155
+        ],
+        "rsKhatianDetails": [
+            942
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5131,
+                "perDeed": 20.85,
+                "perMutation": 20.85,
+                "perMortgage": 20.85
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2674",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "4,40,000.00",
+        "remarks": null
+    },
+    {
+        "id": "43",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Suruj Miah & Other",
+        "deedNo": "5002",
+        "date": "01-03-2011",
+        "landAreaPerDeed": 29.33,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": " "
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1924
+        ],
+        "saKhatianDetails": [
+            459
+        ],
+        "saDaagDetails": [
+            1924
+        ],
+        "rsKhatianDetails": [
+            419
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3199,
+                "perDeed": 29.33,
+                "perMutation": 29.33,
+                "perMortgage": 29.33
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2674",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "6,20,000.00",
+        "remarks": null
+    },
+    {
+        "id": "44",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Nurjahan Begum & Other",
+        "deedNo": "9586",
+        "date": "19-04-2011",
+        "landAreaPerDeed": 63.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1004",
+                "date": "26-01-1995"
+            },
+            {
+                "deedNo": "535",
+                "date": "16-01-2005"
+            },
+            {
+                "deedNo": "6898",
+                "date": "22-03-2011"
+            },
+            {
+                "deedNo": "8256",
+                "date": "05-04-2011"
+            },
+            {
+                "deedNo": "9109",
+                "date": "12-04-2011"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1868,
+            1868,
+            2002,
+            1999,
+            1999
+        ],
+        "saKhatianDetails": [
+            589
+        ],
+        "saDaagDetails": [
+            1868,
+            1868,
+            2002,
+            1999,
+            1999
+        ],
+        "rsKhatianDetails": [
+            89
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3102,
+                "perDeed": 2.50,
+                "perMutation": 2.50,
+                "perMortgage": 2.50
+            },
+            {
+                "rsDaag": 3103,
+                "perDeed": 2.50,
+                "perMutation": 2.50,
+                "perMortgage": 2.50
+            },
+            {
+                "rsDaag": 3041,
+                "perDeed": 12.40,
+                "perMutation": 12.40,
+                "perMortgage": 12.40
+            },
+            {
+                "rsDaag": 3042,
+                "perDeed": 29.10,
+                "perMutation": 29.10,
+                "perMortgage": 29.10
+            },
+            {
+                "rsDaag": 3120,
+                "perDeed": 9.50,
+                "perMutation": 9.50,
+                "perMortgage": 9.50
+            },
+            {
+                "rsDaag": 3127,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            },
+            {
+                "rsDaag": 3128,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2769",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "deedValue": "6,30,000.00",
+        "remarks": null
+    },
+    {
+        "id": "45",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Nurjahan Begum & Other",
+        "deedNo": "9586",
+        "date": "19-04-2011",
+        "landAreaPerDeed": 15.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1004",
+                "date": "26-01-1995"
+            },
+            {
+                "deedNo": "535",
+                "date": "16-01-2005"
+            },
+            {
+                "deedNo": "6898",
+                "date": "22-03-2011"
+            },
+            {
+                "deedNo": "8256",
+                "date": "05-04-2011"
+            },
+            {
+                "deedNo": "9109",
+                "date": "12-04-2011"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            7
+        ],
+        "saKhatianDetails": [
+            58
+        ],
+        "saDaagDetails": [
+            7
+        ],
+        "rsKhatianDetails": [
+            845
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 198,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3062",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "2,10,000.00",
+        "remarks": null
+    },
+    {
+        "id": "46",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Shabiya Allias Sufia Begum & Other",
+        "deedNo": "21216",
+        "date": "28-10-2010",
+        "landAreaPerDeed": 39.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7779",
+                "date": "28-07-1984"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            2294
+        ],
+        "saKhatianDetails": [
+            579
+        ],
+        "saDaagDetails": [
+            2294
+        ],
+        "rsKhatianDetails": [
+            1330
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5270,
+                "perDeed": 39.00,
+                "perMutation": 39.00,
+                "perMortgage": 39.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2589",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "6,63,000.00",
+        "remarks": null
+    },
+    {
+        "id": "47",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Umme Sultana Khatun",
+        "deedNo": "16776",
+        "date": "27-12-2020",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9138",
+                "date": "06-12-1966"
+            },
+            {
+                "deedNo": "10720",
+                "date": "15-12-1993"
+            },
+            {
+                "deedNo": "14706",
+                "date": "28-12-2008"
+            },
+            {
+                "deedNo": "2053",
+                "date": "03-02-2010"
+            },
+            {
+                "deedNo": "15320",
+                "date": "30-07-2013"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            9
+        ],
+        "saKhatianDetails": [
+            912
+        ],
+        "saDaagDetails": [
+            9
+        ],
+        "rsKhatianDetails": [
+            1009
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 14,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "4573",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "5,60,000.00",
+        "remarks": null
+    },
+    {
+        "id": "48",
+        "mouza": "Balusair",
+        "upazila": "Mahishasura",
+        "ps": "Narsingdi",
+        "destricted": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 78",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Harun Arshid",
+        "deedNo": "939",
+        "date": "20-01-2015",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "14824",
+                "date": "09-11-2009"
+            },
+            {
+                "deedNo": "16059",
+                "date": "07-09-2014"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            10
+        ],
+        "saKhatianDetails": [
+            951
+        ],
+        "saDaagDetails": [
+            10
+        ],
+        "rsKhatianDetails": [
+            126
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 23,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": null,
+        "khajna": null,
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": " ",
+        "deedValue": "4,35,000.00",
         "remarks": "Mutation has not been done yet."
     }
 ]
