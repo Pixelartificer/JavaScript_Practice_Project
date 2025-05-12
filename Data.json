@@ -1,5 +1,3 @@
-
-
 [
     {
         "id": "1",
@@ -96,17 +94,16 @@
         "surrounding": [
             {
                 "north": "Shiraj Uddin and Other",
-                "south": "Fojor Ali", 
+                "south": "Fojor Ali",
                 "east": "Ajgor Ali",
                 "west": "Momena Begom"
             },
             {
                 "north": "67 RS Daag",
-                "south": "Fojor Ali", 
+                "south": "Fojor Ali",
                 "east": "Anowar Hossain",
                 "west": "Habij Uddin"
             }
-
         ],
         "remarks": null
     },
@@ -178,7 +175,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Road", 
+                "south": "Road",
                 "east": "Anower and Other",
                 "west": "Sufia Begom"
             }
@@ -249,7 +246,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Sufia Begom and Other", 
+                "south": "Sufia Begom and Other",
                 "east": "Anar and Other",
                 "west": "Hafij Uddin"
             }
@@ -320,7 +317,7 @@
         "surrounding": [
             {
                 "north": "Road",
-                "south": "Abdol Goffur", 
+                "south": "Abdol Goffur",
                 "east": "Ayet Ali",
                 "west": "Sufiya Begom"
             }
@@ -457,7 +454,7 @@
         "surrounding": [
             {
                 "north": "Afaj Uddin and Other",
-                "south": "Abdur Rahman", 
+                "south": "Abdur Rahman",
                 "east": "Shona Miah",
                 "west": "Road"
             }
@@ -528,7 +525,7 @@
         "surrounding": [
             {
                 "north": "Obidul Haji",
-                "south": "Sadia Commissioner", 
+                "south": "Sadia Commissioner",
                 "east": "Haru Kaji and Other",
                 "west": "Obidul Haji"
             }
@@ -611,7 +608,7 @@
         "surrounding": [
             {
                 "north": "Robi Sheel",
-                "south": "Shorkari Hult", 
+                "south": "Shorkari Hult",
                 "east": "Rup Miah and Ibrahim",
                 "west": "Ibrahim and Other"
             }
@@ -682,7 +679,7 @@
         "surrounding": [
             {
                 "north": "Road",
-                "south": "Falu Kaji", 
+                "south": "Falu Kaji",
                 "east": "Afaj Uddin Muinshi",
                 "west": "Madrasha"
             }
@@ -757,7 +754,7 @@
         "surrounding": [
             {
                 "north": "Zakir and Other",
-                "south": "Amjad", 
+                "south": "Amjad",
                 "east": "Morsheda Begom",
                 "west": "Jamir Uddin"
             }
@@ -857,7 +854,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Moslem Miah and Other", 
+                "south": "Moslem Miah and Other",
                 "east": "U,S,L",
                 "west": "Ashik and Ahahed"
             }
@@ -936,7 +933,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -1019,7 +1016,7 @@
         "surrounding": [
             {
                 "north": "Najim Uddin",
-                "south": "Bashed", 
+                "south": "Bashed",
                 "east": "Bashed",
                 "west": "Somvu Babu"
             }
@@ -1090,7 +1087,7 @@
         "surrounding": [
             {
                 "north": "Sheakh Md. Rumon",
-                "south": "Samsu Uddin and Other", 
+                "south": "Samsu Uddin and Other",
                 "east": "Harun and Other",
                 "west": "Sheakh Md. Rumon"
             }
@@ -1165,7 +1162,7 @@
         "surrounding": [
             {
                 "north": "Belayet and Other",
-                "south": "Mofij Uddin and Other", 
+                "south": "Mofij Uddin and Other",
                 "east": "Parul Akter",
                 "west": "Ishak Mamun and Other"
             }
@@ -1240,7 +1237,7 @@
         "surrounding": [
             {
                 "north": "Jahid and Other",
-                "south": "Belayet and Shohorab and Other", 
+                "south": "Belayet and Shohorab and Other",
                 "east": "Joynal Miah",
                 "west": "Ishak Mamun and Other"
             }
@@ -1327,7 +1324,7 @@
         "surrounding": [
             {
                 "north": "Bashed and Other",
-                "south": "U,S,L", 
+                "south": "U,S,L",
                 "east": "U,S,L",
                 "west": "Ahad"
             }
@@ -1665,7 +1662,7 @@
         "surrounding": [
             {
                 "north": "Md. Ishak Mahmud and Other",
-                "south": "Road", 
+                "south": "Road",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Sky Land and Rail Road"
             }
@@ -1736,7 +1733,7 @@
         "surrounding": [
             {
                 "north": "Osman and Other",
-                "south": "Abdur Rahman Mowlovy", 
+                "south": "Abdur Rahman Mowlovy",
                 "east": "Ali Miah",
                 "west": "Ali Miah"
             }
@@ -1811,7 +1808,7 @@
         "surrounding": [
             {
                 "north": "Enamul Haque",
-                "south": "Kaykobad", 
+                "south": "Kaykobad",
                 "east": "Abdol Aziz",
                 "west": "Enamul Haque"
             }
@@ -1887,7 +1884,7 @@
         "surrounding": [
             {
                 "north": "Minnot Miah and Other",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mojammel and Other",
                 "west": "Enamul and Other"
             }
@@ -1972,13 +1969,13 @@
         "surrounding": [
             {
                 "north": "Hanif and Other",
-                "south": "Jamila Begum", 
+                "south": "Jamila Begum",
                 "east": "Other Mouja",
                 "west": "Kodom Ali Master"
             },
             {
                 "north": "Shofie and Other",
-                "south": "Mostak and Other", 
+                "south": "Mostak and Other",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -2055,13 +2052,13 @@
         "surrounding": [
             {
                 "north": "Nannu and Other",
-                "south": "Ishak Mamun and Other", 
+                "south": "Ishak Mamun and Other",
                 "east": "Haji Md. Belayet Hossain and Other",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             },
             {
                 "north": "Md. Bokul Prodan",
-                "south": "Minhaj Uddin and Other", 
+                "south": "Minhaj Uddin and Other",
                 "east": "Kadir Master",
                 "west": "Ishak Mamun and Other"
             }
@@ -2132,7 +2129,7 @@
         "surrounding": [
             {
                 "north": "Sheakh Md. Rumon and Other",
-                "south": "Sheak md Rumon and Other", 
+                "south": "Sheak md Rumon and Other",
                 "east": "Sheak md Rumon",
                 "west": "Junayed Builders"
             }
@@ -2213,7 +2210,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -2483,7 +2480,7 @@
         "surrounding": [
             {
                 "north": "Md. Ishak Mamun and Other",
-                "south": "Road", 
+                "south": "Road",
                 "east": "Other Mouja",
                 "west": "Sky Land and Rail Road"
             }
@@ -2600,13 +2597,13 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Moti Miah", 
+                "south": "Moti Miah",
                 "east": "Abdul Based",
                 "west": "AbdulBashed and Other"
             },
             {
                 "north": "Monjur Elahi",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Bahar Uddin and Other",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -2693,7 +2690,7 @@
         "surrounding": [
             {
                 "north": "Shofu Uddin",
-                "south": "Asad Fakir", 
+                "south": "Asad Fakir",
                 "east": "Kaji Fojlul Haque",
                 "west": "Jaynal"
             }
@@ -2778,7 +2775,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -2849,7 +2846,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -2920,7 +2917,7 @@
         "surrounding": [
             {
                 "north": "Jamal",
-                "south": "Tofura", 
+                "south": "Tofura",
                 "east": "Tofura",
                 "west": "Alam Bhuiyan"
             }
@@ -2999,7 +2996,7 @@
         "surrounding": [
             {
                 "north": "Hashen",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Nasir Uddin",
                 "west": "Almok Mhuiyan"
             }
@@ -3070,7 +3067,7 @@
         "surrounding": [
             {
                 "north": "Mostofa and Other",
-                "south": "Khodeja and Other", 
+                "south": "Khodeja and Other",
                 "east": "Adab Ali",
                 "west": "Sahin and Other"
             }
@@ -3169,7 +3166,7 @@
         "surrounding": [
             {
                 "north": "Rehena Begum",
-                "south": "Moti Miah and Other", 
+                "south": "Moti Miah and Other",
                 "east": "Suraiyah Begum",
                 "west": "Harun ur Rashid"
             }
@@ -3266,7 +3263,7 @@
         "surrounding": [
             {
                 "north": "Md. Abul Hossain",
-                "south": "Road", 
+                "south": "Road",
                 "east": "Mst. Samsunahher Begum",
                 "west": "Kaje Mohammed Mostak Begum"
             }
@@ -3395,37 +3392,37 @@
         "surrounding": [
             {
                 "north": "Kandu",
-                "south": "Zinnot Ali", 
+                "south": "Zinnot Ali",
                 "east": "Wohab",
                 "west": "Hafij Uddin"
             },
             {
                 "north": "Bill",
-                "south": "Monta", 
+                "south": "Monta",
                 "east": "Seddik",
                 "west": "Kalu"
             },
             {
                 "north": "Road",
-                "south": "Khalek and Other", 
+                "south": "Khalek and Other",
                 "east": "Haje Lal Miah",
                 "west": "Khakek"
             },
             {
                 "north": "Road",
-                "south": "Kandu", 
+                "south": "Kandu",
                 "east": "Methun",
                 "west": "Rofik"
             },
             {
                 "north": "Kalu",
-                "south": "Kalu", 
+                "south": "Kalu",
                 "east": "Lal Miah",
                 "west": "Zakariah"
             },
             {
                 "north": "Hashem",
-                "south": "", 
+                "south": "",
                 "east": "Omor Ali",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -3456,9 +3453,7 @@
         "csDaagDetails": [
             1934
         ],
-        "saKhatianDetails": [
-            
-        ],
+        "saKhatianDetails": [],
         "saDaagDetails": [
             1934
         ],
@@ -3496,7 +3491,7 @@
         "surrounding": [
             {
                 "north": "Md. Nasir",
-                "south": "Other Mouja", 
+                "south": "Other Mouja",
                 "east": "Other Mouja",
                 "west": "Amir ALi"
             }
@@ -3567,7 +3562,7 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Hamed and Other",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -3646,7 +3641,7 @@
         "surrounding": [
             {
                 "north": "Dudu Miah",
-                "south": "Seraj Miah", 
+                "south": "Seraj Miah",
                 "east": "ABdul Hashem",
                 "west": "Meshir ALi"
             }
@@ -3717,7 +3712,7 @@
         "surrounding": [
             {
                 "north": "Sheddik",
-                "south": "Haji Sadot Ali", 
+                "south": "Haji Sadot Ali",
                 "east": "Mosta and Other",
                 "west": "Akkil Ali"
             }
@@ -3972,82 +3967,82 @@
         "surrounding": [
             {
                 "north": "Awal",
-                "south": "Holt", 
+                "south": "Holt",
                 "east": "Chunni Babu",
                 "west": "Ala Uddin"
             },
             {
                 "north": "Afaj Uddin",
-                "south": "Chunni Banu", 
+                "south": "Chunni Banu",
                 "east": "Omor Ali",
                 "west": "Degedrow"
             },
             {
                 "north": "Tahir Khandaker",
-                "south": "Alfaj Uddin", 
+                "south": "Alfaj Uddin",
                 "east": "Bojlur Rahman Bhuiyan",
                 "west": "Bojlur Rahman Bhuiyan"
             },
             {
                 "north": "Abdul Salam and Other",
-                "south": "Hossain Ali", 
+                "south": "Hossain Ali",
                 "east": "Abdul Baten",
                 "west": "Nejam Uddin"
             },
             {
                 "north": "Haji Mobarok",
-                "south": "Moksud Ali", 
+                "south": "Moksud Ali",
                 "east": "Hannan Master",
                 "west": "Adam Ali and Other"
             },
             {
                 "north": "Nashir and Other",
-                "south": "Abdul Hai", 
+                "south": "Abdul Hai",
                 "east": "Omrah",
                 "west": "Momen and Other"
             },
             {
                 "north": "Khas Jomi",
-                "south": "Sahaj Uddin and Other", 
+                "south": "Sahaj Uddin and Other",
                 "east": "Kalu and Other",
                 "west": "Road"
             },
             {
                 "north": "Khaher Ali",
-                "south": "Omor Ali and Other", 
+                "south": "Omor Ali and Other",
                 "east": "Oaj Uddin and Other",
                 "west": "Fadu and Other"
             },
             {
                 "north": "Sultan and Other",
-                "south": "Kanai and Other", 
+                "south": "Kanai and Other",
                 "east": "Oaj Uddin and Other",
                 "west": "Kash Jomi"
             },
             {
                 "north": "Abu Sayid and Other",
-                "south": "Kalu Miah", 
+                "south": "Kalu Miah",
                 "east": "Sheddik",
                 "west": "Aisher Maa and Other"
             },
             {
                 "north": "Monta and Other",
-                "south": "Monta Miah", 
+                "south": "Monta Miah",
                 "east": "Haji Lal Miah",
                 "west": "Sheddik and Other"
             },
             {
                 "north": "Amir Ali",
-                "south": "Amir ALi", 
+                "south": "Amir ALi",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Amir Ali"
             },
             {
                 "north": "Md Nashir",
-                "south": "Other Mouja", 
+                "south": "Other Mouja",
                 "east": "Other Mouja",
                 "west": "Amir ALi"
-            }            
+            }
         ],
         "remarks": "The total land area mentioned in the deed is 309.84 decimals, and it is mortgaged with Agrani Bank. However, as per the deed records obtained from Madhabdi, mutation has been found for only 119.50 decimals of land."
     },
@@ -4075,9 +4070,7 @@
         "csDaagDetails": [
             1255
         ],
-        "saKhatianDetails": [
-            
-        ],
+        "saKhatianDetails": [],
         "saDaagDetails": [
             1255
         ],
@@ -4115,7 +4108,7 @@
         "surrounding": [
             {
                 "north": "Kaji Monir Hossain",
-                "south": "Kalai Miah", 
+                "south": "Kalai Miah",
                 "east": "Hamed and Other",
                 "west": "Ismail and Other"
             }
@@ -4186,7 +4179,7 @@
         "surrounding": [
             {
                 "north": "Shayed and Other",
-                "south": "Sheddik", 
+                "south": "Sheddik",
                 "east": "Nur Isalm and Other",
                 "west": "Khorshed and Other"
             }
@@ -4257,7 +4250,7 @@
         "surrounding": [
             {
                 "north": "Amir Ali",
-                "south": "Amir Ali", 
+                "south": "Amir Ali",
                 "east": "Amir Ali",
                 "west": "Fojor Ali"
             }
@@ -4388,19 +4381,19 @@
         "surrounding": [
             {
                 "north": "Mohammed Fayazur Rahman Bhuiyan",
-                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Oaj Uddin",
                 "west": "Kash Jomi"
             },
             {
                 "north": "Lal Miah and Other",
-                "south": "Habib and Other", 
+                "south": "Habib and Other",
                 "east": "Ala Uddin and Other",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             },
             {
                 "north": "Kadman and Other",
-                "south": "Abdul (Kodoma) and Other", 
+                "south": "Abdul (Kodoma) and Other",
                 "east": "Khalek",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
@@ -4487,7 +4480,7 @@
         "surrounding": [
             {
                 "north": "Kadam Master",
-                "south": "Mojnu and Other", 
+                "south": "Mojnu and Other",
                 "east": "Rahamat Khan",
                 "west": "Md Ishak Mamun and Other"
             }
@@ -4558,7 +4551,7 @@
         "surrounding": [
             {
                 "north": "Miraj Kaji",
-                "south": "Lahindi", 
+                "south": "Lahindi",
                 "east": "Nashir Khan",
                 "west": "Tota Miah"
             }
@@ -4645,7 +4638,7 @@
         "surrounding": [
             {
                 "north": "Raton Gazi",
-                "south": "Shawkat and Other", 
+                "south": "Shawkat and Other",
                 "east": "Sarawar",
                 "west": "Kadom Master"
             }
@@ -4720,7 +4713,7 @@
         "surrounding": [
             {
                 "north": "Meraj Uddin",
-                "south": "Sahida Begom", 
+                "south": "Sahida Begom",
                 "east": "Shobder Ali and Other",
                 "west": "Geyas Uddin"
             }
@@ -4751,9 +4744,7 @@
         "csDaagDetails": [
             "2/A"
         ],
-        "saKhatianDetails": [
-            
-        ],
+        "saKhatianDetails": [],
         "saDaagDetails": [
             "2/A"
         ],
@@ -4791,11 +4782,525 @@
         "surrounding": [
             {
                 "north": "",
-                "south": "", 
+                "south": "",
                 "east": "",
                 "west": ""
             }
         ],
         "remarks": "Plot-2A, Road- 2/1, 6th Floor, A-7, Banani, Gawsia Jui Garden. The document has been mortgaged through a tripartite agreement, and despite many attempts, it has not been possible to complete the mutation (name transfer) under various names."
+    },
+    {
+        "id": "50",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hazrat Ali",
+        "deedNo": "7259",
+        "date": "27-03-2012",
+        "landAreaPerDeed": 26.38,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11285",
+                "date": "08-09-2009"
+            },
+            {
+                "deedNo": "15884",
+                "date": "20-11-2009"
+            },
+            {
+                "deedNo": "412",
+                "date": "09-01-2011"
+            },
+            {
+                "deedNo": "12367",
+                "date": "22-05-2011"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            ""
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            ""
+        ],
+        "rsKhatianDetails": [
+            769,
+            775
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2395,
+                "perDeed": 4.66,
+                "perMutation": 4.66,
+                "perMortgage": 4.66
+            },
+            {
+                "rsDaag": 2402,
+                "perDeed": 7.34,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 2399,
+                "perDeed": 14.38,
+                "perMutation": 14.38,
+                "perMortgage": 14.38
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3438",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3438",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "30,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "51",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Humayan Kabir Patan",
+        "deedNo": "9425",
+        "date": "22-04-2012",
+        "landAreaPerDeed": 25.83,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1204
+        ],
+        "saKhatianDetails": [
+            225
+        ],
+        "saDaagDetails": [
+            1204
+        ],
+        "rsKhatianDetails": [
+            111
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2399,
+                "perDeed": 15.83,
+                "perMutation": 15.83,
+                "perMortgage": 15.83
+            },
+            {
+                "rsDaag": 2406,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2699",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2699",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "30,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "52",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Heba",
+        "jlNumber": "R S- 111",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "285",
+        "date": "08-01-2015",
+        "landAreaPerDeed": 19.84,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4442",
+                "date": "26-02-2012"
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1215,
+            1226
+        ],
+        "saKhatianDetails": [
+            225
+        ],
+        "saDaagDetails": [
+            1215,
+            1226
+        ],
+        "rsKhatianDetails": [
+            3439
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2410,
+                "perDeed": 8.50,
+                "perMutation": 8.50,
+                "perMortgage": 8.50
+            },
+            {
+                "rsDaag": 2404,
+                "perDeed": 5.67,
+                "perMutation": 5.67,
+                "perMortgage": 5.67
+            },
+            {
+                "rsDaag": 2405,
+                "perDeed": 5.67,
+                "perMutation": 5.67,
+                "perMortgage": 8.01
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3475",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3475",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "45,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "In this deed, the amount of land purchased through Heba (gift) is 19.84 decimals. However, when the mortgage was executed, an additional 2.34 decimals of land inherited by succession was added to it, making the total mortgaged land 19.84 decimals. Therefore, there is a discrepancy between the amount of land purchased and the amount of land mortgaged in the deed."
+    },
+    {
+        "id": "53",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mahmudur Rahman Bhuiyan",
+        "deedNo": "5273",
+        "date": "29-05-2005",
+        "landAreaPerDeed": 12.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": null,
+        "csDaagDetails": [
+            1208,
+            1214
+        ],
+        "saKhatianDetails": [
+            225
+        ],
+        "saDaagDetails": [
+            1208,
+            1214
+        ],
+        "rsKhatianDetails": [
+            694,
+            111,
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2417,
+                "perDeed": 7.30,
+                "perMutation": 7.30,
+                "perMortgage": 7.30
+            },
+            {
+                "rsDaag": 2415,
+                "perDeed": 4.90,
+                "perMutation": 4.90,
+                "perMortgage": 4.90
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "750/B",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1310",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "1,96,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Sohedulla",
+                "south": "Mahfujur Rahman Bhuiyan",
+                "east": "Pond and Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "54",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Ms. Zakia Begum & Other",
+        "deedNo": "10931",
+        "date": "04-09-2009",
+        "landAreaPerDeed": 17.15,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "104/1",
+        "csDaagDetails": [
+            1214,
+            1208
+        ],
+        "saKhatianDetails": [
+            50,
+            49
+        ],
+        "saDaagDetails": [
+            1214,
+            1208
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2415,
+                "perDeed": 13.47,
+                "perMutation": 13.47,
+                "perMortgage": 13.47
+            },
+            {
+                "rsDaag": 2417,
+                "perDeed": 3.68,
+                "perMutation": 3.68,
+                "perMortgage": 3.68
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2040",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "2040",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "6,52,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "55",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Ms. Zakia Begum & Other",
+        "deedNo": "3290",
+        "date": "22-02-2010",
+        "landAreaPerDeed": 12.36,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "15884",
+                "date": "20-11-2009"
+            },
+            {
+                "deedNo": "11285",
+                "date": "08-09-2009"
+            }
+        ],
+        "csKhatianDetails": "104/1",
+        "csDaagDetails": [
+            1229, 1227, 1204, 1228
+            
+        ],
+        "saKhatianDetails": [
+            596, 603
+            
+        ],
+        "saDaagDetails": [
+            1229, 1227, 1204, 1228
+        ],
+        "rsKhatianDetails": [
+            769,
+            775
+            
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2395,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            },
+            {
+                "rsDaag": 2402,
+                "perDeed": 2.50,
+                "perMutation": 0.00,
+                "perMortgage": 2.50
+            },
+            {
+                "rsDaag": 2399,
+                "perDeed": 5.50,
+                "perMutation": 5.50,
+                "perMortgage": 5.50
+            },
+            {
+                "rsDaag": 2403,
+                "perDeed": 2.66,
+                "perMutation": 2.66,
+                "perMortgage": 2.55
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2246",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2246",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "20,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan and Other"
+            }
+        ],
+        "remarks": null
     }
 ]
