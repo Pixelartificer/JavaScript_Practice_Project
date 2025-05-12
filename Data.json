@@ -90,7 +90,7 @@
         "holdingNo": "902",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "1,80,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -1726,8 +1726,8 @@
         ],
         "rsMutationNo": "8569",
         "brsMutationNo": null,
-        "khajna": "8569",
-        "holdingNo": null,
+        "khajna": null,
+        "holdingNo": "8569",
         "type": "Certified copy",
         "mortgageBank": "BD Finance",
         "borrowerName": "Ainoon Trade House Ltd.",
@@ -2911,7 +2911,7 @@
         "rsMutationNo": "3622",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3622",
         "type": "Original",
         "mortgageBank": "Southeast Bank Ltd.",
         "borrowerName": "Jaj Bhuiyan Textile Mills",
@@ -2919,10 +2919,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Jamal",
+                "south": "Tofura", 
+                "east": "Tofura",
+                "west": "Alam Bhuiyan"
             }
         ],
         "remarks": null
@@ -2990,7 +2990,7 @@
         "rsMutationNo": "3673",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3673",
         "type": "Original",
         "mortgageBank": "Southeast Bank Ltd.",
         "borrowerName": "Jaj Bhuiyan Textile Mills",
@@ -2998,10 +2998,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Hashen",
+                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "east": "Nasir Uddin",
+                "west": "Almok Mhuiyan"
             }
         ],
         "remarks": null
@@ -3061,7 +3061,7 @@
         "rsMutationNo": "3082",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3082",
         "type": "Original",
         "mortgageBank": "Al Arafah Islami Bank Ltd.",
         "borrowerName": "Jaj Bhuiyan Textile Mills",
@@ -3069,10 +3069,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Mostofa and Other",
+                "south": "Khodeja and Other", 
+                "east": "Adab Ali",
+                "west": "Sahin and Other"
             }
         ],
         "remarks": null
@@ -3160,7 +3160,7 @@
         "rsMutationNo": "3687",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3687",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
         "borrowerName": "FM Textile & Yarn Trading",
@@ -3168,10 +3168,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Rehena Begum",
+                "south": "Moti Miah and Other", 
+                "east": "Suraiyah Begum",
+                "west": "Harun ur Rashid"
             }
         ],
         "remarks": null
@@ -3257,7 +3257,7 @@
         "rsMutationNo": "2503",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2503",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "M M Knitting & Embroidery",
@@ -3265,10 +3265,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Md. Abul Hossain",
+                "south": "Road", 
+                "east": "Mst. Samsunahher Begum",
+                "west": "Kaje Mohammed Mostak Begum"
             }
         ],
         "remarks": "In this deed, land was purchased under two RS plot numbers, but the mutation has been done for all the property under a single plot number, which may need to be corrected."
@@ -3386,7 +3386,7 @@
         "rsMutationNo": "2962",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2962",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "M M Knitting & Embroidery",
@@ -3394,10 +3394,40 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
+                "north": "Kandu",
+                "south": "Zinnot Ali", 
+                "east": "Wohab",
+                "west": "Hafij Uddin"
+            },
+            {
+                "north": "Bill",
+                "south": "Monta", 
+                "east": "Seddik",
+                "west": "Kalu"
+            },
+            {
+                "north": "Road",
+                "south": "Khalek and Other", 
+                "east": "Haje Lal Miah",
+                "west": "Khakek"
+            },
+            {
+                "north": "Road",
+                "south": "Kandu", 
+                "east": "Methun",
+                "west": "Rofik"
+            },
+            {
+                "north": "Kalu",
+                "south": "Kalu", 
+                "east": "Lal Miah",
+                "west": "Zakariah"
+            },
+            {
+                "north": "Hashem",
                 "south": "", 
-                "east": "",
-                "west": ""
+                "east": "Omor Ali",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
         ],
         "remarks": null
@@ -3457,7 +3487,7 @@
         "rsMutationNo": "2962",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2962",
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "M M Knitting & Embroidery",
@@ -3465,10 +3495,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Md. Nasir",
+                "south": "Other Mouja", 
+                "east": "Other Mouja",
+                "west": "Amir ALi"
             }
         ],
         "remarks": null
@@ -3528,7 +3558,7 @@
         "rsMutationNo": "3328",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3328",
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "M M Knitting & Embroidery",
@@ -3536,10 +3566,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "east": "Hamed and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
         ],
         "remarks": null
@@ -3607,18 +3637,18 @@
         "rsMutationNo": "2649",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2649",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "2,25,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Dudu Miah",
+                "south": "Seraj Miah", 
+                "east": "ABdul Hashem",
+                "west": "Meshir ALi"
             }
         ],
         "remarks": null
@@ -3678,18 +3708,18 @@
         "rsMutationNo": "2649",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2649",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "6,70,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Sheddik",
+                "south": "Haji Sadot Ali", 
+                "east": "Mosta and Other",
+                "west": "Akkil Ali"
             }
         ],
         "remarks": null
@@ -3702,7 +3732,7 @@
         "district": "Narsingdi",
         "deedType": "Safkabla",
         "jlNumber": "R S- 78",
-        "buyer": "Mahaid Expo International Textile Ltd",
+        "buyer": "Mahaid Expo International Textile Ltd.",
         "seller": "Jaj Spinning Mils Ltd.",
         "deedNo": "19068",
         "date": "23-08-2011",
@@ -3933,19 +3963,91 @@
         "rsMutationNo": "2678",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2678",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "31,00,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
-            }
+                "north": "Awal",
+                "south": "Holt", 
+                "east": "Chunni Babu",
+                "west": "Ala Uddin"
+            },
+            {
+                "north": "Afaj Uddin",
+                "south": "Chunni Banu", 
+                "east": "Omor Ali",
+                "west": "Degedrow"
+            },
+            {
+                "north": "Tahir Khandaker",
+                "south": "Alfaj Uddin", 
+                "east": "Bojlur Rahman Bhuiyan",
+                "west": "Bojlur Rahman Bhuiyan"
+            },
+            {
+                "north": "Abdul Salam and Other",
+                "south": "Hossain Ali", 
+                "east": "Abdul Baten",
+                "west": "Nejam Uddin"
+            },
+            {
+                "north": "Haji Mobarok",
+                "south": "Moksud Ali", 
+                "east": "Hannan Master",
+                "west": "Adam Ali and Other"
+            },
+            {
+                "north": "Nashir and Other",
+                "south": "Abdul Hai", 
+                "east": "Omrah",
+                "west": "Momen and Other"
+            },
+            {
+                "north": "Khas Jomi",
+                "south": "Sahaj Uddin and Other", 
+                "east": "Kalu and Other",
+                "west": "Road"
+            },
+            {
+                "north": "Khaher Ali",
+                "south": "Omor Ali and Other", 
+                "east": "Oaj Uddin and Other",
+                "west": "Fadu and Other"
+            },
+            {
+                "north": "Sultan and Other",
+                "south": "Kanai and Other", 
+                "east": "Oaj Uddin and Other",
+                "west": "Kash Jomi"
+            },
+            {
+                "north": "Abu Sayid and Other",
+                "south": "Kalu Miah", 
+                "east": "Sheddik",
+                "west": "Aisher Maa and Other"
+            },
+            {
+                "north": "Monta and Other",
+                "south": "Monta Miah", 
+                "east": "Haji Lal Miah",
+                "west": "Sheddik and Other"
+            },
+            {
+                "north": "Amir Ali",
+                "south": "Amir ALi", 
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Amir Ali"
+            },
+            {
+                "north": "Md Nashir",
+                "south": "Other Mouja", 
+                "east": "Other Mouja",
+                "west": "Amir ALi"
+            }            
         ],
         "remarks": "The total land area mentioned in the deed is 309.84 decimals, and it is mortgaged with Agrani Bank. However, as per the deed records obtained from Madhabdi, mutation has been found for only 119.50 decimals of land."
     },
@@ -4007,15 +4109,15 @@
         "holdingNo": null,
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "10,30,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Kaji Monir Hossain",
+                "south": "Kalai Miah", 
+                "east": "Hamed and Other",
+                "west": "Ismail and Other"
             }
         ],
         "remarks": "The deed is mortgaged with Agrani Bank, but the mutation khatian could not be found in the deed records obtained from Madhabdi."
@@ -4075,18 +4177,18 @@
         "rsMutationNo": "2674",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2674",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "4,40,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Shayed and Other",
+                "south": "Sheddik", 
+                "east": "Nur Isalm and Other",
+                "west": "Khorshed and Other"
             }
         ],
         "remarks": null
@@ -4146,18 +4248,18 @@
         "rsMutationNo": "2674",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2674",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "6,20,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Amir Ali",
+                "south": "Amir Ali", 
+                "east": "Amir Ali",
+                "west": "Fojor Ali"
             }
         ],
         "remarks": null
@@ -4277,18 +4379,30 @@
         "rsMutationNo": "2769",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2769",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahaid Expo International Textile Ltd",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "6,30,000.00",
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan", 
+                "east": "Oaj Uddin",
+                "west": "Kash Jomi"
+            },
+            {
+                "north": "Lal Miah and Other",
+                "south": "Habib and Other", 
+                "east": "Ala Uddin and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Kadman and Other",
+                "south": "Abdul (Kodoma) and Other", 
+                "east": "Khalek",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
         ],
         "remarks": null
@@ -4364,7 +4478,7 @@
         "rsMutationNo": "3062",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "3062",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "JM Classic Fashion Ltd.",
@@ -4372,10 +4486,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Kadam Master",
+                "south": "Mojnu and Other", 
+                "east": "Rahamat Khan",
+                "west": "Md Ishak Mamun and Other"
             }
         ],
         "remarks": null
@@ -4435,7 +4549,7 @@
         "rsMutationNo": "2589",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "2589",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "Mutual Concern corporation Ltd.",
@@ -4443,10 +4557,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Miraj Kaji",
+                "south": "Lahindi", 
+                "east": "Nashir Khan",
+                "west": "Tota Miah"
             }
         ],
         "remarks": null
@@ -4522,7 +4636,7 @@
         "rsMutationNo": "4573",
         "brsMutationNo": null,
         "khajna": "1427",
-        "holdingNo": null,
+        "holdingNo": "4573",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
         "borrowerName": "Mutual Concern corporation Ltd.",
@@ -4530,10 +4644,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Raton Gazi",
+                "south": "Shawkat and Other", 
+                "east": "Sarawar",
+                "west": "Kadom Master"
             }
         ],
         "remarks": null
@@ -4605,10 +4719,10 @@
         "mortgageValue": "",
         "surrounding": [
             {
-                "north": "",
-                "south": "", 
-                "east": "",
-                "west": ""
+                "north": "Meraj Uddin",
+                "south": "Sahida Begom", 
+                "east": "Shobder Ali and Other",
+                "west": "Geyas Uddin"
             }
         ],
         "remarks": "Mutation has not been done yet."

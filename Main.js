@@ -209,8 +209,31 @@ const number = [2, 54, 8, 6, 4, 9, 52, 92, 72, 84];
 // console.log(newNumber);
 
 
-const a = Array.from('abcdefg');
-console.log(a)
+// const a = Array.from('abcdefg');
+// console.log(a)
 
-const b = a[2];
-console.log(b);
+// const b = a[2];
+// console.log(b);
+
+// const d = new Date("2025-03-25");
+// const e = d.getFullYear();
+
+// document.getElementById("main").innerHTML = e;
+
+// const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+// const d = new Date("2021-06-25");
+// let month = months[d.getMonth()];
+
+// document.getElementById("main").innerHTML = month;
+
+function myRandomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
+  }
+
+  function displayRandomNumber() {
+    const result =  myRandomNumber(1, 6);
+    document.getElementById("main").innerHTML = result;
+  }
+ 
+
