@@ -4792,7 +4792,7 @@
     {
         "id": "50",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Awaj Benemoy",
@@ -4886,7 +4886,7 @@
     {
         "id": "51",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Awaj Benemoy",
@@ -4963,7 +4963,7 @@
     {
         "id": "52",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Heba",
@@ -5048,7 +5048,7 @@
     {
         "id": "53",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Safkabla",
@@ -5129,7 +5129,7 @@
     {
         "id": "54",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Safkabla",
@@ -5209,7 +5209,7 @@
     {
         "id": "55",
         "mouza": "Boro Nowpara",
-        "upazila": "Narsingdi",
+        "upazila": "Nuralapur",
         "ps": "Madhabdi",
         "district": "Narsingdi",
         "deedType": "Safkabla",
@@ -5232,20 +5232,24 @@
         ],
         "csKhatianDetails": "104/1",
         "csDaagDetails": [
-            1229, 1227, 1204, 1228
-            
+            1229,
+            1227,
+            1204,
+            1228
         ],
         "saKhatianDetails": [
-            596, 603
-            
+            596,
+            603
         ],
         "saDaagDetails": [
-            1229, 1227, 1204, 1228
+            1229,
+            1227,
+            1204,
+            1228
         ],
         "rsKhatianDetails": [
             769,
             775
-            
         ],
         "rsDaagDetails": [
             {
@@ -5299,6 +5303,487 @@
                 "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "56",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Hazrat Ali",
+        "deedNo": "11306",
+        "date": "11-09-2009",
+        "landAreaPerDeed": 5.34,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1226
+        ],
+        "saKhatianDetails": [
+            596
+        ],
+        "saDaagDetails": [
+            1226
+        ],
+        "rsKhatianDetails": [
+            775
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2403,
+                "perDeed": 5.34,
+                "perMutation": 5.34,
+                "perMortgage": 5.34
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2040",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "2040",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "24,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Road",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Hazrat Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "57",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mrs. Samsunahar",
+        "deedNo": "15813",
+        "date": "13-07-2011",
+        "landAreaPerDeed": 5.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2621,
+                "perDeed": 5.25,
+                "perMutation": 5.25,
+                "perMortgage": 5.25
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2544",
+        "brsMutationNo": null,
+        "khajna": "1426",
+        "holdingNo": "2544",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "4,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "58",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md Anower Hossain",
+        "deedNo": "8258",
+        "date": "04-04-2011",
+        "landAreaPerDeed": 29.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "235",
+                "date": "12-01-1999"
+            },
+            {
+                "deedNo": "6036",
+                "date": "07-07-1999"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1211,
+            1212,
+            1214,
+            1208
+        ],
+        "saKhatianDetails": [
+            208,
+            50
+        ],
+        "saDaagDetails": [
+            1211,
+            1212,
+            1214,
+            1208
+        ],
+        "rsKhatianDetails": [
+            694,
+            "94/B"
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 12.06,
+                "perMutation": 12.06,
+                "perMortgage": 12.06
+            },
+            {
+                "rsDaag": 2415,
+                "perDeed": 13.64,
+                "perMutation": 13.64,
+                "perMortgage": 13.64
+            },
+            {
+                "rsDaag": 2417,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2471",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "2471",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "16,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "59",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Moajam Hoassain & Other",
+        "deedNo": "16921",
+        "date": "26-07-2011",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9815",
+                "date": "06-11-2006"
+            },
+            {
+                "deedNo": "10761",
+                "date": "10-12-2007"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1211,
+            1211
+        ],
+        "saKhatianDetails": [
+            208
+        ],
+        "saDaagDetails": [
+            1211,
+            1211
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2413,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 2414,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2544",
+        "brsMutationNo": null,
+        "khajna": "1426",
+        "holdingNo": "2544",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "7,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "60",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mahfuzur Rahman Bhuiyan",
+        "deedNo": "14786",
+        "date": "02-08-2010",
+        "landAreaPerDeed": 10.52,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+           
+        ],
+        "saKhatianDetails": [
+         
+        ],
+        "saDaagDetails": [
+          
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2413,
+                "perDeed": 0.95,
+                "perMutation": 0.95,
+                "perMortgage": 0
+            },
+            {
+                "rsDaag": 2409,
+                "perDeed": 0.57,
+                "perMutation": 0.57,
+                "perMortgage": 0.57
+            },
+            {
+                "rsDaag": 2410,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": 9.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2331",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2331",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "6,55,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "In the deed, the purchased property amounts to 10.52 decimals, but only 9.57 decimals have been mortgaged. 0.95 decimals of land in RS Dag No. 2408 have not been mutated"
+    },
+    {
+        "id": "61",
+        "mouza": "Boro Nowpara",
+        "upazila": "Nuralapur",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jakir Hossain",
+        "deedNo": "11792",
+        "date": "11-05-2011",
+        "landAreaPerDeed": 6.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2071",
+                "date": "22-03-2006"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1208,  1208
+            
+        ],
+        "saKhatianDetails": [
+         50
+        ],
+        "saDaagDetails": [
+            1208,  1208
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2417,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 2421,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2471",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "2471",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mujebur Rahman Bhuiyan (Mogol)",
+                "east": "Bachu Bhuiyan",
+                "west": "Mujebur Rahman Bhuiyan (Mogol)"
+            },
+            {
+                "north": "Bachu Bhuiyan",
+                "south": "Mujebur Rahman Bhuiyan (Mogol)",
+                "east": "RS 2417 No Daag",
+                "west": "Road"
             }
         ],
         "remarks": null
