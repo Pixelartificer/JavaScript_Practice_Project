@@ -8138,7 +8138,7 @@
             916
         ],
         "saDaagDetails": [
-         46
+            46
         ],
         "rsKhatianDetails": [
             602
@@ -8164,7 +8164,7 @@
         ],
         "rsMutationNo": "2698",
         "brsMutationNo": null,
-        "khajna": "1424",
+        "khajna": "1427",
         "holdingNo": "2698",
         "type": "Original",
         "mortgageBank": "Al Arafah Islami Bank Ltd.",
@@ -8177,6 +8177,632 @@
                 "south": "Md. Moksed Ali",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Md. Hoshan Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "91",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Samsuddin & Other",
+        "deedNo": "27286",
+        "date": "13-12-2011",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1183
+        ],
+        "saKhatianDetails": [
+            259
+        ],
+        "saDaagDetails": [
+            1183
+        ],
+        "rsKhatianDetails": [
+            281
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2618,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2572",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2572",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "2,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Pronity",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The deed shows RS Dag No. 1618, but there is no such dag with this number in the Mouza map. The correct RS Dag should be RS 2618. The deed needs to be corrected accordingly."
+    },
+    {
+        "id": "92",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Sedikka Begum",
+        "deedNo": "10097",
+        "date": "03-06-2014",
+        "landAreaPerDeed": 8.85,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            112,
+            "105/1561"
+        ],
+        "saKhatianDetails": [
+            839,
+            245
+        ],
+        "saDaagDetails": [
+            112,
+            "105/1561"
+        ],
+        "rsKhatianDetails": [
+            119,
+            118
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 221,
+                "perDeed": 2.25,
+                "perMutation": 2.25,
+                "perMortgage": 2.25
+            },
+            {
+                "rsDaag": 107,
+                "perDeed": 1.40,
+                "perMutation": 1.40,
+                "perMortgage": 1.40
+            },
+            {
+                "rsDaag": 108,
+                "perDeed": 1.60,
+                "perMutation": 1.60,
+                "perMortgage": 1.60
+            },
+            {
+                "rsDaag": 109,
+                "perDeed": 1.20,
+                "perMutation": 1.20,
+                "perMortgage": 1.20
+            },
+            {
+                "rsDaag": 111,
+                "perDeed": 0.85,
+                "perMutation": 0.85,
+                "perMortgage": 0.85
+            },
+            {
+                "rsDaag": 115,
+                "perDeed": 1.55,
+                "perMutation": 1.55,
+                "perMortgage": 1.55
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3309",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3309",
+        "type": "Original",
+        "mortgageBank": "IIDFC",
+        "borrowerName": "Jb Auto Cars.",
+        "deedValue": "18,41,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Almas",
+                "east": "Road",
+                "west": "Adibur and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "93",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahjahan Miah & Other",
+        "deedNo": "9384",
+        "date": "25-05-2014",
+        "landAreaPerDeed": 10.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1318",
+                "date": "06-02-1991"
+            },
+            {
+                "deedNo": "930",
+                "date": "08-02-1998"
+            },
+            {
+                "deedNo": "10456",
+                "date": "22-11-1990"
+            },
+            {
+                "deedNo": "6872",
+                "date": "30-06-2002"
+            },
+            {
+                "deedNo": "8153",
+                "date": "02-10-2006"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            822
+        ],
+        "saKhatianDetails": [
+            348
+        ],
+        "saDaagDetails": [
+            822
+        ],
+        "rsKhatianDetails": [
+            127
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 318,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3308",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3308",
+        "type": "Original",
+        "mortgageBank": "IIDFC",
+        "borrowerName": "Jb Auto Cars.",
+        "deedValue": "20,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Belkis",
+                "south": "Mojammel and Other",
+                "east": "Awal",
+                "west": "Habibullah and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "94",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mohosin Miah",
+        "deedNo": "973",
+        "date": "19-01-2016",
+        "landAreaPerDeed": 27.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2444",
+                "date": "03-04-1993"
+            },
+            {
+                "deedNo": "4044",
+                "date": "09-05-2000"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            71
+        ],
+        "saKhatianDetails": [
+            10
+        ],
+        "saDaagDetails": [
+            71
+        ],
+        "rsKhatianDetails": [
+            1010
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 153,
+                "perDeed": 27.00,
+                "perMutation": 27.00,
+                "perMortgage": 27.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3801",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3801",
+        "type": "Original",
+        "mortgageBank": "IIDFC",
+        "borrowerName": "Jb Auto Cars.",
+        "deedValue": "56,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Habebur Rahman and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "95",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Sreemoti Bethe Rani Metra",
+        "deedNo": "98",
+        "date": "03-01-2008",
+        "landAreaPerDeed": 6.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "718",
+                "date": "27-01-2004"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1113
+        ],
+        "saKhatianDetails": [
+            620
+        ],
+        "saDaagDetails": [
+            1113
+        ],
+        "rsKhatianDetails": [
+            748
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2380,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "748/B",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1718",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "2,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Jahid",
+                "south": "Road",
+                "east": "Netai Chandra Metra",
+                "west": "Maksudur Rahman"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "96",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nojrul Islam & Other",
+        "deedNo": "15247",
+        "date": "06-12-2009",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10409",
+                "date": "31-10-2002"
+            },
+            {
+                "deedNo": "1811",
+                "date": "19-01-2009"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1113
+        ],
+        "saKhatianDetails": [
+            620
+        ],
+        "saDaagDetails": [
+            1113
+        ],
+        "rsKhatianDetails": [
+            748
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2380,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2152",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2152",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Delawar Hossain",
+                "south": "Md. Shofie Uddin",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "97",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mss. Ajeja Begum",
+        "deedNo": "11407",
+        "date": "13-09-2009",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1113
+        ],
+        "saKhatianDetails": [
+            620
+        ],
+        "saDaagDetails": [
+            1113
+        ],
+        "rsKhatianDetails": [
+            748
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2380,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2152",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2152",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "1,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "98",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "R S- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nurul Alam Bhuiyan",
+        "deedNo": "6461",
+        "date": "07-06-2009",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2107",
+                "date": "08-03-2000"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1115
+        ],
+        "saKhatianDetails": [
+            612
+        ],
+        "saDaagDetails": [
+            1115
+        ],
+        "rsKhatianDetails": [
+            749
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2378,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2152",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2152",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Maksud Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Road",
+                "west": "Hossain"
             }
         ],
         "remarks": null
