@@ -12078,5 +12078,1612 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "133",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Borhan Uddin Mollah & Other",
+        "deedNo": "7368",
+        "date": "24-04-2014",
+        "landAreaPerDeed": 101.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3719",
+                "date": "16-03-1986"
+            },
+            {
+                "deedNo": "3640",
+                "date": "19-02-1976"
+            },
+            {
+                "deedNo": "5039",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "5073",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "5072",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "3028",
+                "date": "30-03-1995"
+            },
+            {
+                "deedNo": "8403",
+                "date": "16-10-1989"
+            },
+            {
+                "deedNo": "6054",
+                "date": "14-07-2001"
+            },
+            {
+                "deedNo": "4533",
+                "date": "09-06-1996"
+            },
+            {
+                "deedNo": "53",
+                "date": "02-01-1997"
+            },
+            {
+                "deedNo": "226",
+                "date": "07-01-1987"
+            },
+            {
+                "deedNo": "5035",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "2341",
+                "date": "07-03-1990"
+            },
+            {
+                "deedNo": "7543",
+                "date": "03-07-1987"
+            },
+            {
+                "deedNo": "7302",
+                "date": "28-11-1999"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            826,
+            812,
+            825,
+            827,
+            827,
+            838
+        ],
+        "saKhatianDetails": [
+            584,
+            571,
+            638,
+            447,
+            447
+        ],
+        "saDaagDetails": [
+            826,
+            812,
+            825,
+            827,
+            827,
+            838
+        ],
+        "rsKhatianDetails": [
+            211,
+            494,
+            939,
+            103,
+            499,
+            685
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 309,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            },
+            {
+                "rsDaag": 308,
+                "perDeed": 21.00,
+                "perMutation": 21.00,
+                "perMortgage": 21.00
+            },
+            {
+                "rsDaag": 424,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 443,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": 9.00
+            },
+            {
+                "rsDaag": 444,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 350,
+                "perDeed": 49.00,
+                "perMutation": 49.00,
+                "perMortgage": 49.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3285",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3285",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "2,10,09,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mrs. Moriom Akter and C & B",
+                "east": "Rokon Uddin Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The originally purchased land under this deed was 151.00 decimals. However, as per Deed No. 6960 dated 27-04-2015, 50.00 decimals of the said property were previously transferred to another party. Therefore, the currently remaining land under this deed stands at 101.00 decimals. It is important to note that the valuation mentioned in this deed corresponds to the remaining 101.00 decimals of land and has been recorded accordingly in the summary."
+    },
+    {
+        "id": "134",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Badsha Miah & Other",
+        "deedNo": "17914",
+        "date": "30-07-2012",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            756
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 301,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3246",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3246",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "3,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mollah",
+                "south": "Mollah",
+                "east": "Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "135",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Alemun Nessa & Other",
+        "deedNo": "17514",
+        "date": "10-09-2013",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            756
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 301,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3246",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3246",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "5,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Roron Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "136",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Akman",
+        "deedNo": "17432",
+        "date": "09-09-2013",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            756
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 301,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3246",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3246",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "3,85,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Roron Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "137",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sukkur Ali & Other",
+        "deedNo": "22208",
+        "date": "27-11-2013",
+        "landAreaPerDeed": 1.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            756
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 301,
+                "perDeed": 1.75,
+                "perMutation": 1.75,
+                "perMortgage": 1.75
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3246",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3246",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "3,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "138",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Beraj Kumar Shaha",
+        "deedNo": "16940",
+        "date": "18-09-2014",
+        "landAreaPerDeed": 10.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11329",
+                "date": "22-11-1986"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            812
+        ],
+        "saKhatianDetails": [
+            571
+        ],
+        "saDaagDetails": [
+            812
+        ],
+        "rsKhatianDetails": [
+            494
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 307,
+                "perDeed": 10.25,
+                "perMutation": 10.25,
+                "perMortgage": 10.25
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3417",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3417",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "21,32,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "139",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Kajim Uddin & Other",
+        "deedNo": "17452",
+        "date": "01-11-2015",
+        "landAreaPerDeed": 22.80,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1687",
+                "date": "28-02-2013"
+            },
+            {
+                "deedNo": "11315",
+                "date": "09-06-2014"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            228,
+            229,
+            229,
+            230
+        ],
+        "saKhatianDetails": [
+            753,
+            776
+        ],
+        "saDaagDetails": [
+            228,
+            229,
+            229,
+            230
+        ],
+        "rsKhatianDetails": [
+            894,
+            893
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 462,
+                "perDeed": 1.43,
+                "perMutation": 1.43,
+                "perMortgage": 1.43
+            },
+            {
+                "rsDaag": 463,
+                "perDeed": 4.50,
+                "perMutation": 4.50,
+                "perMortgage": 4.50
+            },
+            {
+                "rsDaag": 464,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            },
+            {
+                "rsDaag": 470,
+                "perDeed": 13.87,
+                "perMutation": 13.87,
+                "perMortgage": 13.87
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3742",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3742",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "62,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan, Rofik and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan and Other",
+                "east": "Nasim Mollah and Other",
+                "west": "Nasim Mollah and Other"
+            },
+            {
+                "north": "Solaman and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan and Other",
+                "east": "Tarikul and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "140",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdul Hay & Other",
+        "deedNo": "778",
+        "date": "14-01-2016",
+        "landAreaPerDeed": 40.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3418",
+                "date": "27-04-1965"
+            },
+            {
+                "deedNo": "3527",
+                "date": "20-04-1963"
+            },
+            {
+                "deedNo": "149",
+                "date": "04-01-1969"
+            },
+            {
+                "deedNo": "10879",
+                "date": "15-06-2014"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            871,
+            873
+        ],
+        "saKhatianDetails": [
+            883,
+            884,
+            268
+        ],
+        "saDaagDetails": [
+            871,
+            873
+        ],
+        "rsKhatianDetails": [
+            1006
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 365,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            },
+            {
+                "rsDaag": 189,
+                "perDeed": 24.00,
+                "perMutation": 24.00,
+                "perMortgage": 24.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3806",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3806",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "84,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Nannu Miah",
+                "south": "Habebur Rahman and Other",
+                "east": "Md. Afaj Uddin",
+                "west": "Md. Afaj Uddin"
+            },
+            {
+                "north": "Md. Afaj Uddin",
+                "south": "Idris Ali and Other",
+                "east": "Md. Nannu Miah",
+                "west": "Joynal Abeding and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "141",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Badsha Miah & Other",
+        "deedNo": "1416",
+        "date": "26-01-2014",
+        "landAreaPerDeed": 18.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            135
+        ],
+        "saKhatianDetails": [
+            251
+        ],
+        "saDaagDetails": [
+            135
+        ],
+        "rsKhatianDetails": [
+            757,
+            756
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 284,
+                "perDeed": 18.00,
+                "perMutation": 18.00,
+                "perMortgage": 18.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3276",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3276",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "42,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mojammel and Other",
+                "south": "Geas Uddin",
+                "east": "Habebur Rahman and Other",
+                "west": "Anower Hossain (Anari) and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "142",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Salah Uddin",
+        "deedNo": "10485",
+        "date": "09-06-2014",
+        "landAreaPerDeed": 32.46,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2715",
+                "date": "05-11-1934"
+            },
+            {
+                "deedNo": "1482",
+                "date": "16-01-2014"
+            },
+            {
+                "deedNo": "1277",
+                "date": "22-01-2014"
+            },
+            {
+                "deedNo": "16619",
+                "date": "15-07-2012"
+            },
+            {
+                "deedNo": "6181",
+                "date": "08-04-2014"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            830,
+            807
+        ],
+        "saKhatianDetails": [
+            583,
+            645
+        ],
+        "saDaagDetails": [
+            830,
+            807
+        ],
+        "rsKhatianDetails": [
+            687,
+            530
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 351,
+                "perDeed": 17.34,
+                "perMutation": 17.34,
+                "perMortgage": 17.34
+            },
+            {
+                "rsDaag": 404,
+                "perDeed": 15.12,
+                "perMutation": 15.12,
+                "perMortgage": 15.12
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3322",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3322",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "67,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rokon Uddin Mollah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Haji Mojib Ullah",
+                "west": "Rokon Uddin Molla"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "C & B Road",
+                "east": "Rokon Uddin Molla",
+                "west": "Rokon Uddin Molla"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "143",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Pronoti Rani Roy",
+        "deedNo": "13650",
+        "date": "03-08-2014",
+        "landAreaPerDeed": 11.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "25831",
+                "date": "26-12-2010"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1184
+        ],
+        "saKhatianDetails": [
+            632
+        ],
+        "saDaagDetails": [
+            1184
+        ],
+        "rsKhatianDetails": [
+            671
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2617,
+                "perDeed": 11.00,
+                "perMutation": 11.00,
+                "perMortgage": 11.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3356",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3356",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "23,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Sufaiya Begum",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Sharif and Otheer",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "144",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ekramul Karim",
+        "deedNo": "9615",
+        "date": "27-05-2014",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1180,
+            1181
+        ],
+        "saKhatianDetails": [
+            398
+        ],
+        "saDaagDetails": [
+            1180,
+            1181
+        ],
+        "rsKhatianDetails": [
+            614
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2435,
+                "perDeed": 2.50,
+                "perMutation": 2.50,
+                "perMortgage": 2.50
+            },
+            {
+                "rsDaag": 2434,
+                "perDeed": 0.50,
+                "perMutation": 0.50,
+                "perMortgage": 0.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3318",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3318",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "6,25,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Nujhat Ara Jesmin ",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Nujhat Ara Jesmin",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "145",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Sree Narayan Chandra Metra",
+        "deedNo": "9618",
+        "date": "27-05-2014",
+        "landAreaPerDeed": 16.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1010
+        ],
+        "saKhatianDetails": [
+            893
+        ],
+        "saDaagDetails": [
+            1010
+        ],
+        "rsKhatianDetails": [
+            843
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2246,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3305",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3305",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "33,28,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Monir ",
+                "south": "Road",
+                "east": "Road",
+                "west": "Sree Narayan Chandra Metra"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "146",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Nujhat Ara Jasmen",
+        "deedNo": "6522",
+        "date": "20-04-2015",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10522",
+                "date": "11-12-1960"
+            },
+            {
+                "deedNo": "1380",
+                "date": "28-02-2006"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1180
+        ],
+        "saKhatianDetails": [
+            398
+        ],
+        "saDaagDetails": [
+            1180
+        ],
+        "rsKhatianDetails": [
+            614
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2435,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3601",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3601",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "10,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Layla Anjuman and Other ",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mst. Nujhat Ara Jasmen",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "147",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Safia Begum",
+        "deedNo": "8108",
+        "date": "17-05-2015",
+        "landAreaPerDeed": 34.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2046",
+                "date": "22-07-1978"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            1010
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 163,
+                "perDeed": 34.00,
+                "perMutation": 34.00,
+                "perMortgage": 34.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3605",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3605",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "71,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "148",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Afjal Uddin & Other",
+        "deedNo": "8109",
+        "date": "19-05-2015",
+        "landAreaPerDeed": 38.15,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10777",
+                "date": "10-11-1952"
+            },
+            {
+                "deedNo": "5009",
+                "date": "12-04-1978"
+            },
+            {
+                "deedNo": "18242",
+                "date": "11-08-2011"
+            },
+            {
+                "deedNo": "2819",
+                "date": "19-02-2015"
+            },
+            {
+                "deedNo": "27418",
+                "date": "12-12-2012"
+            },
+            {
+                "deedNo": "17686",
+                "date": "29-09-2014"
+            },
+            {
+                "deedNo": "2822",
+                "date": "19-02-2015"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            63,
+            64,
+            66
+        ],
+        "saKhatianDetails": [
+            8,
+            10
+        ],
+        "saDaagDetails": [
+            63,
+            64,
+            66
+        ],
+        "rsKhatianDetails": [
+            398,
+            1010
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 164,
+                "perDeed": 35.00,
+                "perMutation": 35.00,
+                "perMortgage": 35.00
+            },
+            {
+                "rsDaag": 163,
+                "perDeed": 1.25,
+                "perMutation": 1.25,
+                "perMortgage": 1.25
+            },
+            {
+                "rsDaag": 162,
+                "perDeed": 1.90,
+                "perMutation": 1.90,
+                "perMortgage": 1.90
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3615",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3615",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "71,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Road",
+                "south": "Habibur and Other",
+                "east": "Sentu",
+                "west": "Abdul Haque"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "149",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahib Ali",
+        "deedNo": "580",
+        "date": "13-01-2014",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            876,
+            875
+        ],
+        "saKhatianDetails": [
+            619,
+            261
+        ],
+        "saDaagDetails": [
+            876,
+            875
+        ],
+        "rsKhatianDetails": [
+            78,
+            866
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 193,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 364,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3172",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3172",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "4,16,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amir Ali",
+                "south": "Hafij Uddin",
+                "east": "Idris Ali, Afaj Uddin",
+                "west": "Suruj Miah and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "150",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Borhan Uddin Mollah",
+        "deedNo": "7369",
+        "date": "24-04-2014",
+        "landAreaPerDeed": 136.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3719",
+                "date": "16-03-1986"
+            },
+            {
+                "deedNo": "3640",
+                "date": "19-02-1976"
+            },
+            {
+                "deedNo": "5039",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "5073",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "5072",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "3028",
+                "date": "30-03-1995"
+            },
+            {
+                "deedNo": "8403",
+                "date": "16-10-1989"
+            },
+            {
+                "deedNo": "6054",
+                "date": "14-07-2001"
+            },
+            {
+                "deedNo": "4533",
+                "date": "09-06-1996"
+            },
+            {
+                "deedNo": "53",
+                "date": "02-01-1997"
+            },
+            {
+                "deedNo": "226",
+                "date": "07-01-1987"
+            },
+            {
+                "deedNo": "5035",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "2341",
+                "date": "07-03-1990"
+            },
+            {
+                "deedNo": "7543",
+                "date": "03-07-1987"
+            },
+            {
+                "deedNo": "7302",
+                "date": "28-11-1999"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            838,
+            828,
+            830
+        ],
+        "saKhatianDetails": [
+            585,
+            645
+        ],
+        "saDaagDetails": [
+            838,
+            828,
+            830
+        ],
+        "rsKhatianDetails": [
+            685,
+            684,
+            692
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 349,
+                "perDeed": 50.00,
+                "perMutation": 50.00,
+                "perMortgage": 50.00
+            },
+            {
+                "rsDaag": 407,
+                "perDeed": 45.00,
+                "perMutation": 45.00,
+                "perMortgage": 45.00
+            },
+            {
+                "rsDaag": 345,
+                "perDeed": 24.00,
+                "perMutation": 24.00,
+                "perMortgage": 24.00
+            },
+            {
+                "rsDaag": 347,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": 9.00
+            },
+            {
+                "rsDaag": 348,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3261",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3261",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "2,82,90,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Habibur and Other",
+                "south": "Mrs. Moriom Akter",
+                "east": "Rokon Uddin Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
     }
 ]
