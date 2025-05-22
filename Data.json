@@ -10600,5 +10600,945 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "116",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Md. Rokon Uddin Molla",
+        "deedNo": "7370",
+        "date": "23-04-2014",
+        "landAreaPerDeed": 119.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3719",
+                "date": "16-03-1986"
+            },
+            {
+                "deedNo": "3640",
+                "date": "19-02-1976"
+            },
+            {
+                "deedNo": "5039",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "5037",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "5072",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "3028",
+                "date": "30-03-1995"
+            },
+            {
+                "deedNo": "8403",
+                "date": "16-10-1989"
+            },
+            {
+                "deedNo": "6054",
+                "date": "04-07-2001"
+            },
+            {
+                "deedNo": "8309",
+                "date": "07-09-2003"
+            },
+            {
+                "deedNo": "4533",
+                "date": "09-06-1996"
+            },
+            {
+                "deedNo": "53",
+                "date": "02-01-1997"
+            },
+            {
+                "deedNo": "226",
+                "date": "07-01-1987"
+            },
+            {
+                "deedNo": "5035",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "2341",
+                "date": "07-03-1990"
+            },
+            {
+                "deedNo": "7543",
+                "date": "03-07-1987"
+            },
+            {
+                "deedNo": "7302",
+                "date": "28-11-1999"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            812,
+            829,
+            807,
+            808,
+            810
+        ],
+        "saKhatianDetails": [
+            571,
+            479,
+            583,
+            669,
+            200
+        ],
+        "saDaagDetails": [
+            812,
+            829,
+            807,
+            808,
+            810
+        ],
+        "rsKhatianDetails": [
+            494,
+            134,
+            687,
+            86,
+            865
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 307,
+                "perDeed": 17.00,
+                "perMutation": 17.00,
+                "perMortgage": 17.00
+            },
+            {
+                "rsDaag": 409,
+                "perDeed": 43.00,
+                "perMutation": 43.00,
+                "perMortgage": 43.00
+            },
+            {
+                "rsDaag": 404,
+                "perDeed": 22.00,
+                "perMutation": 22.00,
+                "perMortgage": 22.00
+            },
+            {
+                "rsDaag": 406,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": 30.00
+            },
+            {
+                "rsDaag": 410,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3259",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "3259",
+        "type": "Certified copy",
+        "mortgageBank": "Midas Financing Limited PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "2,47,52,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "CNB Road",
+                "east": "Rokon Uddin Mollah and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "117",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jahinger Alam",
+        "deedNo": "16755",
+        "date": "16-09-2014",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2873",
+                "date": "05-03-1957"
+            },
+            {
+                "deedNo": "16575",
+                "date": "30-07-1975"
+            },
+            {
+                "deedNo": "20062",
+                "date": "30-09-2011"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            14
+        ],
+        "saKhatianDetails": [
+            905
+        ],
+        "saDaagDetails": [
+            14
+        ],
+        "rsKhatianDetails": [
+            131
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 34,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3421",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3421",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "29,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Neyot Ali and Other",
+                "south": "Dukhy",
+                "east": "Innos Ali",
+                "west": "Habij Uddin"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "118",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Haradan Chandra Metra & Other",
+        "deedNo": "17548",
+        "date": "28-09-2014",
+        "landAreaPerDeed": 16.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "20280",
+                "date": "15-09-2011"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1314
+        ],
+        "saKhatianDetails": [
+            853
+        ],
+        "saDaagDetails": [
+            1314
+        ],
+        "rsKhatianDetails": [
+            584
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2541,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3418",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3418",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "33,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Alim Uddin",
+                "south": "Haradan Chandra Metra & Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Jahingir and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "119",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Baher Uddin (Balu) & Other",
+        "deedNo": "7913",
+        "date": "05-01-2014",
+        "landAreaPerDeed": 12.65,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1197",
+                "date": "31-12-1979"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            30,
+            55,
+            44
+        ],
+        "saKhatianDetails": [
+            663
+        ],
+        "saDaagDetails": [
+            30,
+            55,
+            44
+        ],
+        "rsKhatianDetails": [
+            161,
+            123,
+            117
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 38,
+                "perDeed": 3.33,
+                "perMutation": 3.33,
+                "perMortgage": 3.33
+            },
+            {
+                "rsDaag": 66,
+                "perDeed": 4.66,
+                "perMutation": 4.66,
+                "perMortgage": 4.66
+            },
+            {
+                "rsDaag": 56,
+                "perDeed": 4.66,
+                "perMutation": 4.66,
+                "perMortgage": 4.66
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3277",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3277",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "26,35,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "ZN Company",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "120",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Dulal Miah & Other",
+        "deedNo": "13147",
+        "date": "17-07-2014",
+        "landAreaPerDeed": 15.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9313",
+                "date": "29-05-1972"
+            },
+            {
+                "deedNo": "4551",
+                "date": "05-04-1986"
+            },
+            {
+                "deedNo": "4567",
+                "date": "05-04-1986"
+            },
+            {
+                "deedNo": "7443",
+                "date": "17-09-1998"
+            },
+            {
+                "deedNo": "15749",
+                "date": "10-08-2010"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            25
+        ],
+        "saKhatianDetails": [
+            648
+        ],
+        "saDaagDetails": [
+            25
+        ],
+        "rsKhatianDetails": [
+            396
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 81,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3359",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3359",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Dulal Miah",
+                "south": "Road",
+                "east": "Sona Miah Master",
+                "west": "Badol and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "121",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Meher Ali",
+        "deedNo": "847",
+        "date": "18-01-2015",
+        "landAreaPerDeed": 28.53,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "15589",
+                "date": "31-08-1914"
+            },
+            {
+                "deedNo": "16472",
+                "date": "11-09-1914"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            903,
+            894,
+            663,
+            873
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            389,
+            578,
+            620,
+            661,
+            390,
+            600
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 38,
+                "perDeed": 3.37,
+                "perMutation": 3.37,
+                "perMortgage": 3.37
+            },
+            {
+                "rsDaag": 46,
+                "perDeed": 0.91,
+                "perMutation": 0.91,
+                "perMortgage": 0.91
+            },
+            {
+                "rsDaag": 9,
+                "perDeed": 0.91,
+                "perMutation": 0.91,
+                "perMortgage": 0.91
+            },
+            {
+                "rsDaag": 51,
+                "perDeed": 1.31,
+                "perMutation": 1.31,
+                "perMortgage": 1.31
+            },
+            {
+                "rsDaag": 11,
+                "perDeed": 1.60,
+                "perMutation": 1.60,
+                "perMortgage": 1.60
+            },
+            {
+                "rsDaag": 45,
+                "perDeed": 1.74,
+                "perMutation": 1.74,
+                "perMortgage": 0.00
+            },
+            {
+                "rsDaag": 22,
+                "perDeed": 2.67,
+                "perMutation": 2.67,
+                "perMortgage": 2.67
+            },
+            {
+                "rsDaag": 25,
+                "perDeed": 5.34,
+                "perMutation": 5.34,
+                "perMortgage": 5.34
+            },
+            {
+                "rsDaag": 26,
+                "perDeed": 5.34,
+                "perMutation": 5.34,
+                "perMortgage": 5.34
+            },
+            {
+                "rsDaag": 20,
+                "perDeed": 2.67,
+                "perMutation": 2.67,
+                "perMortgage": 2.67
+            },
+            {
+                "rsDaag": 21,
+                "perDeed": 2.67,
+                "perMutation": 2.67,
+                "perMortgage": 2.67
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3546",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3546",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "60,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Daughter Of Shafi Chairman",
+                "south": "Road",
+                "east": "Balu",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "122",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Md. Jasim Uddin & Other",
+        "deedNo": "2773",
+        "date": "23-02-2016",
+        "landAreaPerDeed": 18.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10398",
+                "date": "21-11-1996"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            840
+        ],
+        "saKhatianDetails": [
+            98
+        ],
+        "saDaagDetails": [
+            840
+        ],
+        "rsKhatianDetails": [
+            817,
+            630
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 327,
+                "perDeed": 11.00,
+                "perMutation": 11.00,
+                "perMortgage": 11.00
+            },
+            {
+                "rsDaag": 330,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3868",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3868",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "37,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Zakia Cotton Text Ltd.",
+                "south": "Zakia Cotton Text Ltd.",
+                "east": "Zakia Cotton Text Ltd.",
+                "west": "Zakia Cotton Text Ltd."
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "123",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Md. Kayes Udden & Other",
+        "deedNo": "15474",
+        "date": "31-08-2014",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            227
+        ],
+        "saKhatianDetails": [
+            521
+        ],
+        "saDaagDetails": [
+            227
+        ],
+        "rsKhatianDetails": [
+            276
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 471,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3390",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3390",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "8,32,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shamim and Other",
+                "south": "C & B Road",
+                "east": "Md. Mehir Ali",
+                "west": "Shamim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "124",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Mss. Amirun Nessa",
+        "deedNo": "15479",
+        "date": "28-08-2014",
+        "landAreaPerDeed": 0.93,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            227
+        ],
+        "saKhatianDetails": [
+            521
+        ],
+        "saDaagDetails": [
+            227
+        ],
+        "rsKhatianDetails": [
+            276
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 471,
+                "perDeed": 0.93,
+                "perMutation": 0.93,
+                "perMortgage": 0.93
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3390",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3390",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shamim and Other",
+                "south": "C & B Road",
+                "east": "Md. Mehir Ali",
+                "west": "Shamim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "125",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Md. Anower Hossain & Other",
+        "deedNo": "15475",
+        "date": "31-08-2014",
+        "landAreaPerDeed": 5.07,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            30
+        ],
+        "saKhatianDetails": [
+            663
+        ],
+        "saDaagDetails": [
+            30
+        ],
+        "rsKhatianDetails": [
+            161,
+            481
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 38,
+                "perDeed": 2.47,
+                "perMutation": 2.47,
+                "perMortgage": 2.47
+            },
+            {
+                "rsDaag": "141/153",
+                "perDeed": 2.60,
+                "perMutation": 2.60,
+                "perMortgage": 2.60
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3409",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3409",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "10,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Md. Anower Hossain & Other",
+                "west": "Nil Miah and Other"
+            },
+            {
+                "north": "Md. Anower Hossain & Other",
+                "south": "Md. Anower Hossain & Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
     }
 ]
