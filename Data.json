@@ -11540,5 +11540,544 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "126",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Mss.Surjabun Begum",
+        "deedNo": "19628",
+        "date": "02-11-2014",
+        "landAreaPerDeed": 6.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1373,
+            1347
+        ],
+        "saKhatianDetails": [
+            225,
+            230
+        ],
+        "saDaagDetails": [
+            1373,
+            1347
+        ],
+        "rsKhatianDetails": [
+            572,
+            673
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2776,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            },
+            {
+                "rsDaag": 2721,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3445",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3445",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "13,52,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mill",
+                "south": "Nasim Uddin Mollah and Other",
+                "east": "Nasim Uddin Mollah and Other",
+                "west": "Nurul Islam"
+            },
+            {
+                "north": "Cannel",
+                "south": "Mill",
+                "east": "Nasim Uddin Mollah and Other",
+                "west": "Nasim Uddin Mollah and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "127",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Heba Deed",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Md. Askor Ali & Other",
+        "deedNo": "15362",
+        "date": "28-08-2014",
+        "landAreaPerDeed": 7.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1192
+        ],
+        "saKhatianDetails": [
+            592
+        ],
+        "saDaagDetails": [
+            1192
+        ],
+        "rsKhatianDetails": [
+            271
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2619,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3435",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3435",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "23,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "128",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Md. Fayjul Islam & Other",
+        "deedNo": "21694",
+        "date": "02-12-2014",
+        "landAreaPerDeed": 5.52,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            235
+        ],
+        "saKhatianDetails": [
+            672
+        ],
+        "saDaagDetails": [
+            235
+        ],
+        "rsKhatianDetails": [
+            798
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 473,
+                "perDeed": 1.91,
+                "perMutation": 1.91,
+                "perMortgage": 1.91
+            },
+            {
+                "rsDaag": 474,
+                "perDeed": 1.91,
+                "perMutation": 1.91,
+                "perMortgage": 1.91
+            },
+            {
+                "rsDaag": 475,
+                "perDeed": 1.70,
+                "perMutation": 1.70,
+                "perMortgage": 1.70
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3459",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3459",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "11,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Nasim Molla and Other",
+                "south": "Dhaka Sylhet High Way",
+                "east": "Md. Mehir Ali",
+                "west": "Samsur Rahman and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "129",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Abdul Rashid Allias Harun Rashid & Other",
+        "deedNo": "13536",
+        "date": "23-07-2014",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            227
+        ],
+        "saKhatianDetails": [
+            521
+        ],
+        "saDaagDetails": [
+            227
+        ],
+        "rsKhatianDetails": [
+            276
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 471,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3355",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3355",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "10,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rokon Uddin Molla",
+                "south": "C & B Road",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Rokon Uddin Molla"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "130",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Md. Mosleuddin & Other",
+        "deedNo": "13958",
+        "date": "08-06-2014",
+        "landAreaPerDeed": 2.37,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            227
+        ],
+        "saKhatianDetails": [
+            521
+        ],
+        "saDaagDetails": [
+            227
+        ],
+        "rsKhatianDetails": [
+            276
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 471,
+                "perDeed": 2.37,
+                "perMutation": 2.37,
+                "perMortgage": 2.37
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3355",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3355",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "5,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shamim and Other",
+                "south": "C & B Road",
+                "east": "Md. Mehir Ali",
+                "west": "Shamim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "131",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Mst. Najma Begum & Other",
+        "deedNo": "13732",
+        "date": "08-03-2014",
+        "landAreaPerDeed": 2.70,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            227
+        ],
+        "saKhatianDetails": [
+            521
+        ],
+        "saDaagDetails": [
+            227
+        ],
+        "rsKhatianDetails": [
+            276
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 471,
+                "perDeed": 2.70,
+                "perMutation": 2.70,
+                "perMortgage": 2.70
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3355",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3355",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "5,62,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "C & B Road",
+                "south": "Shamim and Other",
+                "east": "Md. Mehir Ali",
+                "west": "Shamim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "132",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Md. Mehir Ali",
+        "seller": "Mst. Safia Begum",
+        "deedNo": "15243",
+        "date": "27-08-2014",
+        "landAreaPerDeed": 6.37,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+           10
+        ],
+        "saKhatianDetails": [
+            663
+        ],
+        "saDaagDetails": [
+            10
+        ],
+        "rsKhatianDetails": [
+            161,
+            481
+            
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 28,
+                "perDeed": 3.37,
+                "perMutation": 3.37,
+                "perMortgage": 3.37
+            },
+            {
+                "rsDaag": 90,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3389",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3389",
+        "type": "Original",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Ainoon Trade House Ltd.",
+        "deedValue": "13,25,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Baten and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Nil Miah and Other"
+            },
+            {
+                "north": "Afaj Uddin",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Nurul Haque",
+                "west": "Nowsed Alir Teck"
+            }
+        ],
+        "remarks": null
     }
 ]
