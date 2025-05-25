@@ -16476,5 +16476,1042 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "183",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mujebur Rahman",
+        "deedNo": "12505",
+        "date": "06-07-2014",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8031",
+                "date": "18-09-1997"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1204
+        ],
+        "saKhatianDetails": [
+            596
+        ],
+        "saDaagDetails": [
+            1204
+        ],
+        "rsKhatianDetails": [
+            775
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2399,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3341",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3341",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "7,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mahfujur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "184",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mejanur Rahman",
+        "deedNo": "15363",
+        "date": "27-08-2014",
+        "landAreaPerDeed": 7.44,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1596",
+                "date": "01-03-1998"
+            },
+            {
+                "deedNo": "6038",
+                "date": "23-07-1996"
+            },
+            {
+                "deedNo": "6802",
+                "date": "17-04-2010"
+            },
+            {
+                "deedNo": "8984",
+                "date": "12-04-2011"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1204,
+            1235
+        ],
+        "saKhatianDetails": [
+            595,
+            603
+        ],
+        "saDaagDetails": [
+            1204,
+            1235
+        ],
+        "rsKhatianDetails": [
+            775
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2396,
+                "perDeed": 0.44,
+                "perMutation": 0.44,
+                "perMortgage": 0.44
+            },
+            {
+                "rsDaag": 2400,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3387",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3387",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "15,21,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Anowara and Other",
+                "south": "Ataullah and Other",
+                "east": "Noyon and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Pond",
+                "south": "Md. Mejanur Rahman",
+                "east": "Hojorat Ali and Other",
+                "west": "Monoara Begum and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "185",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Md. Mahmudur Rahman Bhuiyan",
+        "deedNo": "3705",
+        "date": "09-03-2016",
+        "landAreaPerDeed": 1.13,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            695
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2373,
+                "perDeed": 1.13,
+                "perMutation": 1.13,
+                "perMortgage": 1.13
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3908",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3908",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "2,38,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Loknath",
+                "east": "Kabir Hossain",
+                "west": "Mahfujur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "186",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mahfuja Akter",
+        "deedNo": "3033",
+        "date": "27-02-2016",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "13617",
+                "date": "23-07-2014"
+            },
+            {
+                "deedNo": "16937",
+                "date": "18-09-2014"
+            },
+            {
+                "deedNo": "8698",
+                "date": "07-10-1987"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1204
+        ],
+        "saKhatianDetails": [
+            596
+        ],
+        "saDaagDetails": [
+            1204
+        ],
+        "rsKhatianDetails": [
+            775
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2400,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3908",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3908",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "8,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "187",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Inheritance",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Ms. Zakia Begum & Other",
+        "deedNo": "Inheritance",
+        "date": "",
+        "landAreaPerDeed": 30.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1194,
+            1281,
+            1280
+        ],
+        "saKhatianDetails": [
+            371,
+            399,
+            431
+        ],
+        "saDaagDetails": [
+            1194,
+            1281,
+            1280
+        ],
+        "rsKhatianDetails": [
+            694,
+            445
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2621,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            },
+            {
+                "rsDaag": 2627,
+                "perDeed": 4.50,
+                "perMutation": 4.50,
+                "perMortgage": 4.50
+            },
+            {
+                "rsDaag": 2632,
+                "perDeed": 11.00,
+                "perMutation": 11.00,
+                "perMortgage": 11.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1289",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1289",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "188",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Moneru Zaman",
+        "deedNo": "20020",
+        "date": "13-09-2011",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1101,
+            1101,
+            1103
+        ],
+        "saKhatianDetails": [
+            744
+        ],
+        "saDaagDetails": [
+            1101,
+            1101,
+            1103
+        ],
+        "rsKhatianDetails": [
+            667
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2327,
+                "perDeed": 3.60,
+                "perMutation": 3.60,
+                "perMortgage": 3.50
+            },
+            {
+                "rsDaag": 2329,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            },
+            {
+                "rsDaag": 2334,
+                "perDeed": 4.40,
+                "perMutation": 4.40,
+                "perMortgage": 4.40
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2523",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2523",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "56,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ataur Rahman",
+                "south": "Tabenda Begum",
+                "east": "Road",
+                "west": "Menhajur Rahman Bhuiyan and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "189",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Tabinda Akter Allias Atiker Nessa & Other",
+        "deedNo": "14166",
+        "date": "15-06-2011",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7996",
+                "date": "03-05-2010"
+            },
+            {
+                "deedNo": "8432",
+                "date": "09-05-2010"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1100
+        ],
+        "saKhatianDetails": [
+            667
+        ],
+        "saDaagDetails": [
+            1100
+        ],
+        "rsKhatianDetails": [
+            116
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2331,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2523",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2523",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Rokon Uddin Bhuiyan",
+                "south": "Menhajur Rahman Bhuiyan",
+                "east": "Mahbubur Rahman Bhuiyan",
+                "west": "Samsunahar and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "190",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mojammel",
+        "deedNo": "25117",
+        "date": "12-11-2012",
+        "landAreaPerDeed": 15.00,
+        "buildingAreaSqft": 3025.00,
+        "biaDeed": [
+            {
+                "deedNo": "2144",
+                "date": "01-03-1990"
+            },
+            {
+                "deedNo": "1579",
+                "date": "08-03-1989"
+            },
+            {
+                "deedNo": "8867",
+                "date": "13-05-2010"
+            },
+            {
+                "deedNo": "21417",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            74
+        ],
+        "saKhatianDetails": [
+            17
+        ],
+        "saDaagDetails": [
+            74
+        ],
+        "rsKhatianDetails": [
+            789
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 145,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2808",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2808",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "13,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdillah",
+                "south": "Abdul Jalin Munshi",
+                "east": "Kodom Ali and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "191",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Inheritance",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Inheritance",
+        "deedNo": "Inheritance",
+        "date": "",
+        "landAreaPerDeed": 1.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            1112
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            1112
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2379,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2734",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2734",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "192",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Inheritance",
+        "jlNumber": "RS- 111",
+        "buyer": "Faymax Sweater composite Ltd..",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "7373",
+        "date": "24-04-2014",
+        "landAreaPerDeed": 152.90,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "16227",
+                "date": "22-08-2013"
+            },
+            {
+                "deedNo": "18333",
+                "date": "14-08-2011"
+            },
+            {
+                "deedNo": "16318",
+                "date": "25-08-2003"
+            },
+            {
+                "deedNo": "164",
+                "date": "06-01-2014"
+            },
+            {
+                "deedNo": "7061",
+                "date": "22-06-1982"
+            },
+            {
+                "deedNo": "7062",
+                "date": "22-06-1982"
+            },
+            {
+                "deedNo": "1397",
+                "date": "30-12-1986"
+            },
+            {
+                "deedNo": "3256",
+                "date": "02-05-1991"
+            },
+            {
+                "deedNo": "8867",
+                "date": "13-05-2010"
+            },
+            {
+                "deedNo": "168",
+                "date": "06-01-2014"
+            },
+            {
+                "deedNo": "15218",
+                "date": "29-07-2013"
+            },
+            {
+                "deedNo": "581",
+                "date": "13-01-2014"
+            },
+            {
+                "deedNo": "17998",
+                "date": "17-09-2013"
+            },
+            {
+                "deedNo": "18669",
+                "date": "26-09-2013"
+            },
+            {
+                "deedNo": "22592",
+                "date": "04-12-2013"
+            },
+            {
+                "deedNo": "6026",
+                "date": "24-03-2013"
+            },
+            {
+                "deedNo": "14818",
+                "date": "22-07-2013"
+            },
+            {
+                "deedNo": "12006",
+                "date": "05-10-2009"
+            },
+            {
+                "deedNo": "23472",
+                "date": "18-12-2013"
+            },
+            {
+                "deedNo": "14968",
+                "date": "23-07-2013"
+            },
+            {
+                "deedNo": "14969",
+                "date": "23-07-2013"
+            },
+            {
+                "deedNo": "21386",
+                "date": "17-11-2013"
+            },
+            {
+                "deedNo": "22145",
+                "date": "26-11-2013"
+            },
+            {
+                "deedNo": "4748",
+                "date": "25-03-1972"
+            },
+            {
+                "deedNo": "2311",
+                "date": "17-02-1982"
+            },
+            {
+                "deedNo": "2312",
+                "date": "17-02-1982"
+            },
+            {
+                "deedNo": "1523",
+                "date": "26-02-1998"
+            },
+            {
+                "deedNo": "984",
+                "date": "22-02-1989"
+            },
+            {
+                "deedNo": "11067",
+                "date": "22-01-1985"
+            },
+            {
+                "deedNo": "1796",
+                "date": "11-03-1997"
+            },
+            {
+                "deedNo": "1305",
+                "date": "23-01-2014"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            66,
+            78,
+            882,
+            998,
+            80,
+            70,
+            72,
+            999,
+            1124,
+            1127,
+            1139,
+            1136,
+            1137,
+            49,
+            50,
+            48
+        ],
+        "saKhatianDetails": [
+            10,
+            600,
+            354,
+            12,
+            860,
+            5,
+            6,
+            54,
+            299,
+            316,
+            562,
+            590,
+            906,
+            904,
+            829
+        ],
+        "saDaagDetails": [
+            66,
+            78,
+            882,
+            998,
+            80,
+            70,
+            72,
+            999,
+            1124,
+            1127,
+            1139,
+            1136,
+            1137,
+            49,
+            50,
+            48
+        ],
+        "rsKhatianDetails": [
+            1010,
+            544,
+            59,
+            362,
+            361,
+            346,
+            889,
+            356,
+            751,
+            315,
+            962,
+            115,
+            432,
+            164,
+            808
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 162,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            },
+            {
+                "rsDaag": 141,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            },
+            {
+                "rsDaag": 140,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            },
+            {
+                "rsDaag": 182,
+                "perDeed": 25.00,
+                "perMutation": 25.00,
+                "perMortgage": 0.00
+            },
+            {
+                "rsDaag": 123,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            },
+            {
+                "rsDaag": 155,
+                "perDeed": 4.45,
+                "perMutation": 4.45,
+                "perMortgage": 4.45
+            },
+            {
+                "rsDaag": 156,
+                "perDeed": 2.10,
+                "perMutation": 2.10,
+                "perMortgage": 2.10
+            },
+            {
+                "rsDaag": 152,
+                "perDeed": 7.35,
+                "perMutation": 7.35,
+                "perMortgage": 7.35
+            },
+            {
+                "rsDaag": 2304,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            },
+            {
+                "rsDaag": 2447,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 63,
+                "perDeed": 19.00,
+                "perMutation": 19.00,
+                "perMortgage": 19.00
+            },
+            {
+                "rsDaag": 64,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            },
+            {
+                "rsDaag": 62,
+                "perDeed": 29.00,
+                "perMutation": 29.00,
+                "perMortgage": 29.00
+            }
+            
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3480",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3480",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Faymax Sweater composite Ltd..",
+        "deedValue": "31806865.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Habibur Rahman and Other",
+                "east": "Fojor Ali and Other",
+                "west": "Abdur Hay and Other"
+            }
+        ],
+        "remarks": "The deed documents a total land area of 188.56 decimals. Among this, 35.66 decimals of land have been mortgaged to Agrani Bank in the name of Mutual Concern, and this portion has already been presented separately. From the remaining 152.90 decimals, 127.90 decimals are mortgaged in the name of Femax Sweater Composite. The other 25.00 decimals, which fall under RS Dag No. 182, are free of any mortgage obligations. The deed related to this 25.00 decimals has already been retrieved from the bank and sent to Madhabdi, with the corresponding mutation khatian attached. However, this portion still needs to be processed as a separate deed, which has been repeatedly requested, but no action has been taken so far."
     }
 ]
