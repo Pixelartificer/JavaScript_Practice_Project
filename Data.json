@@ -17198,9 +17198,9 @@
         "upazila": "Narsingdi Sodor",
         "ps": "Madhabdi",
         "district": "Narsingdi",
-        "deedType": "Inheritance",
+        "deedType": "Safkabla",
         "jlNumber": "RS- 111",
-        "buyer": "Faymax Sweater composite Ltd..",
+        "buyer": "Faymax Sweater composite Ltd.",
         "seller": "Mohammed Fayazur Rahman Bhuiyan",
         "deedNo": "7373",
         "date": "24-04-2014",
@@ -17482,7 +17482,6 @@
                 "perMutation": 29.00,
                 "perMortgage": 29.00
             }
-            
         ],
         "brsKahtianDetails": [
             null
@@ -17501,8 +17500,8 @@
         "holdingNo": "3480",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Faymax Sweater composite Ltd..",
-        "deedValue": "31806865.00",
+        "borrowerName": "Faymax Sweater composite Ltd.",
+        "deedValue": "3,18,06,865.00",
         "mortgageValue": "",
         "surrounding": [
             {
@@ -17513,5 +17512,1718 @@
             }
         ],
         "remarks": "The deed documents a total land area of 188.56 decimals. Among this, 35.66 decimals of land have been mortgaged to Agrani Bank in the name of Mutual Concern, and this portion has already been presented separately. From the remaining 152.90 decimals, 127.90 decimals are mortgaged in the name of Femax Sweater Composite. The other 25.00 decimals, which fall under RS Dag No. 182, are free of any mortgage obligations. The deed related to this 25.00 decimals has already been retrieved from the bank and sent to Madhabdi, with the corresponding mutation khatian attached. However, this portion still needs to be processed as a separate deed, which has been repeatedly requested, but no action has been taken so far."
+    },
+    {
+        "id": "193",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Faymax Sweater composite Ltd.",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "7373",
+        "date": "24-04-2014",
+        "landAreaPerDeed": 35.66,
+        "buildingAreaSqft": 14650,
+        "biaDeed": [
+            {
+                "deedNo": "16227",
+                "date": "22-08-2013"
+            },
+            {
+                "deedNo": "18333",
+                "date": "14-08-2011"
+            },
+            {
+                "deedNo": "16318",
+                "date": "25-08-2003"
+            },
+            {
+                "deedNo": "164",
+                "date": "06-01-2014"
+            },
+            {
+                "deedNo": "7061",
+                "date": "22-06-1982"
+            },
+            {
+                "deedNo": "7062",
+                "date": "22-06-1982"
+            },
+            {
+                "deedNo": "1397",
+                "date": "30-12-1986"
+            },
+            {
+                "deedNo": "3256",
+                "date": "02-05-1991"
+            },
+            {
+                "deedNo": "8867",
+                "date": "13-05-2010"
+            },
+            {
+                "deedNo": "168",
+                "date": "06-01-2014"
+            },
+            {
+                "deedNo": "15218",
+                "date": "29-07-2013"
+            },
+            {
+                "deedNo": "581",
+                "date": "13-01-2014"
+            },
+            {
+                "deedNo": "17998",
+                "date": "17-09-2013"
+            },
+            {
+                "deedNo": "18669",
+                "date": "26-09-2013"
+            },
+            {
+                "deedNo": "22592",
+                "date": "04-12-2013"
+            },
+            {
+                "deedNo": "6026",
+                "date": "24-03-2013"
+            },
+            {
+                "deedNo": "14818",
+                "date": "22-07-2013"
+            },
+            {
+                "deedNo": "12006",
+                "date": "05-10-2009"
+            },
+            {
+                "deedNo": "23472",
+                "date": "18-12-2013"
+            },
+            {
+                "deedNo": "14968",
+                "date": "23-07-2013"
+            },
+            {
+                "deedNo": "14969",
+                "date": "23-07-2013"
+            },
+            {
+                "deedNo": "21386",
+                "date": "17-11-2013"
+            },
+            {
+                "deedNo": "22145",
+                "date": "26-11-2013"
+            },
+            {
+                "deedNo": "4748",
+                "date": "25-03-1972"
+            },
+            {
+                "deedNo": "2311",
+                "date": "17-02-1982"
+            },
+            {
+                "deedNo": "2312",
+                "date": "17-02-1982"
+            },
+            {
+                "deedNo": "1523",
+                "date": "26-02-1998"
+            },
+            {
+                "deedNo": "984",
+                "date": "22-02-1989"
+            },
+            {
+                "deedNo": "11067",
+                "date": "22-01-1985"
+            },
+            {
+                "deedNo": "1796",
+                "date": "11-03-1997"
+            },
+            {
+                "deedNo": "1305",
+                "date": "23-01-2014"
+            }
+        ],
+        "csKhatianDetails": "",
+        "csDaagDetails": [
+            66,
+            78,
+            882,
+            998,
+            80,
+            70,
+            72,
+            999,
+            1124,
+            1127,
+            1139,
+            1136,
+            1137,
+            49,
+            50,
+            48
+        ],
+        "saKhatianDetails": [
+            10,
+            600,
+            354,
+            12,
+            860,
+            5,
+            6,
+            54,
+            299,
+            316,
+            562,
+            590,
+            906,
+            904,
+            829
+        ],
+        "saDaagDetails": [
+            66,
+            78,
+            882,
+            998,
+            80,
+            70,
+            72,
+            999,
+            1124,
+            1127,
+            1139,
+            1136,
+            1137,
+            49,
+            50,
+            48
+        ],
+        "rsKhatianDetails": [
+            1010,
+            544,
+            59,
+            362,
+            361,
+            346,
+            889,
+            356,
+            751,
+            315,
+            962,
+            115,
+            432,
+            164,
+            808
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2219,
+                "perDeed": 9.20,
+                "perMutation": 9.20,
+                "perMortgage": 9.20
+            },
+            {
+                "rsDaag": 2220,
+                "perDeed": 15.21,
+                "perMutation": 15.21,
+                "perMortgage": 15.21
+            },
+            {
+                "rsDaag": 2359,
+                "perDeed": 5.25,
+                "perMutation": 5.25,
+                "perMortgage": 5.25
+            },
+            {
+                "rsDaag": 2448,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            },
+            {
+                "rsDaag": 2444,
+                "perDeed": 2.50,
+                "perMutation": 2.50,
+                "perMortgage": 2.50
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3480",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3480",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "74,18,134.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Habibur Rahman and Other",
+                "east": "Fojor Ali and Other",
+                "west": "Abdur Hay and Other"
+            }
+        ],
+        "remarks": "The deed documents a total land area of 188.56 decimals. Among this, 35.66 decimals of land have been mortgaged to Agrani Bank in the name of Mutual Concern, and this portion has already been presented separately. From the remaining 152.90 decimals, 127.90 decimals are mortgaged in the name of Femax Sweater Composite. The other 25.00 decimals, which fall under RS Dag No. 182, are free of any mortgage obligations. The deed related to this 25.00 decimals has already been retrieved from the bank and sent to Madhabdi, with the corresponding mutation khatian attached. However, this portion still needs to be processed as a separate deed, which has been repeatedly requested, but no action has been taken so far."
+    },
+    {
+        "id": "194",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Faymax Sweater composite Ltd.",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "4061",
+        "date": "09-03-2021",
+        "landAreaPerDeed": 72.45,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9897",
+                "date": "14-06-2015"
+            },
+            {
+                "deedNo": "11543",
+                "date": "21-12-2003"
+            },
+            {
+                "deedNo": "23227",
+                "date": "23-12-2014"
+            },
+            {
+                "deedNo": "12744",
+                "date": "11-08-2015"
+            },
+            {
+                "deedNo": "7315",
+                "date": "04-08-1972"
+            },
+            {
+                "deedNo": "3165",
+                "date": "29-01-1975"
+            },
+            {
+                "deedNo": "666",
+                "date": "16-01-1979"
+            },
+            {
+                "deedNo": "650",
+                "date": "16-01-1979"
+            },
+            {
+                "deedNo": "3118",
+                "date": "27-04-1991"
+            },
+            {
+                "deedNo": "8867",
+                "date": "13-05-2010"
+            },
+            {
+                "deedNo": "8532",
+                "date": "02-06-2016"
+            },
+            {
+                "deedNo": "5849",
+                "date": "17-05-2008"
+            },
+            {
+                "deedNo": "16935",
+                "date": "29-08-2010"
+            },
+            {
+                "deedNo": "23449",
+                "date": "29-11-2010"
+            },
+            {
+                "deedNo": "22881",
+                "date": "15-11-2010"
+            }
+        ],
+        "csKhatianDetails": [
+            382
+        ],
+        "csDaagDetails": [
+            53,
+            55,
+            54
+        ],
+        "saKhatianDetails": [
+            30,
+            345,
+            29
+        ],
+        "saDaagDetails": [
+            53,
+            55,
+            54
+        ],
+        "rsKhatianDetails": [
+            77,
+            485,
+            396
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 65,
+                "perDeed": 34.29,
+                "perMutation": 34.29,
+                "perMortgage": 34.29
+            },
+            {
+                "rsDaag": 66,
+                "perDeed": 8.16,
+                "perMutation": 8.16,
+                "perMortgage": 8.16
+            },
+            {
+                "rsDaag": 71,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": 30.00
+            }
+        ],
+        "brsKahtianDetails": [
+            null
+        ],
+        "brsDaagDetails": [
+            {
+                "rsDaag": null,
+                "perDeed": null,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Faymax Sweater composite Ltd.",
+        "deedValue": "2,08,89,750.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "RS- 57, 58 no Daag",
+                "south": "Road & rs- 70 no Daag",
+                "east": "RS- 543, 545 67 no Daag",
+                "west": "RS- 61, 73, 72 no dag and Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "195",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mejanur Rahman Bhuiyann",
+        "deedNo": "4211",
+        "date": "08-03-2010",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": 52500,
+        "biaDeed": [
+            {
+                "deedNo": "6853",
+                "date": "14-06-2009"
+            },
+            {
+                "deedNo": "6359",
+                "date": "13-07-2003"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1214
+        ],
+        "saKhatianDetails": [
+            49,
+            50,
+            68
+        ],
+        "saDaagDetails": [
+            1214
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2410,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            }
+        ],
+        "rsMutationNo": "2197",
+        "brsMutationNo": null,
+        "khajna": "2024-2025",
+        "holdingNo": "2197",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahid Apparal",
+        "deedValue": "8,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mahfujur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "196",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sohedulla ",
+        "deedNo": "8668",
+        "date": "22-07-2009",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": 17500,
+        "biaDeed": [
+            {
+                "deedNo": "7159",
+                "date": "05-08-2001"
+            },
+            {
+                "deedNo": "5911",
+                "date": "25-05-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1214
+        ],
+        "saKhatianDetails": [
+            49
+        ],
+        "saDaagDetails": [
+            1214
+        ],
+        "rsKhatianDetails": [
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2415,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "rsMutationNo": "2038",
+        "brsMutationNo": null,
+        "khajna": "2024-2025",
+        "holdingNo": "2038",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahid Apparal Ltd.",
+        "deedValue": "10,66,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The purchased property mentioned in the deed was 12.00 decimals. However, only 4.00 decimals of land remain at present. The remaining 8.00 decimals were transferred under deed number 19818."
+    },
+    {
+        "id": "197",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "The Bay Super Textil Mils Ltd.",
+        "deedNo": "5758",
+        "date": "12-03-2012",
+        "landAreaPerDeed": 105.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1213",
+                "date": "01-02-1978"
+            },
+            {
+                "deedNo": "4689",
+                "date": "26-03-1970"
+            },
+            {
+                "deedNo": "9213",
+                "date": "25-08-1985"
+            },
+            {
+                "deedNo": "9234",
+                "date": "25-08-1985"
+            },
+            {
+                "deedNo": "9206",
+                "date": "24-08-1985"
+            },
+            {
+                "deedNo": "1333",
+                "date": "28-01-1969"
+            },
+            {
+                "deedNo": "14479",
+                "date": "21-06-1975"
+            },
+            {
+                "deedNo": "9208",
+                "date": "24-08-1985"
+            },
+            {
+                "deedNo": "2986",
+                "date": ""
+            },
+            {
+                "deedNo": "9207",
+                "date": "24-08-1985"
+            },
+            {
+                "deedNo": "14839",
+                "date": "21-11-2009"
+            },
+            {
+                "deedNo": "14367",
+                "date": "12-11-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            815,
+            814
+        ],
+        "saKhatianDetails": [
+            273,
+            240
+        ],
+        "saDaagDetails": [
+            815,
+            814
+        ],
+        "rsKhatianDetails": [
+            898,
+            487
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 300,
+                "perDeed": 52.00,
+                "perMutation": 52.00,
+                "perMortgage": 52.00
+            },
+            {
+                "rsDaag": 299,
+                "perDeed": 18.00,
+                "perMutation": 18.00,
+                "perMortgage": 18.00
+            },
+            {
+                "rsDaag": 305,
+                "perDeed": 35.00,
+                "perMutation": 35.00,
+                "perMortgage": 35.00
+            }
+        ],
+        "rsMutationNo": "2649",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2649",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "3,60,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Monirul Islam",
+                "south": "C & B Road",
+                "east": "Badsha and Other",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "198",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Md. Mojaffar Ali & Other",
+        "deedNo": "6407",
+        "date": "19-03-2012",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "16357",
+                "date": "21-07-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            820,
+            821
+        ],
+        "saKhatianDetails": [
+            387,
+            428
+        ],
+        "saDaagDetails": [
+            820,
+            821
+        ],
+        "rsKhatianDetails": [
+            192,
+            191
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 289,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 290,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "2789",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2702",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "13,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shadot Ali",
+                "south": "Zakir Hossain",
+                "east": "Shadot Ali",
+                "west": "Taraj Uddin and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "199",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Mst. Rohemun Nessa",
+        "deedNo": "18183",
+        "date": "01-08-2012",
+        "landAreaPerDeed": 2.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            202
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 303,
+                "perDeed": 2.66,
+                "perMutation": 2.66,
+                "perMortgage": 2.66
+            }
+        ],
+        "rsMutationNo": "2789",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2789",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "2,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Suraiya and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Roton Miah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "200",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Md. Mujebor Rahman & Other",
+        "deedNo": "16670",
+        "date": "16-07-2012",
+        "landAreaPerDeed": 10.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            202
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 303,
+                "perDeed": 10.66,
+                "perMutation": 10.66,
+                "perMortgage": 10.66
+            }
+        ],
+        "rsMutationNo": "2763",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2763",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "9,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Suraiya and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Roton Miah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "201",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Mst. Asma Begum & Other",
+        "deedNo": "21112",
+        "date": "17-09-2012",
+        "landAreaPerDeed": 5.67,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            343
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 302,
+                "perDeed": 5.67,
+                "perMutation": 5.67,
+                "perMortgage": 5.67
+            }
+        ],
+        "rsMutationNo": "2840",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2840",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "5,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Din Mohammed",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "202",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "17911",
+        "date": "16-09-2013",
+        "landAreaPerDeed": 67.28,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4921",
+                "date": "28-06-2006"
+            },
+            {
+                "deedNo": "2264",
+                "date": "10-03-2005"
+            },
+            {
+                "deedNo": "11054",
+                "date": "13-06-2010"
+            },
+            {
+                "deedNo": "3272",
+                "date": "13-02-2013"
+            },
+            {
+                "deedNo": "1318",
+                "date": "06-02-1991"
+            },
+            {
+                "deedNo": "18450",
+                "date": "07-08-2012"
+            },
+            {
+                "deedNo": "18658",
+                "date": "12-08-2012"
+            },
+            {
+                "deedNo": "19159",
+                "date": "27-08-2012"
+            },
+            {
+                "deedNo": "11879",
+                "date": "06-06-2013"
+            },
+            {
+                "deedNo": "7642",
+                "date": "24-07-1976"
+            },
+            {
+                "deedNo": "15996",
+                "date": "18-08-2013"
+            },
+            {
+                "deedNo": "18412",
+                "date": "14-08-2011"
+            },
+            {
+                "deedNo": "3998",
+                "date": "19-02-2012"
+            },
+            {
+                "deedNo": "16071",
+                "date": "08-07-2012"
+            },
+            {
+                "deedNo": "16584",
+                "date": "26-08-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            818,
+            818,
+            825,
+            822,
+            813,
+            840
+        ],
+        "saKhatianDetails": [
+            274,
+            638,
+            348,
+            514
+        ],
+        "saDaagDetails": [
+            818,
+            818,
+            825,
+            822,
+            813,
+            840
+        ],
+        "rsKhatianDetails": [
+            122,
+            723,
+            857,
+            127,
+            193
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 294,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            },
+            {
+                "rsDaag": 295,
+                "perDeed": 12.50,
+                "perMutation": 12.50,
+                "perMortgage": 12.50
+            },
+            {
+                "rsDaag": 296,
+                "perDeed": 7.66,
+                "perMutation": 7.66,
+                "perMortgage": 7.66
+            },
+            {
+                "rsDaag": 318,
+                "perDeed": 11.58,
+                "perMutation": 11.58,
+                "perMortgage": 11.58
+            },
+            {
+                "rsDaag": 306,
+                "perDeed": 9.54,
+                "perMutation": 9.54,
+                "perMortgage": 9.54
+            },
+            {
+                "rsDaag": 328,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            }
+        ],
+        "rsMutationNo": "3168",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3168",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "1,30,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "203",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Akman & Other",
+        "deedNo": "6814",
+        "date": "17-04-2014",
+        "landAreaPerDeed": 6.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5246",
+                "date": "23-03-2014"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            145
+        ],
+        "saKhatianDetails": [
+            244
+        ],
+        "saDaagDetails": [
+            145
+        ],
+        "rsKhatianDetails": [
+            757
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 260,
+                "perDeed": 6.75,
+                "perMutation": 6.75,
+                "perMortgage": 6.75
+            }
+        ],
+        "rsMutationNo": "3287",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3287",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "14,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Anari",
+                "south": "Gias Uddin",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "204",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Hosneara Molla & Other",
+        "deedNo": "7371",
+        "date": "24-04-2014",
+        "landAreaPerDeed": 39.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4533",
+                "date": "09-05-1996"
+            },
+            {
+                "deedNo": "6054",
+                "date": "04-07-2001"
+            },
+            {
+                "deedNo": "8309",
+                "date": "07-09-2003"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            813,
+            818
+        ],
+        "saKhatianDetails": [
+            516,
+            274
+        ],
+        "saDaagDetails": [
+            813,
+            818
+        ],
+        "rsKhatianDetails": [
+            81,
+            122
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 304,
+                "perDeed": 23.00,
+                "perMutation": 23.00,
+                "perMortgage": 23.00
+            },
+            {
+                "rsDaag": 298,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            }
+        ],
+        "rsMutationNo": "3260",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3260",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "81,12,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Rokon Uddin Mollah and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "205",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Salah Uddin",
+        "deedNo": "6936",
+        "date": "20-04-2014",
+        "landAreaPerDeed": 15.95,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6366",
+                "date": "31-08-1966"
+            },
+            {
+                "deedNo": "15982",
+                "date": "08-07-2012"
+            },
+            {
+                "deedNo": "17935",
+                "date": "31-07-2012"
+            },
+            {
+                "deedNo": "17648",
+                "date": "26-07-2012"
+            },
+            {
+                "deedNo": "14820",
+                "date": "11-09-2013"
+            },
+            {
+                "deedNo": "17616",
+                "date": "11-09-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            813,
+            810
+        ],
+        "saKhatianDetails": [
+            514,
+            200
+        ],
+        "saDaagDetails": [
+            813,
+            810
+        ],
+        "rsKhatianDetails": [
+            193,
+            865
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 306,
+                "perDeed": 7.95,
+                "perMutation": 7.95,
+                "perMortgage": 7.95
+            },
+            {
+                "rsDaag": 410,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            }
+        ],
+        "rsMutationNo": "3266",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3266",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "33,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Road",
+                "east": "Roton Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Rokon Uddin Mollah",
+                "south": "C & B Road",
+                "east": "Rokon Uddin Mollah and C & B Road",
+                "west": "Rokon Uddin Mollah and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "206",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdul Awal & Other",
+        "deedNo": "5894",
+        "date": "06-04-2014",
+        "landAreaPerDeed": 16.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "375",
+                "date": "10-01-1987"
+            },
+            {
+                "deedNo": "18204",
+                "date": "19-09-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            822
+        ],
+        "saKhatianDetails": [
+            348
+        ],
+        "saDaagDetails": [
+            822
+        ],
+        "rsKhatianDetails": [
+            127
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 319,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            },
+            {
+                "rsDaag": 317,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "rsMutationNo": "3236",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3236",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "34,24,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Hojorot Ali",
+                "south": "Mojammel and Other",
+                "east": "Nurul Islam",
+                "west": "Nargis and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "207",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Habebur Rahman & Other",
+        "deedNo": "5898",
+        "date": "06-04-2014",
+        "landAreaPerDeed": 44.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3888",
+                "date": "28-03-1984"
+            },
+            {
+                "deedNo": "3905",
+                "date": "28-03-1984"
+            },
+            {
+                "deedNo": "18242",
+                "date": "11-08-2011"
+            },
+            {
+                "deedNo": "27810",
+                "date": "28-12-2011"
+            },
+            {
+                "deedNo": "12438",
+                "date": "28-05-2012"
+            },
+            {
+                "deedNo": "4904",
+                "date": "14-05-1957"
+            },
+            {
+                "deedNo": "23111",
+                "date": "10-10-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            824,
+            825,
+            134
+        ],
+        "saKhatianDetails": [
+            638,
+            238
+        ],
+        "saDaagDetails": [
+            824,
+            825,
+            134
+        ],
+        "rsKhatianDetails": [
+            579,
+            393
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 312,
+                "perDeed": 21.00,
+                "perMutation": 21.00,
+                "perMortgage": 21.00
+            },
+            {
+                "rsDaag": 297,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            },
+            {
+                "rsDaag": 285,
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": 13.00
+            }
+        ],
+        "rsMutationNo": "3239",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3239",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "96,32,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Rokon Uddin Mollah",
+                "east": "Monjur Mowlovi and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Rokon Uddin Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Amir Uddin and Other",
+                "south": "Nurul Islam",
+                "east": "",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "208",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Zakia Cotton Text Ltd.",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "6960",
+        "date": "27-04-2015",
+        "landAreaPerDeed": 50.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3719",
+                "date": "16-03-1986"
+            },
+            {
+                "deedNo": "3640",
+                "date": "19-02-1976"
+            },
+            {
+                "deedNo": "5039",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "5073",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "5072",
+                "date": "14-05-1987"
+            },
+            {
+                "deedNo": "6054",
+                "date": "04-07-2001"
+            },
+            {
+                "deedNo": "4533",
+                "date": "09-06-1996"
+            },
+            {
+                "deedNo": "53",
+                "date": "02-01-1997"
+            },
+            {
+                "deedNo": "5035",
+                "date": "13-05-1987"
+            },
+            {
+                "deedNo": "3028",
+                "date": "30-03-1995"
+            },
+            {
+                "deedNo": "8403",
+                "date": "16-10-1989"
+            },
+            {
+                "deedNo": "226",
+                "date": "07-01-1987"
+            },
+            {
+                "deedNo": "2341",
+                "date": "07-03-1990"
+            },
+            {
+                "deedNo": "7302",
+                "date": "27-11-1999"
+            },
+            {
+                "deedNo": "7368",
+                "date": "24-04-1914"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            584
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            211
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 309,
+                "perDeed": 50.00,
+                "perMutation": 50.00,
+                "perMortgage": 50.00
+            }
+        ],
+        "rsMutationNo": "3690",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3690",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "1,05,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mrs. Moriom Akter and C & B",
+                "east": "Rokon Uddin Mollah",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "209",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Menhajur Rahman Bhuiyan",
+        "deedNo": "8378",
+        "date": "09-04-2012",
+        "landAreaPerDeed": 51.80,
+        "buildingAreaSqft": 19602.00,
+        "biaDeed": [
+            {
+                "deedNo": "20055",
+                "date": "14-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            192
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            342
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 166,
+                "perDeed": 51.80,
+                "perMutation": 45.00,
+                "perMortgage": 45.00
+            }
+        ],
+        "rsMutationNo": "3415",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3415",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "46,56,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "210",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hosen Ali Miah",
+        "deedNo": "13740",
+        "date": "19-07-2010",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "332",
+                "date": "11-01-2004"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1115
+        ],
+        "saKhatianDetails": [
+            612
+        ],
+        "saDaagDetails": [
+            1115
+        ],
+        "rsKhatianDetails": [
+            749
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2378,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "rsMutationNo": "2465",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2465",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "75,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Maksudur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
     }
 ]
