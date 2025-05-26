@@ -19225,5 +19225,143 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "211",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Shekh Abul Hasem & Other",
+        "deedNo": "13900",
+        "date": "21-07-2010",
+        "landAreaPerDeed": 8.86,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5600",
+                "date": "24-06-2003"
+            },
+            {
+                "deedNo": "7805",
+                "date": "30-06-2005"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1217
+        ],
+        "saKhatianDetails": [
+            48
+        ],
+        "saDaagDetails": [
+            1217
+        ],
+        "rsKhatianDetails": [
+            750,
+            460,
+            748
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2385,
+                "perDeed": 5.66,
+                "perMutation": 5.66,
+                "perMortgage": 5.66
+            },
+            {
+                "rsDaag": 2383,
+                "perDeed": 3.20,
+                "perMutation": 3.20,
+                "perMortgage": 3.20
+            }
+        ],
+        "rsMutationNo": "2281",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2281",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "5,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "212",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Rasheda Begum & Other",
+        "deedNo": "1081",
+        "date": "16-01-2001",
+        "landAreaPerDeed": 7.98,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10172",
+                "date": "15-11-2000"
+            },
+            {
+                "deedNo": "7065",
+                "date": "20-07-2002"
+            },
+            {
+                "deedNo": "7503",
+                "date": "16-08-2003"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1280
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            1280
+        ],
+        "rsKhatianDetails": [
+            955
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2630,
+                "perDeed": 7.98,
+                "perMutation": 7.98,
+                "perMortgage": 7.98
+            }
+        ],
+        "rsMutationNo": "2472",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2472",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "7,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Akter Hossain"
+            }
+        ],
+        "remarks": null
     }
 ]
