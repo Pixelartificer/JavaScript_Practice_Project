@@ -20753,5 +20753,206 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "231",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mahbub Monowar Ahamed & Other",
+        "deedNo": "565",
+        "date": "10-01-2011",
+        "landAreaPerDeed": 9.79,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            53
+        ],
+        "saKhatianDetails": [
+            30
+        ],
+        "saDaagDetails": [
+            53
+        ],
+        "rsKhatianDetails": [
+            77,
+            751
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 65,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 2220,
+                "perDeed": 2.79,
+                "perMutation": 2.79,
+                "perMortgage": 2.79
+            }
+        ],
+        "rsMutationNo": "2464",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2464",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "5,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mojammel and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Cannel"
+            },
+            {
+                "north": "Nurul Alam Bhuiyan",
+                "south": "Md. Owhidullah and Other",
+                "east": "Md. Fojor Ali and Other",
+                "west": "Md. Owhidullah and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "232",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Akkas Ali",
+        "deedNo": "13232",
+        "date": "06-06-2012",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1124
+        ],
+        "saKhatianDetails": [
+            844
+        ],
+        "saDaagDetails": [
+            1124
+        ],
+        "rsKhatianDetails": [
+            315
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2359,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "rsMutationNo": "2733",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2733",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "3,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Taherun Khatun",
+                "south": "Baha Uddin",
+                "east": "Hafej Ali and Fojlul Haque",
+                "west": "Monoar Hossain Master and Fojlul Haque"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "233",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Chobiya Begum & Other",
+        "deedNo": "12095",
+        "date": "24-05-2012",
+        "landAreaPerDeed": 7.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            886,
+            887
+        ],
+        "saKhatianDetails": [
+            764
+        ],
+        "saDaagDetails": [
+            886,
+            887
+        ],
+        "rsKhatianDetails": [
+            248
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 178,
+                "perDeed": 3.60,
+                "perMutation": 3.60,
+                "perMortgage": 3.60
+            },
+            {
+                "rsDaag": 177,
+                "perDeed": 3.60,
+                "perMutation": 3.60,
+                "perMortgage": 3.60
+            }
+        ],
+        "rsMutationNo": "2760",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2760",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "6,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Sundor Ali",
+                "east": "Mst. Chobiya Begum & Other",
+                "west": "Habebur Rahman"
+            }
+        ],
+        "remarks": null
     }
 ]
