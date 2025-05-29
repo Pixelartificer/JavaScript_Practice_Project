@@ -22369,5 +22369,204 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "254",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mohi Uddin & Other",
+        "deedNo": "16904",
+        "date": "26-08-2010",
+        "landAreaPerDeed": 3.25,
+        "buildingAreaSqft": 1060.00,
+        "biaDeed": [
+            {
+                "deedNo": "10172",
+                "date": "15-11-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1280
+        ],
+        "saKhatianDetails": [
+            371,
+            372
+        ],
+        "saDaagDetails": [
+            1280
+        ],
+        "rsKhatianDetails": [
+            855
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2630,
+                "perDeed": 3.25,
+                "perMutation": 3.25,
+                "perMortgage": 3.25
+            }
+        ],
+        "rsMutationNo": "2318",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2318",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "3,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Roton and Other",
+                "east": "Haje Hajarot Ali",
+                "west": "Md. Tara Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "255",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mejanur Rahman Bhuiyan",
+        "deedNo": "21831",
+        "date": "04-11-2010",
+        "landAreaPerDeed": 53.00,
+        "buildingAreaSqft": 17330.00,
+        "biaDeed": [
+            {
+                "deedNo": "3776",
+                "date": "20-04-2005"
+            },
+            {
+                "deedNo": "4211",
+                "date": "08-03-2010"
+            },
+            {
+                "deedNo": "10598",
+                "date": "07-06-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1111
+        ],
+        "saKhatianDetails": [
+            110
+        ],
+        "saDaagDetails": [
+            1111
+        ],
+        "rsKhatianDetails": [
+            459
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2376,
+                "perDeed": 53.00,
+                "perMutation": 53.00,
+                "perMortgage": 53.00
+            }
+        ],
+        "rsMutationNo": "2337",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2337",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "4,00,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Samsu Nahar and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan and Other",
+                "east": "Road",
+                "west": "Khalejujaman and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "256",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Billal Hossain & Other",
+        "deedNo": "9381",
+        "date": "23-05-2010",
+        "landAreaPerDeed": 4.50,
+        "buildingAreaSqft": 1470.00,
+        "biaDeed": [
+            {
+                "deedNo": "10409",
+                "date": "29-11-2007"
+            },
+            {
+                "deedNo": "10408",
+                "date": "29-11-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+           
+        ],
+        "saKhatianDetails": [
+           
+        ],
+        "saDaagDetails": [
+            
+        ],
+        "rsKhatianDetails": [
+            445
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2631,
+                "perDeed": 0.38,
+                "perMutation": 0.38,
+                "perMortgage": 0.38
+            },
+            {
+                "rsDaag": 2632,
+                "perDeed": 4.12,
+                "perMutation": 4.12,
+                "perMortgage": 4.12
+            }
+        ],
+        "rsMutationNo": "445/B",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1739",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohi Uddin",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
     }
 ]
