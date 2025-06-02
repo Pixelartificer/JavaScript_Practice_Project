@@ -23601,7 +23601,7 @@
         "district": "Narsingdi",
         "deedType": "Safkabla",
         "jlNumber": "RS- 111",
-        "buyer": "J.S. Link Ltd",
+        "buyer": "J.S. Link Ltd.",
         "seller": "Mohammed Fayazur Rahman Bhuiyan",
         "deedNo": "7904",
         "date": "27-05-2019",
@@ -23664,14 +23664,12 @@
             1190,
             "1267/1567",
             1268
-            
         ],
         "saKhatianDetails": [
             556,
             895,
             556,
             556
-            
         ],
         "saDaagDetails": [
             1288,
@@ -23685,7 +23683,6 @@
             1017,
             278,
             880
-            
         ],
         "rsDaagDetails": [
             {
@@ -23697,26 +23694,26 @@
             {
                 "rsDaag": 2606,
                 "perDeed": 4.00,
-                "perMutation":4.00,
-                "perMortgage":4.00
+                "perMutation": 4.00,
+                "perMortgage": 4.00
             },
             {
                 "rsDaag": 2612,
                 "perDeed": 7.50,
-                "perMutation":7.50,
-                "perMortgage":7.50
+                "perMutation": 7.50,
+                "perMortgage": 7.50
             },
             {
                 "rsDaag": 2609,
                 "perDeed": 8.25,
-                "perMutation":8.25,
-                "perMortgage":8.25
+                "perMutation": 8.25,
+                "perMortgage": 8.25
             },
             {
                 "rsDaag": 2606,
                 "perDeed": 5.00,
-                "perMutation":5.00,
-                "perMortgage":5.00
+                "perMutation": 5.00,
+                "perMortgage": 5.00
             }
         ],
         "rsMutationNo": "4597",
@@ -23749,6 +23746,657 @@
             },
             {
                 "north": "Khalejur Zaman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "274",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahalam Bhuiyan",
+        "deedNo": "15092",
+        "date": "26-06-2012",
+        "landAreaPerDeed": 3.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2937",
+                "date": "06-04-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1120
+        ],
+        "saKhatianDetails": [
+            110
+        ],
+        "saDaagDetails": [
+            1120
+        ],
+        "rsKhatianDetails": [
+            459
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2354,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": 3.50
+            }
+        ],
+        "rsMutationNo": "2796",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2796",
+        "type": "Certified copy",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "3,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Younus and Other",
+                "south": "Abdul Barek Khan",
+                "east": "Jahangir Bhuiyan",
+                "west": "Mahbub and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "275",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahe Alam Bhuiyan",
+        "deedNo": "10398",
+        "date": "29-11-2007",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2896",
+                "date": "17-03-2002"
+            },
+            {
+                "deedNo": "4582",
+                "date": "28-05-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1130
+        ],
+        "saKhatianDetails": [
+            110
+        ],
+        "saDaagDetails": [
+            1130
+        ],
+        "rsKhatianDetails": [
+            459
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1130,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "459/B(1)",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1719",
+        "type": "Original",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "1,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mojammel Haque Bhuiyan and Other",
+                "south": "Sarowar",
+                "east": "Younus Gazi",
+                "west": "School and Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "276",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Khan Mahmud & Other",
+        "deedNo": "10919",
+        "date": "09-05-2012",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1423",
+                "date": "30-01-1980"
+            },
+            {
+                "deedNo": "3051",
+                "date": "20-03-2002"
+            },
+            {
+                "deedNo": "8121",
+                "date": "11-10-2006"
+            },
+            {
+                "deedNo": "19792",
+                "date": "11-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1526
+        ],
+        "saKhatianDetails": [
+            871
+        ],
+        "saDaagDetails": [
+            1526
+        ],
+        "rsKhatianDetails": [
+            12
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2866,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "rsMutationNo": "2714",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2714",
+        "type": "Certified copy",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "3,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Lal Miah",
+                "south": "Kalu Miah",
+                "east": "Shadon Miah",
+                "west": "Asad Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "277",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mahtab Hossain",
+        "deedNo": "12152",
+        "date": "14-10-2020",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10522",
+                "date": "17-12-1960"
+            },
+            {
+                "deedNo": "3746",
+                "date": "19-05-1991"
+            },
+            {
+                "deedNo": "11286",
+                "date": "12-12-1992"
+            },
+            {
+                "deedNo": "8099",
+                "date": "10-09-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1181,
+            1182
+        ],
+        "saKhatianDetails": [
+            389
+        ],
+        "saDaagDetails": [
+            1181,
+            1182
+        ],
+        "rsKhatianDetails": [
+            614
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2434,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            },
+            {
+                "rsDaag": 2433,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "rsMutationNo": "4545",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "4545",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,00,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The deed no. 10350 was initially transferred to Mr. Md. Meher Ali through a Power of Attorney. However, it is important to verify whether this transaction was later cancelled. Additionally, the deed has subsequently been mortgaged in the name of MJM Dyeing and Fashion Ltd. with Bangladesh Development Bank Ltd. (BDBL) on 24-09-2023."
+    },
+    {
+        "id": "278",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mrs. Nujhat Ara Jasmin & Other",
+        "deedNo": "12154",
+        "date": "14-10-2020",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10522",
+                "date": "17-12-1960"
+            },
+            {
+                "deedNo": "1380",
+                "date": "28-02-2006"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1180,
+            1181,
+            1182
+        ],
+        "saKhatianDetails": [
+            398
+        ],
+        "saDaagDetails": [
+            1180,
+            1181,
+            1182
+        ],
+        "rsKhatianDetails": [
+            614
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2435,
+                "perDeed": 0.50,
+                "perMutation": 0.50,
+                "perMortgage": 0.50
+            },
+            {
+                "rsDaag": 2434,
+                "perDeed": 0.17,
+                "perMutation": 0.17,
+                "perMortgage": 0.17
+            },
+            {
+                "rsDaag": 2433,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "rsMutationNo": "4557",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "4557",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "9,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Layla Anjuman and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mrs. Nujhat Ara Jasmin & Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The deed no. 10350 was initially transferred to Mr. Md. Meher Ali through a Power of Attorney. However, it is important to verify whether this transaction was later cancelled. Additionally, the deed has subsequently been mortgaged in the name of MJM Dyeing and Fashion Ltd. with Bangladesh Development Bank Ltd. (BDBL) on 24-09-2023."
+    },
+    {
+        "id": "279",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdul Hannan & Other",
+        "deedNo": "17580",
+        "date": "08-12-2019",
+        "landAreaPerDeed": 16.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10522",
+                "date": "17-12-1960"
+            },
+            {
+                "deedNo": "3746",
+                "date": "19-05-1991"
+            },
+            {
+                "deedNo": "11286",
+                "date": "12-12-1992"
+            },
+            {
+                "deedNo": "8099",
+                "date": "10-09-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1180,
+            1181,
+            1182
+        ],
+        "saKhatianDetails": [
+            398
+        ],
+        "saDaagDetails": [
+            1180,
+            1181,
+            1182
+        ],
+        "rsKhatianDetails": [
+            614
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2434,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            },
+            {
+                "rsDaag": 2433,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            }
+        ],
+        "rsMutationNo": "4429",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "4429",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "37,45,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Md. Mehir Ali",
+                "east": "Mahtab Hossain",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The deed no. 10350 was initially transferred to Mr. Md. Meher Ali through a Power of Attorney. However, it is important to verify whether this transaction was later cancelled. Additionally, the deed has subsequently been mortgaged in the name of MJM Dyeing and Fashion Ltd. with Bangladesh Development Bank Ltd. (BDBL) on 24-09-2023."
+    },
+    {
+        "id": "280",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sacemul Hassain Bhuiyab",
+        "deedNo": "17587",
+        "date": "08-12-2019",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "33193",
+                "date": "06-08-2018"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1185
+        ],
+        "saKhatianDetails": [
+            331
+        ],
+        "saDaagDetails": [
+            1185
+        ],
+        "rsKhatianDetails": [
+            627
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2616,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            }
+        ],
+        "rsMutationNo": "4423",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "4423",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "18,72,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Pansh Thakur and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Md. Sacemul Hassain Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The deed no. 10350 was initially transferred to Mr. Md. Meher Ali through a Power of Attorney. However, it is important to verify whether this transaction was later cancelled. Additionally, the deed has subsequently been mortgaged in the name of MJM Dyeing and Fashion Ltd. with Bangladesh Development Bank Ltd. (BDBL) on 24-09-2023."
+    },
+    {
+        "id": "281",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Elyas & Other",
+        "deedNo": "3825",
+        "date": "02-03-2014",
+        "landAreaPerDeed": 5.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9710",
+                "date": "26-05-2010"
+            },
+            {
+                "deedNo": "22766",
+                "date": "14-11-2010"
+            },
+            {
+                "deedNo": "18865",
+                "date": "30-09-2010"
+            },
+            {
+                "deedNo": "27745",
+                "date": "17-12-2012"
+            },
+            {
+                "deedNo": "23570",
+                "date": "16-10-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1317,
+872
+
+        ],
+        "saKhatianDetails": [
+            
+        ],
+        "saDaagDetails": [
+            1317,
+872
+
+        ],
+        "rsKhatianDetails": [
+            1002
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2522,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            },
+            {
+                "rsDaag": 109,
+                "perDeed": 1.75,
+                "perMutation": 1.75,
+                "perMortgage": 1.75
+            }
+        ],
+        "rsMutationNo": "3214",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3214",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "12,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Jalil Miah",
+                "south": "Tarabanu and Other",
+                "east": "Md. Elyas & Other",
+                "west": "Afaj Uddin and Other"
+            },
+            {
+                "north": "Jalil Miah",
+                "south": "Tarabanu and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Afaj Uddin and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "282",
+        "mouza": "Boro Nowpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 111",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Hasina Begum & Other",
+        "deedNo": "8880",
+        "date": "19-05-2014",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            69
+        ],
+        "saKhatianDetails": [
+            15
+        ],
+        "saDaagDetails": [
+            69
+
+        ],
+        "rsKhatianDetails": [
+            97
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 158,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "3321",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3321",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
                 "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
