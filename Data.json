@@ -601,7 +601,7 @@
         "khajna": "1419",
         "holdingNo": "1256",
         "type": "Certified copy",
-        "mortgageBank": "Uttara Bank Ltd. PLC",
+        "mortgageBank": "Uttara Bank Ltd.",
         "borrowerName": "JB Traders Ltd.",
         "deedValue": "25,00,000.00",
         "mortgageValue": "",
@@ -17988,7 +17988,7 @@
         "holdingNo": "2197",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Mahid Apparal",
+        "borrowerName": "Mahid Apparal Ltd.",
         "deedValue": "8,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -28198,6 +28198,905 @@
                 "south": "Road",
                 "east": "Zakia Cotton Text Ltd.",
                 "west": "Raju Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "333",
+        "mouza": "Vatpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Lal Miah",
+        "deedNo": "13648",
+        "date": "06-08-2014",
+        "landAreaPerDeed": 11.13,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7694",
+                "date": "29-03-2011"
+            },
+            {
+                "deedNo": "11746",
+                "date": "11-05-2011"
+            },
+            {
+                "deedNo": "25224",
+                "date": "20-11-2011"
+            },
+            {
+                "deedNo": "12529",
+                "date": "23-05-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            625,
+            507
+        ],
+        "saKhatianDetails": [
+            1271,
+            1234
+        ],
+        "saDaagDetails": [
+            625,
+            507
+        ],
+        "rsKhatianDetails": [
+            802
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1191,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            },
+            {
+                "rsDaag": 1189,
+                "perDeed": 1.13,
+                "perMutation": 1.13,
+                "perMortgage": 1.13
+            }
+        ],
+        "rsMutationNo": "3536",
+        "brsMutationNo": null,
+        "khajna": "2024-2025",
+        "holdingNo": "3536",
+        "type": "Certified copy",
+        "mortgageBank": "Hajj Finance co. Ltd.",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "5,90,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Khorshen",
+                "south": "Rajaul Shaheb",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "334",
+        "mouza": "Vatpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hatem Khan",
+        "deedNo": "6300",
+        "date": "18-03-2012",
+        "landAreaPerDeed": 1.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10398",
+                "date": "24-08-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            625
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            625
+        ],
+        "rsKhatianDetails": [
+            802
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1191,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": 1.50
+            }
+        ],
+        "rsMutationNo": "3120",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3120",
+        "type": "Original",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "1,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shahin Mahmud",
+                "south": "C & B Road",
+                "east": "Rajaul Karim",
+                "west": "Shahin Mahmud"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "335",
+        "mouza": "Vatpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahin Mahmud",
+        "deedNo": "14974",
+        "date": "26-06-2012",
+        "landAreaPerDeed": 39.80,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "12090",
+                "date": "30-10-1985"
+            },
+            {
+                "deedNo": "879",
+                "date": "29-01-1997"
+            },
+            {
+                "deedNo": "10833",
+                "date": "12-12-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            625,
+            506,
+            507
+        ],
+        "saKhatianDetails": [
+            1234,
+            1244,
+            1271
+        ],
+        "saDaagDetails": [
+            625,
+            506,
+            507
+        ],
+        "rsKhatianDetails": [
+            802,
+            797,
+            824
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1191,
+                "perDeed": 12.75,
+                "perMutation": 12.75,
+                "perMortgage": 12.75
+            },
+            {
+                "rsDaag": 1190,
+                "perDeed": 11.26,
+                "perMutation": 11.26,
+                "perMortgage": 11.26
+            },
+            {
+                "rsDaag": 1189,
+                "perDeed": 15.79,
+                "perMutation": 15.79,
+                "perMortgage": 15.79
+            }
+        ],
+        "rsMutationNo": "3163",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3163",
+        "type": "Certified copy",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "94,77,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "AT ANd Other",
+                "south": "C & B Road",
+                "east": "Rajaul Karim and Other",
+                "west": "Rajaul Karim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "336",
+        "mouza": "Vatpara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahin Mahmud",
+        "deedNo": "14994",
+        "date": "24-07-2013",
+        "landAreaPerDeed": 0.98,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "10949",
+                "date": "03-05-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            506
+        ],
+        "saKhatianDetails": [
+            1244
+        ],
+        "saDaagDetails": [
+            506
+        ],
+        "rsKhatianDetails": [
+            797
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1190,
+                "perDeed": 0.98,
+                "perMutation": 0.98,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "3347",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "3347",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "C & B Road",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Rajaul Karim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "337",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abu Sayid Shekh",
+        "deedNo": "673",
+        "date": "21-04-2012",
+        "landAreaPerDeed": 184.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3763",
+                "date": "16-06-1972"
+            },
+            {
+                "deedNo": "13403",
+                "date": "29-11-1973"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            172
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 519,
+                "perDeed": 184.50,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "68,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul Karim",
+                "south": "Deckan LPG Ltd.",
+                "east": "Owhab and Nejam",
+                "west": "Porshu River"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "338",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Hasdina Begum & Other",
+        "deedNo": "677",
+        "date": "22-04-2015",
+        "landAreaPerDeed": 51.83,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7496",
+                "date": "05-10-1953"
+            },
+            {
+                "deedNo": "2468",
+                "date": "21-06-1954"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            136
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 518,
+                "perDeed": 51.83,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "19,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Amin Mohammed Group",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Abu Shahid"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "339",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Anser Ali Morol & Other",
+        "deedNo": "678",
+        "date": "22-04-2015",
+        "landAreaPerDeed": 42.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            164
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 509,
+                "perDeed": 42.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "15,55,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amin Mohammid Group",
+                "south": "Abdul Karim",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Porshu River"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "340",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Anjera & Other",
+        "deedNo": "694",
+        "date": "08-03-2015",
+        "landAreaPerDeed": 79.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "47012",
+                "date": "23-05-1960"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            112
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            112
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 511,
+                "perDeed": 79.66,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "29,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul Kader",
+                "south": "Amin Mohammed Group",
+                "east": "Gonai Khan",
+                "west": "Amin Mohammen Group"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "341",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Humaun Kabir Morol",
+        "deedNo": "1300",
+        "date": "07-09-2014",
+        "landAreaPerDeed": 63.54,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1373",
+                "date": "30-08-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            116,
+            117
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            116,
+            117
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 0,
+                "perDeed": 31.77,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            },
+            {
+                "rsDaag": 0,
+                "perDeed": 31.77,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "21,12,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amin Mohammid Group",
+                "south": "Deckan LPG Ltd.",
+                "east": "Gona River",
+                "west": "Porshu River"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "342",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdur Razzak Biswas & Other",
+        "deedNo": "1301",
+        "date": "07-09-2014",
+        "landAreaPerDeed": 114.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "709",
+                "date": "30-04-2003"
+            },
+            {
+                "deedNo": "1492",
+                "date": "21-08-2003"
+            },
+            {
+                "deedNo": "573",
+                "date": "27-04-2005"
+            },
+            {
+                "deedNo": "1318",
+                "date": "08-05-1986"
+            },
+            {
+                "deedNo": "1306",
+                "date": "02-05-1987"
+            },
+            {
+                "deedNo": "655",
+                "date": "19-04-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            112
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            112
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 0,
+                "perDeed": 114.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "42,24,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amin Mohammid Group",
+                "south": "Deckan LPG Ltd.",
+                "east": "Gona River",
+                "west": "Porshu River"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "343",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abbdul Wohab Shekh & Other",
+        "deedNo": "1302",
+        "date": "07-09-2014",
+        "landAreaPerDeed": 238.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "498",
+                "date": "29-03-1979"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            118
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            118
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 0,
+                "perDeed": 238.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "78,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amin Mohammid Group",
+                "south": "Amin Mohammed Group",
+                "east": "Alauddin Master",
+                "west": "Md. Abuu Sayid"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "344",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Deljan & Other",
+        "deedNo": "1303",
+        "date": "07-09-2014",
+        "landAreaPerDeed": 26.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            118
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            118
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 0,
+                "perDeed": 26.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "8,58,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Amin Mohammid Group",
+                "south": "Amin Mohammed Group",
+                "east": "Shahjahan Biswas",
+                "west": "Porshu River"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "345",
+        "mouza": "Beddar Baon",
+        "upazila": "Mongla",
+        "ps": "Burir Danga",
+        "district": "Bagerhat",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Allauddin Shekh",
+        "deedNo": "1503",
+        "date": "21-10-2014",
+        "landAreaPerDeed": 188.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4370",
+                "date": "05-10-1948"
+            },
+            {
+                "deedNo": "2145",
+                "date": "15-04-1953"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            114,
+            116,
+            117
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            114,
+            116,
+            117
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 0,
+                "perDeed": 63.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            },
+            {
+                "rsDaag": 0,
+                "perDeed": 62.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            },
+            {
+                "rsDaag": 0,
+                "perDeed": 63.00,
+                "perMutation": 0.00,
+                "perMortgage": 0.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "32,04,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shahjahan Biswas",
+                "south": "Deckan LPG Ltd.",
+                "east": "Gona River",
+                "west": "Owhab and Nejam"
+            }
+        ],
+        "remarks": "The land in this mouza was purchased based on the SA Khatian, so it is not possible to show how much land falls under each RS Dag. Currently, a total of 528.00 and 153.75 decimals of land have been mutated through BRS Khatian numbers 188 and 189, respectively. However, it has not been possible to determine how much land exists under each SA Dag. The original deeds were sent to the Chairman Sir on 04-03-2023."
+    },
+    {
+        "id": "346",
+        "mouza": "Bopal",
+        "upazila": "Asulia/Savar",
+        "ps": "Dham Shona",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 79",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Vagobati Dabi Kajorewall",
+        "deedNo": "3468",
+        "date": "28-02-2011",
+        "landAreaPerDeed": 4.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9395",
+                "date": "08-08-1989"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            283
+        ],
+        "saKhatianDetails": [
+            80
+        ],
+        "saDaagDetails": [
+            79
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 817,
+                "perDeed": 4.50,
+                "perMutation": 0.00,
+                "perMortgage": 4.50
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "17,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Vagobati Dabi Kajorewall",
+                "east": "Road",
+                "west": "An Other Daag"
             }
         ],
         "remarks": null
