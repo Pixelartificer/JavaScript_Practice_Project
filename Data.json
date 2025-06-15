@@ -448,7 +448,7 @@
         "holdingNo": null,
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "M M Knitting & Embroidery",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
         "deedValue": "33,30,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -848,7 +848,7 @@
         "holdingNo": "8411",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "18,80,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -927,7 +927,7 @@
         "holdingNo": "8412",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "13,77,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -993,7 +993,7 @@
                 "perMortgage": 5.00
             }
         ],
-        "brsKahtianDetails": [
+       "brsKahtianDetails": [
             null
         ],
         "brsDaagDetails": [
@@ -1010,7 +1010,7 @@
         "holdingNo": "4810",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "12,51,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -1081,7 +1081,7 @@
         "holdingNo": "8540",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "6,40,000",
         "mortgageValue": "",
         "surrounding": [
@@ -1156,7 +1156,7 @@
         "holdingNo": "8536",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "9,40,000",
         "mortgageValue": "",
         "surrounding": [
@@ -1231,7 +1231,7 @@
         "holdingNo": "8602",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "7,20,000",
         "mortgageValue": "",
         "surrounding": [
@@ -1318,7 +1318,7 @@
         "holdingNo": "8682",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "20,00,000",
         "mortgageValue": "",
         "surrounding": [
@@ -1727,7 +1727,7 @@
         "holdingNo": "8569",
         "type": "Certified copy",
         "mortgageBank": "BD Finance",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "8,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -1802,7 +1802,7 @@
         "holdingNo": "8603",
         "type": "Certified copy",
         "mortgageBank": "BD Finance",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "20,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -1878,7 +1878,7 @@
         "holdingNo": "8560",
         "type": "Certified copy",
         "mortgageBank": "BD Finance",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "11,30,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -3160,7 +3160,7 @@
         "holdingNo": "3687",
         "type": "Certified copy",
         "mortgageBank": "The Premier Bank Ltd.",
-        "borrowerName": "FM Textile & Yarn Trading",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
         "deedValue": "1,70,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -3257,7 +3257,7 @@
         "holdingNo": "2503",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "M M Knitting & Embroidery",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
         "deedValue": "1,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -3386,7 +3386,7 @@
         "holdingNo": "2962",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "M M Knitting & Embroidery",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
         "deedValue": "13,30,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -3485,7 +3485,7 @@
         "holdingNo": "2962",
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "M M Knitting & Embroidery",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
         "deedValue": "1,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -3556,7 +3556,7 @@
         "holdingNo": "3328",
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "M M Knitting & Embroidery",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
         "deedValue": "50,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -8344,7 +8344,7 @@
         "holdingNo": "3309",
         "type": "Original",
         "mortgageBank": "IIDFC",
-        "borrowerName": "Jb Auto Cars.",
+        "borrowerName": "Jb Auto Cars",
         "deedValue": "18,41,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -8431,7 +8431,7 @@
         "holdingNo": "3308",
         "type": "Original",
         "mortgageBank": "IIDFC",
-        "borrowerName": "Jb Auto Cars.",
+        "borrowerName": "Jb Auto Cars",
         "deedValue": "20,80,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -8506,7 +8506,7 @@
         "holdingNo": "3801",
         "type": "Original",
         "mortgageBank": "IIDFC",
-        "borrowerName": "Jb Auto Cars.",
+        "borrowerName": "Jb Auto Cars",
         "deedValue": "56,70,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11302,7 +11302,7 @@
         "holdingNo": "3868",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "37,80,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11373,7 +11373,7 @@
         "holdingNo": "3390",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "8,32,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11444,7 +11444,7 @@
         "holdingNo": "3390",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "2,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11522,7 +11522,7 @@
         "holdingNo": "3409",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "10,60,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11609,7 +11609,7 @@
         "holdingNo": "3445",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "13,52,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11686,7 +11686,7 @@
         "holdingNo": "3435",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "23,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11769,7 +11769,7 @@
         "holdingNo": "3459",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "11,50,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11840,7 +11840,7 @@
         "holdingNo": "3355",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "10,40,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11911,7 +11911,7 @@
         "holdingNo": "3355",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "5,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -11982,7 +11982,7 @@
         "holdingNo": "3355",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "5,62,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -12060,7 +12060,7 @@
         "holdingNo": "3389",
         "type": "Original",
         "mortgageBank": "Premier Leasing & Finance Limited",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "13,25,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -15695,7 +15695,7 @@
         "holdingNo": "3654",
         "type": "Certified copy",
         "mortgageBank": "BD Finance Ltd.",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "26,80,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -15778,7 +15778,7 @@
         "holdingNo": "3724",
         "type": "Certified copy",
         "mortgageBank": "BD Finance Ltd.",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "39,10,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -15853,7 +15853,7 @@
         "holdingNo": "3350",
         "type": "Certified copy",
         "mortgageBank": "BD Finance Ltd.",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "15,60,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -15942,7 +15942,7 @@
         "holdingNo": "3327",
         "type": "Certified copy",
         "mortgageBank": "BD Finance Ltd.",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "1,08,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -16023,7 +16023,7 @@
         "holdingNo": "3400",
         "type": "Certified copy",
         "mortgageBank": "BD Finance Ltd.",
-        "borrowerName": "Ainoon Trade House Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
         "deedValue": "37,20,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -17500,7 +17500,7 @@
         "holdingNo": "3480",
         "type": "Original",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Faymax Sweater composite Ltd.",
+        "borrowerName": "Faymax Sweater Composite Ltd.",
         "deedValue": "3,18,06,865.00",
         "mortgageValue": "",
         "surrounding": [
@@ -17521,7 +17521,7 @@
         "district": "Narsingdi",
         "deedType": "Safkabla",
         "jlNumber": "RS- 111",
-        "buyer": "Faymax Sweater composite Ltd.",
+        "buyer": "Faymax Sweater Composite Ltd.",
         "seller": "Mohammed Fayazur Rahman Bhuiyan",
         "deedNo": "7373",
         "date": "24-04-2014",
@@ -17794,7 +17794,7 @@
         "district": "Narsingdi",
         "deedType": "Safkabla",
         "jlNumber": "RS- 111",
-        "buyer": "Faymax Sweater composite Ltd.",
+        "buyer": "Faymax Sweater Composite Ltd.",
         "seller": "Mohammed Fayazur Rahman Bhuiyan",
         "deedNo": "4061",
         "date": "09-03-2021",
@@ -17922,7 +17922,7 @@
         "holdingNo": "",
         "type": "Certified copy",
         "mortgageBank": "Agrani Bank Ltd. PLC",
-        "borrowerName": "Faymax Sweater composite Ltd.",
+        "borrowerName": "Faymax Sweater Composite Ltd.",
         "deedValue": "2,08,89,750.00",
         "mortgageValue": "",
         "surrounding": [
@@ -29045,7 +29045,7 @@
     },
     {
         "id": "346",
-        "mouza": "Bopal",
+        "mouza": "Baipal",
         "upazila": "Asulia/Savar",
         "ps": "Dham Shona",
         "district": "Dhaka",
