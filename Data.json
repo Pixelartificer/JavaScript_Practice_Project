@@ -993,7 +993,7 @@
                 "perMortgage": 5.00
             }
         ],
-       "brsKahtianDetails": [
+        "brsKahtianDetails": [
             null
         ],
         "brsDaagDetails": [
@@ -28269,7 +28269,7 @@
         "khajna": "2024-2025",
         "holdingNo": "3536",
         "type": "Certified copy",
-        "mortgageBank": "Hajj Finance co. Ltd.",
+        "mortgageBank": "Hajj Finance Company Limited",
         "borrowerName": "Mahaid Expo International Textile Ltd.",
         "deedValue": "5,90,000.00",
         "mortgageValue": "",
@@ -29097,6 +29097,676 @@
                 "south": "Vagobati Dabi Kajorewall",
                 "east": "Road",
                 "west": "An Other Daag"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "347",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Khalekuzaman",
+        "deedNo": "11509",
+        "date": "22-06-2014",
+        "landAreaPerDeed": 27.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2144",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "2089",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "779",
+                "date": "10-01-1912"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            336
+        ],
+        "saKhatianDetails": [
+            87
+        ],
+        "saDaagDetails": [
+            336
+        ],
+        "rsKhatianDetails": [
+            325
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 460,
+                "perDeed": 27.00,
+                "perMutation": 27.00,
+                "perMortgage": 27.00
+            }
+        ],
+        "rsMutationNo": "2476",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2476",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "1,44,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Amir Hossain",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Baten and Babul"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "348",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nacimul Hassain Bhuiyan & Other",
+        "deedNo": "14014",
+        "date": "13-06-2011",
+        "landAreaPerDeed": 10.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "23586",
+                "date": "30-11-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            "26/657"
+        ],
+        "saKhatianDetails": [
+            454
+        ],
+        "saDaagDetails": [
+            "26/657"
+        ],
+        "rsKhatianDetails": [
+            44
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 33,
+                "perDeed": 10.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "2046",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2046",
+        "type": "Certified copy",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "27,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mahbubur Rahman",
+                "south": "Md. Masum and Other",
+                "east": "Mahbubur Rahman",
+                "west": "Road"
+            }
+        ],
+        "remarks": "The amount of property purchased in the deed is 10.00 decimal, but mutation has been done for 5.00 decimal and mortgage has also been done for 5.00 decimal."
+    },
+    {
+        "id": "349",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Khurshed Jahan",
+        "deedNo": "5891",
+        "date": "06-04-2014",
+        "landAreaPerDeed": 10.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6733",
+                "date": "23-06-1983"
+            },
+            {
+                "deedNo": "27712",
+                "date": "08-12-2011"
+            },
+            {
+                "deedNo": "6732",
+                "date": "02-08-1983"
+            },
+            {
+                "deedNo": "3818",
+                "date": "03-03-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            14
+        ],
+        "saKhatianDetails": [
+            448
+        ],
+        "saDaagDetails": [
+            14
+        ],
+        "rsKhatianDetails": [
+            130
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 29,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "2436",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2436",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "49,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Murshida Khan",
+                "south": "Road",
+                "east": "Main Uddin and Other",
+                "west": "Shobir and Other, Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "350",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Krisno Prosad Podder",
+        "deedNo": "21593",
+        "date": "01-12-2014",
+        "landAreaPerDeed": 38.51,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "764",
+                "date": "16-02-1989"
+            },
+            {
+                "deedNo": "765",
+                "date": "16-02-1989"
+            },
+            {
+                "deedNo": "10890",
+                "date": "20-12-1987"
+            },
+            {
+                "deedNo": "4711",
+                "date": "30-05-2000"
+            },
+            {
+                "deedNo": "1382",
+                "date": "03-03-1997"
+            },
+            {
+                "deedNo": "5385",
+                "date": "25-06-1997"
+            },
+            {
+                "deedNo": "2397",
+                "date": "23-03-1998"
+            },
+            {
+                "deedNo": "12845",
+                "date": "05-11-2008"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            38,
+            137,
+            115,
+            114,
+            137
+        ],
+        "saKhatianDetails": [
+            348,
+            "32/1",
+            36,
+            72,
+            73,
+            232,
+            294
+        ],
+        "saDaagDetails": [
+            38,
+            137,
+            115,
+            114,
+            137
+        ],
+        "rsKhatianDetails": [
+            393,
+            167,
+            441,
+            130,
+            45
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 88,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 79,
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            },
+            {
+                "rsDaag": 164,
+                "perDeed": 0.72,
+                "perMutation": 0.72,
+                "perMortgage": 0.72
+            },
+            {
+                "rsDaag": 80,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            }
+        ],
+        "rsMutationNo": "2567",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2567",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "3,79,75,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Roton",
+                "south": "Abdul Hamid",
+                "east": "Roton",
+                "west": "Sukkur Ali"
+            },
+            {
+                "north": "Roton",
+                "south": "Abdul Hamid",
+                "east": "Jahanara and Other",
+                "west": "Taraj Uddin"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "351",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Solaiman Bhuiyan & Other",
+        "deedNo": "20754",
+        "date": "20-12-2015",
+        "landAreaPerDeed": 7.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1544",
+                "date": "25-02-1965"
+            },
+            {
+                "deedNo": "17920",
+                "date": "16-09-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            136
+        ],
+        "saKhatianDetails": [
+            478
+        ],
+        "saDaagDetails": [
+            136
+        ],
+        "rsKhatianDetails": [
+            192
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 78,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "2704",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2704",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "41,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Krisna",
+                "south": "Karim and Other",
+                "east": "Halin and Other",
+                "west": "Kabir"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "352",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mss. Serena Akter",
+        "deedNo": "21291",
+        "date": "29-12-2015",
+        "landAreaPerDeed": 9.40,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "13400",
+                "date": "23-11-2008"
+            },
+            {
+                "deedNo": "1626",
+                "date": "16-02-2009"
+            },
+            {
+                "deedNo": "12539",
+                "date": "14-10-2009"
+            },
+            {
+                "deedNo": "12552",
+                "date": "14-03-2009"
+            },
+            {
+                "deedNo": "17340",
+                "date": "29-10-2015"
+            },
+            {
+                "deedNo": "23084",
+                "date": "18-10-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            14
+        ],
+        "saKhatianDetails": [
+            451
+        ],
+        "saDaagDetails": [
+            14
+        ],
+        "rsKhatianDetails": [
+            67
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 28,
+                "perDeed": 9.40,
+                "perMutation": 9.40,
+                "perMortgage": 9.40
+            }
+        ],
+        "rsMutationNo": "2707",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2707",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "93,35,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Md. Mosharof Hoshain, SHeru and Other",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "353",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Khalekuzaman",
+        "deedNo": "12978",
+        "date": "27-06-2013",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2144",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "2089",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "778",
+                "date": "10-01-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            336
+        ],
+        "saKhatianDetails": [
+            87
+        ],
+        "saDaagDetails": [
+            336
+        ],
+        "rsKhatianDetails": [
+            325
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 460,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            }
+        ],
+        "rsMutationNo": "2346",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2346",
+        "type": "Certified copy",
+        "mortgageBank": "Hajj Finance Company Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "58,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Md. Khalekuzaman",
+                "east": "Road",
+                "west": "Md. Khalekuzaman"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "354",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Khalekuzaman & Other",
+        "deedNo": "23147",
+        "date": "16-12-2013",
+        "landAreaPerDeed": 6.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2144",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "2089",
+                "date": "30-01-1984"
+            },
+            {
+                "deedNo": "778",
+                "date": "10-01-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            336
+        ],
+        "saKhatianDetails": [
+            87
+        ],
+        "saDaagDetails": [
+            336
+        ],
+        "rsKhatianDetails": [
+            325
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 460,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            }
+        ],
+        "rsMutationNo": "2391",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2391",
+        "type": "Certified copy",
+        "mortgageBank": "Hajj Finance Company Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "30,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Md. Khalekuzaman & Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Md. Khalekuzaman & Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "355",
+        "mouza": "Birampur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 113",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Habibur Rahman & Other",
+        "deedNo": "7767",
+        "date": "30-03-2011",
+        "landAreaPerDeed": 2.85,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1182",
+                "date": "13-02-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            13
+        ],
+        "saKhatianDetails": [
+            455
+        ],
+        "saDaagDetails": [
+            13
+        ],
+        "rsKhatianDetails": [
+            392
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 26,
+                "perDeed": 2.85,
+                "perMutation": 2.85,
+                "perMortgage": 2.85
+            }
+        ],
+        "rsMutationNo": "2021",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "2021",
+        "type": "Certified copy",
+        "mortgageBank": "Hajj Finance Company Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Suruj Miah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Moklesh"
             }
         ],
         "remarks": null
