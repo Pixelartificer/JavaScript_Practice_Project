@@ -31450,7 +31450,7 @@
         "upazila": "Arihajar",
         "ps": "Shatgram",
         "district": "Narayangonj",
-        "deedType": "Safkabla",
+        "deedType": "Power Deed",
         "jlNumber": "RS- 07",
         "buyer": "Mohammed Fayazur Rahman Bhuiyan",
         "seller": "Textmart Apparels Ltd.",
@@ -31550,7 +31550,7 @@
         "upazila": "Arihajar",
         "ps": "Shatgram",
         "district": "Narayangonj",
-        "deedType": "Safkabla",
+        "deedType": "Power Deed",
         "jlNumber": "RS- 07",
         "buyer": "Mohammed Fayazur Rahman Bhuiyan",
         "seller": "Textmart Apparels Ltd.",
@@ -31650,7 +31650,7 @@
         "upazila": "Valuka",
         "ps": "Uthura",
         "district": "Mymenshing",
-        "deedType": "Safkabla",
+        "deedType": "Power Deed",
         "jlNumber": "RS- 04",
         "buyer": "Mohammed Fayazur Rahman Bhuiyan",
         "seller": "Md. Ainuddin Shakh.",
@@ -31658,14 +31658,11 @@
         "date": "24-11-2020",
         "landAreaPerDeed": 0,
         "buildingAreaSqft": null,
-        "biaDeed": [
-           
-        ],
+        "biaDeed": [],
         "csKhatianDetails": [],
         "csDaagDetails": [
             134,
             136
-            
         ],
         "saKhatianDetails": [
             9
@@ -31673,7 +31670,6 @@
         "saDaagDetails": [
             134,
             136
-            
         ],
         "rsKhatianDetails": [
             8
