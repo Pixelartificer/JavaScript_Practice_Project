@@ -33674,6 +33674,18 @@
                 "south": "Malek Miah",
                 "east": "Oli Mahmud",
                 "west": "Ajgor Ali"
+            },
+            {
+                "north": "Subed Ali",
+                "south": "Ajgor Ali",
+                "east": "Goni Master",
+                "west": "Hajarat Ali"
+            },
+            {
+                "north": "Jarim Miah",
+                "south": "Taju Maih",
+                "east": "Hajarat Ali",
+                "west": "Badsha Miah"
             }
         ],
         "remarks": null
