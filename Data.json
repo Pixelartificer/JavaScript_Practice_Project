@@ -32720,15 +32720,11 @@
             }
         ],
         "csKhatianDetails": [],
-        "csDaagDetails": [
-            
-        ],
+        "csDaagDetails": [],
         "saKhatianDetails": [
             166
         ],
-        "saDaagDetails": [
-           
-        ],
+        "saDaagDetails": [],
         "rsKhatianDetails": [
             235
         ],
@@ -32761,6 +32757,410 @@
                 "south": "Chandon",
                 "east": "Seraj and Other",
                 "west": "Toraj Uddin and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "392",
+        "mouza": "Chameadi",
+        "upazila": "Valuka",
+        "ps": "Uthura",
+        "district": "Mymenshing",
+        "deedType": "Power Deed",
+        "jlNumber": "RS- 01",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Kalimullah",
+        "deedNo": "5137",
+        "date": "02-09-2020",
+        "landAreaPerDeed": 762.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            187,
+            189,
+            190,
+            188,
+            240,
+            5,
+            167,
+            185,
+            138,
+            156,
+            155,
+            140
+        ],
+        "saKhatianDetails": [
+            5,
+            4,
+            238
+        ],
+        "saDaagDetails": [
+            187,
+            189,
+            190,
+            188,
+            240,
+            5,
+            167,
+            185,
+            138,
+            156,
+            155,
+            140
+        ],
+        "rsKhatianDetails": [
+            313
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 5,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 48,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 57,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 59,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 64,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 65,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 66,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 357,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 358,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 418,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 420,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 422,
+                "perDeed": 54.40,
+                "perMutation": null,
+                "perMortgage": 54.40
+            },
+            {
+                "rsDaag": 451,
+                "perDeed": 54.80,
+                "perMutation": null,
+                "perMortgage": 54.80
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": "Power Deed"
+    },
+    {
+        "id": "393",
+        "mouza": "Char Daudpur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Meherpur",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 99",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "M/S Mars Knitt Wares Ltd.",
+        "deedNo": "6007",
+        "date": "22-03-2013",
+        "landAreaPerDeed": 35.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4506",
+                "date": "30-05-1992"
+            },
+            {
+                "deedNo": "4794",
+                "date": "22-05-1995"
+            },
+            {
+                "deedNo": "7609",
+                "date": "31-07-1995"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            25,
+            32
+        ],
+        "saKhatianDetails": [
+            5,
+            13
+        ],
+        "saDaagDetails": [
+            25,
+            32
+        ],
+        "rsKhatianDetails": [
+            24,
+            "24/1"
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 32,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": 30.00
+            },
+            {
+                "rsDaag": 34,
+                "perDeed": 5.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "136",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "136",
+        "type": "Certified copy",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "2,37,01,600.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Radika Ranjan Shaha",
+                "south": "Meher Banu",
+                "east": "Harid Baddakar",
+                "west": "High Way"
+            },
+            {
+                "north": "Nehar Ranjan Shaha",
+                "south": "Ali and Other",
+                "east": "Neranjan Shaha's Land",
+                "west": "High Way"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "394",
+        "mouza": "Char Daudpur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Meherpur",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 99",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Muslim",
+        "deedNo": "2008",
+        "date": "03-02-2014",
+        "landAreaPerDeed": 8.82,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "19725",
+                "date": "11-10-2010"
+            },
+            {
+                "deedNo": "13652",
+                "date": "18-07-2010"
+            },
+            {
+                "deedNo": "21341",
+                "date": "31-10-2010"
+            },
+            {
+                "deedNo": "1195",
+                "date": "15-01-2012"
+            },
+            {
+                "deedNo": "4166",
+                "date": "22-02-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            24,
+            33
+        ],
+        "saKhatianDetails": [
+            16
+        ],
+        "saDaagDetails": [
+            24,
+            33
+        ],
+        "rsKhatianDetails": [
+            11,
+            24
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 33,
+                "perDeed": 8.32,
+                "perMutation": 8.32,
+                "perMortgage": 8.32
+            },
+            {
+                "rsDaag": 34,
+                "perDeed": 0.5,
+                "perMutation": 0.5,
+                "perMortgage": 0.5
+            }
+        ],
+        "rsMutationNo": "142",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "142",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "12,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Sukh Ranjan Shaha",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Nehar Ranjan Shaha",
+                "south": "Ali and Other",
+                "east": "Neranjan Shaha's Land",
+                "west": "High Way"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "395",
+        "mouza": "Char Daudpur",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Meherpur",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 99",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdul Halim Khan",
+        "deedNo": "17252",
+        "date": "04-09-2013",
+        "landAreaPerDeed": 11.60,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3341",
+                "date": "31-03-1973"
+            },
+            {
+                "deedNo": "5677",
+                "date": "28-06-1999"
+            },
+            {
+                "deedNo": "11112",
+                "date": "13-05-2012"
+            },
+            {
+                "deedNo": "11554",
+                "date": "17-05-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            24
+        ],
+        "saKhatianDetails": [
+            16
+        ],
+        "saDaagDetails": [
+            24
+        ],
+        "rsKhatianDetails": [
+            11
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 33,
+                "perDeed": 11.60,
+                "perMutation": 11.60,
+                "perMortgage": 11.60
+            }
+        ],
+        "rsMutationNo": "140",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "140",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "15,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Menu and Other",
+                "south": "Mokles and Other",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
         ],
         "remarks": null
