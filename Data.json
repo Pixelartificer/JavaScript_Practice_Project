@@ -33689,5 +33689,937 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "402",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdur Rahim",
+        "deedNo": "2314",
+        "date": "02-05-2014",
+        "landAreaPerDeed": 71.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            273
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            1003
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1825,
+                "perDeed": 29.38,
+                "perMutation": 29.38,
+                "perMortgage": 29.38
+            },
+            {
+                "rsDaag": 1826,
+                "perDeed": 21.87,
+                "perMutation": 21.87,
+                "perMortgage": 21.87
+            },
+            {
+                "rsDaag": 667,
+                "perDeed": 11.25,
+                "perMutation": 11.25,
+                "perMortgage": 11.25
+            },
+            {
+                "rsDaag": 666,
+                "perDeed": 8.75,
+                "perMutation": 8.75,
+                "perMortgage": 8.75
+            }
+        ],
+        "rsMutationNo": "1288",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1288",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "22,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Lal Miah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Tunu Master",
+                "west": "Osman Miah"
+            },
+            {
+                "north": "Ahid and Other",
+                "south": "Hult",
+                "east": "River",
+                "west": "Yousuf Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "403",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Md. Rohim Miah",
+        "deedNo": "7691",
+        "date": "28-04-2014",
+        "landAreaPerDeed": 70.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1409,
+            907
+        ],
+        "saKhatianDetails": [
+            110,
+            185
+        ],
+        "saDaagDetails": [
+            1409,
+            907
+        ],
+        "rsKhatianDetails": [
+            899,
+            891
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4356,
+                "perDeed": 47.00,
+                "perMutation": 47.00,
+                "perMortgage": 47.00
+            },
+            {
+                "rsDaag": 1817,
+                "perDeed": 23.00,
+                "perMutation": 23.00,
+                "perMortgage": 23.00
+            }
+        ],
+        "rsMutationNo": "1309",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1309",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "22,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Owaj Uddin",
+                "south": "Jalil",
+                "east": "Shamu",
+                "west": "Shamu"
+            },
+            {
+                "north": "Tahera",
+                "south": "Tota Miah",
+                "east": "Habibur",
+                "west": "Seraj Master"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "404",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdul Malak Miah & Other",
+        "deedNo": "6816",
+        "date": "16-04-2014",
+        "landAreaPerDeed": 67.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            943,
+            824,
+            826,
+            916,
+            916,
+            310
+        ],
+        "saKhatianDetails": [
+            140
+        ],
+        "saDaagDetails": [
+            943,
+            824,
+            826,
+            916,
+            916,
+            310
+        ],
+        "rsKhatianDetails": [
+            899,
+            891
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1836,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            },
+            {
+                "rsDaag": 1751,
+                "perDeed": 18.33,
+                "perMutation": 18.33,
+                "perMortgage": 18.33
+            },
+            {
+                "rsDaag": 1750,
+                "perDeed": 15.12,
+                "perMutation": 15.12,
+                "perMortgage": 15.12
+            },
+            {
+                "rsDaag": 1798,
+                "perDeed": 3.89,
+                "perMutation": 3.89,
+                "perMortgage": 3.89
+            },
+            {
+                "rsDaag": 1797,
+                "perDeed": 6.49,
+                "perMutation": 6.49,
+                "perMortgage": 6.49
+            },
+            {
+                "rsDaag": 525,
+                "perDeed": 16.20,
+                "perMutation": 13.37,
+                "perMortgage": 13.37
+            }
+        ],
+        "rsMutationNo": "1299",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1299",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "22,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Oli Miah",
+                "south": "Nurul Haque",
+                "east": "Halt",
+                "west": "Bachu Maih"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "405",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Habibur Rahman & Other",
+        "deedNo": "2315",
+        "date": "06-09-2014",
+        "landAreaPerDeed": 58.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6440",
+                "date": "22-07-1975"
+            },
+            {
+                "deedNo": "7204",
+                "date": "12-08-1987"
+            },
+            {
+                "deedNo": "2259",
+                "date": "21-01-1993"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            908,
+            928,
+            967
+        ],
+        "saKhatianDetails": [
+            39,
+            241
+        ],
+        "saDaagDetails": [
+            908,
+            928,
+            967
+        ],
+        "rsKhatianDetails": [
+            402,
+            248
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1804,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 1805,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            },
+            {
+                "rsDaag": "1817/1957",
+                "perDeed": 16.00,
+                "perMutation": 16.00,
+                "perMortgage": 16.00
+            },
+            {
+                "rsDaag": 1872,
+                "perDeed": 20.00,
+                "perMutation": 20.00,
+                "perMortgage": 20.00
+            }
+        ],
+        "rsMutationNo": "1286",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1286",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "18,05,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul Baten",
+                "south": "Master",
+                "east": "River",
+                "west": "Sukkur Ali"
+            },
+            {
+                "north": "Dorichorer Lok",
+                "south": "Md. Monu Miah",
+                "east": "River",
+                "west": "Tunu Master"
+            },
+            {
+                "north": "Almas Mish",
+                "south": "Md. Habibur Rahman & Other",
+                "east": "River",
+                "west": "Sukkur Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "406",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jahinger Miaj & Other",
+        "deedNo": "2316",
+        "date": "09-02-2014",
+        "landAreaPerDeed": 55.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            315,
+            314
+        ],
+        "saKhatianDetails": [
+            144
+        ],
+        "saDaagDetails": [
+            315,
+            314
+        ],
+        "rsKhatianDetails": [
+            870
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 646,
+                "perDeed": 29.00,
+                "perMutation": 29.00,
+                "perMortgage": 29.00
+            },
+            {
+                "rsDaag": 647,
+                "perDeed": 26.00,
+                "perMutation": 26.00,
+                "perMortgage": 26.00
+            }
+        ],
+        "rsMutationNo": "1285",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1285",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "17,11,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Olak Box",
+                "south": "Nur Miah and Other",
+                "east": "River",
+                "west": "Kashu Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "407",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Abul Kasem Bhuiyan and Other",
+        "deedNo": "7692",
+        "date": "28-04-2014",
+        "landAreaPerDeed": 84.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1407,
+            1405
+        ],
+        "saKhatianDetails": [
+            147
+        ],
+        "saDaagDetails": [
+            1407,
+            1405
+        ],
+        "rsKhatianDetails": [
+            642,
+            806
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4364,
+                "perDeed": 51.00,
+                "perMutation": 51.00,
+                "perMortgage": 51.00
+            },
+            {
+                "rsDaag": 4363,
+                "perDeed": 33.25,
+                "perMutation": 33.25,
+                "perMortgage": 33.25
+            }
+        ],
+        "rsMutationNo": "1308",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "1308",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "27,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Badsha Miah",
+                "south": "Hajarat Ali",
+                "east": "Shamu",
+                "west": "Rohomot Ali"
+            },
+            {
+                "north": "Rohomot Ali",
+                "south": "Badsha Miah",
+                "east": "Owaj Uddin",
+                "west": "Shamed Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "408",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abu Sheddik & Other",
+        "deedNo": "16759",
+        "date": "16-09-2014",
+        "landAreaPerDeed": 78.73,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3218",
+                "date": "28-03-1973"
+            },
+            {
+                "deedNo": "4639",
+                "date": "28-06-1989"
+            },
+            {
+                "deedNo": "325",
+                "date": "12-01-1974"
+            },
+            {
+                "deedNo": "2636",
+                "date": "07-03-1978"
+            },
+            {
+                "deedNo": "3364",
+                "date": "29-01-1975"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            926,
+            955,
+            963,
+            963,
+            954,
+            956,
+            709,
+            721
+        ],
+        "saKhatianDetails": [
+            185,
+            239,
+            161,
+            228
+        ],
+        "saDaagDetails": [
+            926,
+            955,
+            963,
+            963,
+            954,
+            956,
+            709,
+            721
+        ],
+        "rsKhatianDetails": [
+            984
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1823,
+                "perDeed": 9.38,
+                "perMutation": 9.38,
+                "perMortgage": 9.38
+            },
+            {
+                "rsDaag": 1861,
+                "perDeed": 8.59,
+                "perMutation": 8.59,
+                "perMortgage": 8.59
+            },
+            {
+                "rsDaag": 1860,
+                "perDeed": 6.25,
+                "perMutation": 6.25,
+                "perMortgage": 6.25
+            },
+            {
+                "rsDaag": 1862,
+                "perDeed": 1.56,
+                "perMutation": 1.56,
+                "perMortgage": 1.56
+            },
+            {
+                "rsDaag": 1662,
+                "perDeed": 8.59,
+                "perMutation": 8.59,
+                "perMortgage": 8.59
+            },
+            {
+                "rsDaag": 1842,
+                "perDeed": 9.38,
+                "perMutation": 9.38,
+                "perMortgage": 9.38
+            },
+            {
+                "rsDaag": 1755,
+                "perDeed": 11.66,
+                "perMutation": 11.66,
+                "perMortgage": 11.66
+            },
+            {
+                "rsDaag": 1744,
+                "perDeed": 23.32,
+                "perMutation": 23.32,
+                "perMortgage": 23.32
+            }
+        ],
+        "rsMutationNo": "1331",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1331",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "25,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Karim",
+                "south": "Momin",
+                "east": "Karim",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Bacu",
+                "south": "Bacu",
+                "east": "Bacu",
+                "west": "Rokon"
+            },
+            {
+                "north": "Bacu",
+                "south": "Bacu",
+                "east": "Bacu",
+                "west": "Bacu"
+            },
+            {
+                "north": "Bacu",
+                "south": "Bojlu",
+                "east": "Bacu",
+                "west": "Bacu"
+            },
+            {
+                "north": "Bojlu",
+                "south": "Barek",
+                "east": "Ismail",
+                "west": "Moti"
+            },
+            {
+                "north": "Moti",
+                "south": "Goni Master",
+                "east": "Fojor Ali",
+                "west": "Ohadullah"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Romij Uddin",
+                "west": "Kader"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Rob Miah",
+                "east": "Halt",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "409",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Almas Miah & Other",
+        "deedNo": "15710",
+        "date": "02-09-2014",
+        "landAreaPerDeed": 124.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "19307",
+                "date": "27-06-1974"
+            },
+            {
+                "deedNo": "13659",
+                "date": "28-10-1972"
+            },
+            {
+                "deedNo": "10930",
+                "date": "02-04-1975"
+            },
+            {
+                "deedNo": "1528",
+                "date": "31-01-1976"
+            },
+            {
+                "deedNo": "1399",
+                "date": "06-02-1972"
+            },
+            {
+                "deedNo": "1400",
+                "date": "12-02-1972"
+            },
+            {
+                "deedNo": "1401",
+                "date": "12-02-1972"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1003,
+            964,
+            964,
+            1008,
+            959,
+            958,
+            944
+        ],
+        "saKhatianDetails": [
+            173,
+            39,
+            191,
+            257,
+            269,
+            29
+        ],
+        "saDaagDetails": [
+            1003,
+            964,
+            964,
+            1008,
+            959,
+            958,
+            944
+        ],
+        "rsKhatianDetails": [
+            874,
+            1008,
+            584
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4327,
+                "perDeed": 15.75,
+                "perMutation": 15.75,
+                "perMortgage": 15.75
+            },
+            {
+                "rsDaag": 1869,
+                "perDeed": 18.50,
+                "perMutation": 18.50,
+                "perMortgage": 18.50
+            },
+            {
+                "rsDaag": 1870,
+                "perDeed": 15.50,
+                "perMutation": 15.50,
+                "perMortgage": 15.50
+            },
+            {
+                "rsDaag": 1890,
+                "perDeed": 24.50,
+                "perMutation": 24.50,
+                "perMortgage": 24.50
+            },
+            {
+                "rsDaag": 1853,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": 9.00
+            },
+            {
+                "rsDaag": 1852,
+                "perDeed": 17.00,
+                "perMutation": 17.00,
+                "perMortgage": 17.00
+            },
+            {
+                "rsDaag": 1839,
+                "perDeed": 24.50,
+                "perMutation": 24.50,
+                "perMortgage": 24.50
+            }
+        ],
+        "rsMutationNo": "1430",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1430",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "40,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mujibur Rahman and Other",
+                "west": "Romij Uddin"
+            },
+            {
+                "north": "Ibrahim and Other",
+                "south": "Hashim and Other",
+                "east": "Mujibur Rahman and Other",
+                "west": "Sultan Miah"
+            },
+            {
+                "north": "Baten",
+                "south": "Naim and Falainnah",
+                "east": "Mujibur Rahman and Other",
+                "west": "Shaddik and Other"
+            },
+            {
+                "north": "Hashim and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mujibur Rahman and Other",
+                "west": "Anower Ali"
+            },
+            {
+                "north": "Roshid and Other",
+                "south": "Sahaj Uddin",
+                "east": "Mujibur Rahman and Other",
+                "west": "Momin Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "410",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Anower Hossain & Other",
+        "deedNo": "16758",
+        "date": "16-09-2014",
+        "landAreaPerDeed": 15.67,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            304,
+            932
+        ],
+        "saKhatianDetails": [
+            244,
+            226
+        ],
+        "saDaagDetails": [
+            304,
+            932
+        ],
+        "rsKhatianDetails": [
+            25,
+            696
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 518,
+                "perDeed": 2.48,
+                "perMutation": 2.48,
+                "perMortgage": 2.48
+            },
+            {
+                "rsDaag": 1788,
+                "perDeed": 2.88,
+                "perMutation": 2.88,
+                "perMortgage": 2.88
+            },
+            {
+                "rsDaag": 1789,
+                "perDeed": 10.31,
+                "perMutation": 10.31,
+                "perMortgage": 10.31
+            }
+        ],
+        "rsMutationNo": "1333",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1333",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "5,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Lal Miah",
+                "south": "Abdul Karim",
+                "east": "Abu Seddik",
+                "west": "Osman"
+            },
+            {
+                "north": "Amir Ullah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Suruj Miah",
+                "west": "Fajlul Haque"
+            },
+            {
+                "north": "Osman and Other",
+                "south": "Tofainna",
+                "east": "Abdul Rahim and Kader",
+                "west": "Karim and Other"
+            }
+        ],
+        "remarks": null
     }
 ]
