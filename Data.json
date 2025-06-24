@@ -36187,5 +36187,1063 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "424",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdul Barek & Other",
+        "deedNo": "779",
+        "date": "17-01-2016",
+        "landAreaPerDeed": 74.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1030",
+                "date": "14-01-1968"
+            },
+            {
+                "deedNo": "1401",
+                "date": "12-03-1972"
+            },
+            {
+                "deedNo": "1399",
+                "date": "12-03-1972"
+            },
+            {
+                "deedNo": "1400",
+                "date": "12-03-1972"
+            },
+            {
+                "deedNo": "1398",
+                "date": "12-03-1972"
+            },
+            {
+                "deedNo": "13659",
+                "date": "28-10-1972"
+            },
+            {
+                "deedNo": "1528",
+                "date": "31-01-1976"
+            },
+            {
+                "deedNo": "10930",
+                "date": "02-04-1975"
+            },
+            {
+                "deedNo": "20625",
+                "date": "20-12-2015"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1518,
+            1501,
+            1518,
+            1008,
+            1009,
+            944,
+            959,
+            958,
+            964,
+            964
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            1518,
+            1501,
+            1518,
+            1008,
+            1009,
+            944,
+            959,
+            958,
+            964,
+            964
+        ],
+        "rsKhatianDetails": [
+            283,
+            584,
+            57,
+            1008
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4922,
+                "perDeed": 0.98,
+                "perMutation": 0.98,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4441,
+                "perDeed": 1.32,
+                "perMutation": 1.32,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4923,
+                "perDeed": 1.64,
+                "perMutation": 1.64,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1890,
+                "perDeed": 16.33,
+                "perMutation": 16.33,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1839,
+                "perDeed": 16.33,
+                "perMutation": 16.33,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1853,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1852,
+                "perDeed": 11.33,
+                "perMutation": 11.33,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1869,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1870,
+                "perDeed": 10.32,
+                "perMutation": 10.32,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1383",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1383",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "23,91,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mujibur Rahman",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "425",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Bachu Miah & Other",
+        "deedNo": "780",
+        "date": "17-01-2016",
+        "landAreaPerDeed": 93.43,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2666",
+                "date": "07-03-1978"
+            },
+            {
+                "deedNo": "4639",
+                "date": "28-06-1989"
+            },
+            {
+                "deedNo": "3218",
+                "date": "28-03-1973"
+            },
+            {
+                "deedNo": "",
+                "date": "29-01-1975"
+            },
+            {
+                "deedNo": "325",
+                "date": "11-01-1974"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            956,
+            943,
+            954,
+            943,
+            955,
+            926,
+            963
+        ],
+        "saKhatianDetails": [
+            239,
+            228,
+            185,
+            140
+        ],
+        "saDaagDetails": [
+            956,
+            943,
+            954,
+            943,
+            955,
+            926,
+            963
+        ],
+        "rsKhatianDetails": [
+            632,
+            644,
+            939
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1842,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": "1833/1960",
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1662,
+                "perDeed": 2.40,
+                "perMutation": 2.40,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1823,
+                "perDeed": 2.63,
+                "perMutation": 2.63,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1842,
+                "perDeed": 2.62,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1860,
+                "perDeed": 1.75,
+                "perMutation": 1.75,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1861,
+                "perDeed": 2.40,
+                "perMutation": 2.40,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1862,
+                "perDeed": 0.44,
+                "perMutation": 0.44,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 506,
+                "perDeed": 8.74,
+                "perMutation": 8.74,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 507,
+                "perDeed": 8.42,
+                "perMutation": 8.42,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4362,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4964,
+                "perDeed": 6.50,
+                "perMutation": 6.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4967,
+                "perDeed": 7.06,
+                "perMutation": 7.06,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4968,
+                "perDeed": 7.06,
+                "perMutation": 7.06,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1382",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1382",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "31,58,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Goni Master",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Bojlu and Other",
+                "west": "Moju Miah"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Moju Miah"
+            },
+            {
+                "north": "Bojlu and Other",
+                "south": "Barek and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Moju Miah"
+            },
+            {
+                "north": "Shohid",
+                "south": "Akkabor",
+                "east": "Rajjak",
+                "west": "Denish"
+            },
+            {
+                "north": "Puikka",
+                "south": "Sona Miah",
+                "east": "Ambor Ali",
+                "west": "Helal Uddin"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "426",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abul Kasem & Other",
+        "deedNo": "2734",
+        "date": "19-02-2015",
+        "landAreaPerDeed": 55.10,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7312",
+                "date": "05-05-1972"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            335,
+            966,
+            947
+        ],
+        "saKhatianDetails": [
+            239,
+            228,
+            185,
+            140
+        ],
+        "saDaagDetails": [
+            335,
+            966,
+            947
+        ],
+        "rsKhatianDetails": [
+            632,
+            644,
+            939
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1806,
+                "perDeed": 42.00,
+                "perMutation": 42.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1809,
+                "perDeed": 3.62,
+                "perMutation": 3.62,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1873,
+                "perDeed": 8.13,
+                "perMutation": 8.13,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1845,
+                "perDeed": 1.35,
+                "perMutation": 1.35,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1355",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1355",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "17,75,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Hult",
+                "west": "Moju Miah"
+            },
+            {
+                "north": "Jobed Ali",
+                "south": "Rofik and Other",
+                "east": "Hult",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Hojorat Ali",
+                "south": "Ahammed and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Hajarat Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "427",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nur Islam & Other",
+        "deedNo": "2735",
+        "date": "18-02-2015",
+        "landAreaPerDeed": 50.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1973",
+                "date": "15-11-1973"
+            },
+            {
+                "deedNo": "679",
+                "date": "29-01-1964"
+            },
+            {
+                "deedNo": "2580",
+                "date": "09-03-1972"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1003,
+            936,
+            1006,
+            1516,
+            1500
+        ],
+        "saKhatianDetails": [
+            173,
+            86,
+            60,
+            257
+        ],
+        "saDaagDetails": [
+            1003,
+            936,
+            1006,
+            1516,
+            1500
+        ],
+        "rsKhatianDetails": [
+            874,
+            596,
+            249,
+            694
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4327,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1811,
+                "perDeed": 20.00,
+                "perMutation": 20.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1893,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4919,
+                "perDeed": 3.50,
+                "perMutation": 3.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4442,
+                "perDeed": 2.40,
+                "perMutation": 2.40,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1354",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1354",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "17,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Roshid and Other",
+                "south": "Taleb Ali",
+                "east": "Rofik and Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Hult",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Nayem",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Md. Nur Islam & Other",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Ambor Ali",
+                "south": "Gyes Uddin",
+                "east": "Miah Chand",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Halt",
+                "south": "Tara Miah",
+                "east": "Miah Chand",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "428",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jamal Miah & Other",
+        "deedNo": "8114",
+        "date": "18-05-2015",
+        "landAreaPerDeed": 65.77,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6164",
+                "date": "13-08-1988"
+            },
+            {
+                "deedNo": "16993",
+                "date": "04-12-1974"
+            },
+            {
+                "deedNo": "7170",
+                "date": "18-06-1980"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            962,
+            987,
+            1435,
+            822
+        ],
+        "saKhatianDetails": [
+            23,
+            102,
+            51,
+            256
+        ],
+        "saDaagDetails": [
+            962,
+            987,
+            1435,
+            822
+        ],
+        "rsKhatianDetails": [
+            902,
+            903,
+            39,
+            703
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "1858/1859",
+                "perDeed": 21.09,
+                "perMutation": 21.09,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4354,
+                "perDeed": 16.26,
+                "perMutation": 16.26,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4410,
+                "perDeed": 16.70,
+                "perMutation": 16.70,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1747,
+                "perDeed": 11.72,
+                "perMutation": 11.72,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1367",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1367",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "21,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Hashim",
+                "east": "Hult",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            },
+            {
+                "north": "Hajarat Ali",
+                "south": "Goni Bhuiyan",
+                "east": "Md. Jamal Miah & Other",
+                "west": "Tajul Islam"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Hult",
+                "east": "Bhuiyan and Other",
+                "west": "Karim and Other"
+            },
+            {
+                "north": "Danis",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Ashak and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "429",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "JB Power Source Ltd.",
+        "seller": "Md. Ismail & Other",
+        "deedNo": "10365",
+        "date": "08-06-2014",
+        "landAreaPerDeed": 131.60,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1402",
+                "date": "12-02-1972"
+            },
+            {
+                "deedNo": "3220",
+                "date": "28-03-1973"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1525,
+            1428,
+            1503,
+            1410,
+            1054,
+            1525,
+            935,
+            965,
+            822
+        ],
+        "saKhatianDetails": [
+            86
+        ],
+        "saDaagDetails": [
+            1525,
+            1428,
+            1503,
+            1410,
+            1054,
+            1525,
+            935,
+            965,
+            822
+        ],
+        "rsKhatianDetails": [
+            155,
+            951
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4407,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4415,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4418,
+                "perDeed": 21.00,
+                "perMutation": 21.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4367,
+                "perDeed": 30.00,
+                "perMutation": 30.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4313,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4314,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": "4407/6543",
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1807,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1876,
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1745,
+                "perDeed": 11.38,
+                "perMutation": 11.38,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1846,
+                "perDeed": 14.22,
+                "perMutation": 14.22,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1325",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1325",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "42,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Berash",
+                "south": "Rob Miah",
+                "east": "Hult",
+                "west": "Goni Master"
+            },
+            {
+                "north": "Shamad and Other",
+                "south": "Shopon",
+                "east": "Hult",
+                "west": "Jobed Ali"
+            },
+            {
+                "north": "Tulu Master",
+                "south": "Nannu Miah",
+                "east": "Shobol Miah",
+                "west": "ABdul Barek and Other"
+            },
+            {
+                "north": "Bojlu Miah",
+                "south": "Taijul Islam",
+                "east": "Haberun Begum",
+                "west": "Roshid and Other"
+            },
+            {
+                "north": "Robi Ullah",
+                "south": "Romij Uddin",
+                "east": "Munshi",
+                "west": "Kalai"
+            },
+            {
+                "north": "Roshid",
+                "south": "Helal Uddin",
+                "east": "Kabil",
+                "west": "Nannu"
+            },
+            {
+                "north": "Hashem",
+                "south": "Momen Miah",
+                "east": "Idris Ali",
+                "west": "Abdul Halim"
+            },
+            {
+                "north": "Samsu and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Jelani and Other"
+            },
+            {
+                "north": "Almas",
+                "south": "Ibrahim",
+                "east": "River",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "430",
+        "mouza": "Char Vashania",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Paikar Char",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 151",
+        "buyer": "JB Power Source Ltd.",
+        "seller": "Abdur Rashid & Other",
+        "deedNo": "21595",
+        "date": "01-12-2014",
+        "landAreaPerDeed": 122.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11222",
+                "date": "11-09-1974"
+            },
+            {
+                "deedNo": "11223",
+                "date": "11-09-1974"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1519,
+            1518,
+            1518,
+            1501,
+            812,
+            996,
+            1514,
+            813,
+            901,
+            1515
+        ],
+        "saKhatianDetails": [
+            296,
+            26,
+            29,
+            269,
+            185
+        ],
+        "saDaagDetails": [
+            1519,
+            1518,
+            1518,
+            1501,
+            812,
+            996,
+            1514,
+            813,
+            901,
+            1515
+        ],
+        "rsKhatianDetails": [
+            682,
+            283,
+            906,
+            817,
+            1006,
+            828,
+            824
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 4924,
+                "perDeed": 31.00,
+                "perMutation": 31.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4922,
+                "perDeed": 6.13,
+                "perMutation": 6.13,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4923,
+                "perDeed": 3.67,
+                "perMutation": 3.67,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4441,
+                "perDeed": 4.91,
+                "perMutation": 4.91,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 682,
+                "perDeed": 24.00,
+                "perMutation": 24.00,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4337,
+                "perDeed": 5.50,
+                "perMutation": 5.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4916,
+                "perDeed": 2.50,
+                "perMutation": 2.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 680,
+                "perDeed": 18.05,
+                "perMutation": 18.05,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 1766,
+                "perDeed": 18.05,
+                "perMutation": 18.05,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4912,
+                "perDeed": 8.85,
+                "perMutation": 8.85,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1369",
+        "brsMutationNo": null,
+        "khajna": "1430",
+        "holdingNo": "1369",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "39,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Kashem Sorker",
+                "south": "JB Power Source",
+                "east": "Hult",
+                "west": "Nyem SOrker"
+            },
+            {
+                "north": "Kader",
+                "south": "Rob Miah",
+                "east": "JB Power Source",
+                "west": "Idris Ali"
+            },
+            {
+                "north": "Monir Hissain",
+                "south": "Ali",
+                "east": "Awal",
+                "west": "Gias Uddin"
+            },
+            {
+                "north": "Sheddik",
+                "south": "Miaj Uddin",
+                "east": "JB Power Source",
+                "west": "Gias Uddin"
+            },
+            {
+                "north": "Hult",
+                "south": "Ala Uddin",
+                "east": "Meyah Chand",
+                "west": "JB Power Source"
+            }
+        ],
+        "remarks": null
     }
 ]
