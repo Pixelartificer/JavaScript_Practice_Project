@@ -39599,7 +39599,7 @@
         "deedType": "Safkabla",
         "jlNumber": "RS- 75",
         "buyer": "Mohammed Fayazur Rahman Bhuiyan",
-        "seller": "Moss. Surjobun & Other",
+        "seller": "Mst. Surjobun & Other",
         "deedNo": "17655",
         "date": "08-09-2010",
         "landAreaPerDeed": 29.20,
@@ -39652,6 +39652,1675 @@
                 "south": "Ali Akbor",
                 "east": "Ali Akbor",
                 "west": "Hafij Uddin and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "461",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mohammed Ali & Other",
+        "deedNo": "17256",
+        "date": "28-07-2011",
+        "landAreaPerDeed": 37.28,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1863",
+                "date": "24-01-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1034,
+            1037
+        ],
+        "saKhatianDetails": [
+            224,
+            130
+        ],
+        "saDaagDetails": [
+            1034,
+            1037
+        ],
+        "rsKhatianDetails": [
+            270,
+            23
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3254,
+                "perDeed": 14.08,
+                "perMutation": 14.08,
+                "perMortgage": 14.08
+            },
+            {
+                "rsDaag": 3246,
+                "perDeed": 23.20,
+                "perMutation": 23.20,
+                "perMortgage": 23.20
+            }
+        ],
+        "rsMutationNo": "3561",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "3561",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "11,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Ismail and Other",
+                "south": "Abdul Barek and Other",
+                "east": "Person form Netrokina",
+                "west": "Abu Sobahan Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "462",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abdul jabber",
+        "deedNo": "19190",
+        "date": "05-09-2011",
+        "landAreaPerDeed": 25.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9438",
+                "date": "21-04-1982"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            2408
+        ],
+        "saKhatianDetails": [
+            978
+        ],
+        "saDaagDetails": [
+            2408
+        ],
+        "rsKhatianDetails": [
+            904
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5310,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            },
+            {
+                "rsDaag": 5311,
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": 13.00
+            }
+        ],
+        "rsMutationNo": "3561",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "3561",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "7,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Khaja Miah",
+                "south": "Shaheb Miah",
+                "east": "Rup Chand",
+                "west": "Md. Sodu Maih"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "463",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jasim Uddin",
+        "deedNo": "16347",
+        "date": "26-07-2011",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7012",
+                "date": "27-04-1972"
+            },
+            {
+                "deedNo": "10402",
+                "date": "08-10-1994"
+            },
+            {
+                "deedNo": "19839",
+                "date": "12-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            2140
+        ],
+        "saKhatianDetails": [
+            94
+        ],
+        "saDaagDetails": [
+            2140
+        ],
+        "rsKhatianDetails": [
+            3197
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5818,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": 12.00
+            }
+        ],
+        "rsMutationNo": "3561",
+        "brsMutationNo": null,
+        "khajna": "1429",
+        "holdingNo": "3561",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abu Taher",
+                "south": "Md. Kanai Miah",
+                "east": "Ataur Rahman",
+                "west": "Md. Johor Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "464",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ali Akber",
+        "deedNo": "16920",
+        "date": "26-07-2011",
+        "landAreaPerDeed": 10.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11955",
+                "date": "26-12-1981"
+            },
+            {
+                "deedNo": "10402",
+                "date": "26-12-1981"
+            },
+            {
+                "deedNo": "11954",
+                "date": "12-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1087,
+            1093
+        ],
+        "saKhatianDetails": [
+            514
+        ],
+        "saDaagDetails": [
+            1087,
+            1093
+        ],
+        "rsKhatianDetails": [
+            636
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3038,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 3043,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "1,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Momen and Other",
+                "south": "Khalil",
+                "east": "Shoban and Other",
+                "west": "Md. Ali Akber"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "465",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Chobeya Khatun & Other",
+        "deedNo": "8126",
+        "date": "04-04-2011",
+        "landAreaPerDeed": 65.51,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1220,
+            1193,
+            1132
+        ],
+        "saKhatianDetails": [
+            135,
+            1089,
+            252
+        ],
+        "saDaagDetails": [
+            1220,
+            1193,
+            1132
+        ],
+        "rsKhatianDetails": [
+            800,
+            802,
+            801
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3149,
+                "perDeed": 9.55,
+                "perMutation": 9.55,
+                "perMortgage": 9.55
+            },
+            {
+                "rsDaag": 3150,
+                "perDeed": 10.06,
+                "perMutation": 10.06,
+                "perMortgage": 10.06
+            },
+            {
+                "rsDaag": 3137,
+                "perDeed": 7.39,
+                "perMutation": 7.39,
+                "perMortgage": 7.39
+            },
+            {
+                "rsDaag": 3138,
+                "perDeed": 7.39,
+                "perMutation": 7.39,
+                "perMortgage": 7.39
+            },
+            {
+                "rsDaag": 3139,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 3095,
+                "perDeed": 5.88,
+                "perMutation": 5.88,
+                "perMortgage": 5.88
+            },
+            {
+                "rsDaag": 3096,
+                "perDeed": 6.08,
+                "perMutation": 6.08,
+                "perMortgage": 6.08
+            },
+            {
+                "rsDaag": 3097,
+                "perDeed": 6.08,
+                "perMutation": 6.08,
+                "perMortgage": 6.08
+            },
+            {
+                "rsDaag": 3098,
+                "perDeed": 6.08,
+                "perMutation": 6.08,
+                "perMortgage": 6.08
+            }
+        ],
+        "rsMutationNo": "3466",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3466",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "14,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Momen and Other",
+                "south": "Khalil",
+                "east": "Shoban and Other",
+                "west": "Md. Ali Akber"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "466",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Tota Miah",
+        "deedNo": "13711",
+        "date": "08-06-2011",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1124,
+            1125,
+            1127,
+            1128,
+            1134,
+            1132,
+            1128,
+            1209,
+            1124
+        ],
+        "saKhatianDetails": [
+            1089
+        ],
+        "saDaagDetails": [
+            1124,
+            1125,
+            1127,
+            1128,
+            1134,
+            1132,
+            1128,
+            1209,
+            1124
+        ],
+        "rsKhatianDetails": [
+            802
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3089,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3066,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3054,
+                "perDeed": 0.90,
+                "perMutation": 0.90,
+                "perMortgage": 0.90
+            },
+            {
+                "rsDaag": 3056,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3055,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3100,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3095,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3096,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3057,
+                "perDeed": 0.90,
+                "perMutation": 0.90,
+                "perMortgage": 0.90
+            },
+            {
+                "rsDaag": 3097,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3098,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3090,
+                "perDeed": 1.20,
+                "perMutation": 1.20,
+                "perMortgage": 1.20
+            }
+        ],
+        "rsMutationNo": "3486",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3486",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "1,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Kashem",
+                "south": "Md. Tota Miah, Noresh Babu",
+                "east": "Mosque ",
+                "west": "Md. Tota Miah, Kashem"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "467",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Najmul Haque",
+        "deedNo": "569",
+        "date": "10-01-2011",
+        "landAreaPerDeed": 20.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "22209",
+                "date": "08-11-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1148,
+            1201
+        ],
+        "saKhatianDetails": [
+            1090
+        ],
+        "saDaagDetails": [
+            1148,
+            1201
+        ],
+        "rsKhatianDetails": [
+            87
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3210,
+                "perDeed": 4.50,
+                "perMutation": 4.50,
+                "perMortgage": 4.50
+            },
+            {
+                "rsDaag": 3208,
+                "perDeed": 2.33,
+                "perMutation": 2.33,
+                "perMortgage": 2.33
+            },
+            {
+                "rsDaag": 3205,
+                "perDeed": 2.33,
+                "perMutation": 2.33,
+                "perMortgage": 2.33
+            },
+            {
+                "rsDaag": 3206,
+                "perDeed": 4.50,
+                "perMutation": 4.50,
+                "perMortgage": 4.50
+            },
+            {
+                "rsDaag": 3120,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "3487",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3487",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Noresh Bhuiyan",
+                "south": "Noresh Bhuiyan",
+                "east": "Lahu Bibi",
+                "west": "Akkabor"
+            },
+            {
+                "north": "Kashem",
+                "south": "Nasir",
+                "east": "Kashem",
+                "west": "Kashem"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "468",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nurul Islam Jakir & Other",
+        "deedNo": "18280",
+        "date": "05-08-2012",
+        "landAreaPerDeed": 97.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "28244",
+                "date": "21-12-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            1089
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            802
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3090,
+                "perDeed": 67.00,
+                "perMutation": 63.13,
+                "perMortgage": 63.13
+            }
+        ],
+        "rsMutationNo": "3487",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3487",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "5,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Seraj Miah",
+                "south": "Hult",
+                "east": "Taleb and Ajgor",
+                "west": "Md. Lokman Hossain (Lukku)"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "469",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Rubi Begum & Other",
+        "deedNo": "22873",
+        "date": "15-11-2010",
+        "landAreaPerDeed": 17.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3823",
+                "date": "06-05-1992"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1188,
+            1189,
+            1135,
+            1135,
+            1135
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            1188,
+            1189,
+            1135,
+            1135,
+            1135
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3181,
+                "perDeed": 5.50,
+                "perMutation": 5.50,
+                "perMortgage": 5.50
+            },
+            {
+                "rsDaag": 3182,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            },
+            {
+                "rsDaag": 3102,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            },
+            {
+                "rsDaag": 3103,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": 1.50
+            },
+            {
+                "rsDaag": 3104,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": 1.50
+            }
+        ],
+        "rsMutationNo": "3243",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3243",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "4,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Akkabor Bhuiyan",
+                "south": "Baten Molla",
+                "east": "Mesher Ali",
+                "west": "Akkabor Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "470",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nurul Islam & Other",
+        "deedNo": "17371",
+        "date": "05-09-2010",
+        "landAreaPerDeed": 21.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8790",
+                "date": "24-07-2008"
+            },
+            {
+                "deedNo": "9201",
+                "date": "05-08-200"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1016
+        ],
+        "saKhatianDetails": [
+            1119
+        ],
+        "saDaagDetails": [
+            1016
+        ],
+        "rsKhatianDetails": [
+            1111
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3465,
+                "perDeed": 21.50,
+                "perMutation": 21.50,
+                "perMortgage": 21.50
+            }
+        ],
+        "rsMutationNo": "3102",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3102",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "5,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Khodeja and Other",
+                "south": "Md Danish",
+                "east": "Md. Motin",
+                "west": "Md. Farid"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "471",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Samsul Haque & Other",
+        "deedNo": "21486",
+        "date": "31-10-2010",
+        "landAreaPerDeed": 36.37,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "122",
+                "date": "04-01-2006"
+            },
+            {
+                "deedNo": "3013",
+                "date": "17-02-2010"
+            },
+            {
+                "deedNo": "6415",
+                "date": "08-04-2010"
+            },
+            {
+                "deedNo": "21119",
+                "date": "26-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1131,
+            135
+        ],
+        "saKhatianDetails": [
+            8081
+        ],
+        "saDaagDetails": [
+            1131,
+            135
+        ],
+        "rsKhatianDetails": [
+            73
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3102,
+                "perDeed": 22.57,
+                "perMutation": 22.57,
+                "perMortgage": 22.57
+            },
+            {
+                "rsDaag": 3103,
+                "perDeed": 6.90,
+                "perMutation": 6.90,
+                "perMortgage": 6.90
+            },
+            {
+                "rsDaag": 3104,
+                "perDeed": 6.90,
+                "perMutation": 6.90,
+                "perMortgage": 6.90
+            }
+        ],
+        "rsMutationNo": "3158",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3158",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "8,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul Hakim and Other",
+                "south": "Lokhinodor",
+                "east": "Abul Kashem",
+                "west": "Cannel"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "472",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Jasim Uddin",
+        "deedNo": "22294",
+        "date": "09-11-2010",
+        "landAreaPerDeed": 21.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7012",
+                "date": "29-04-1972"
+            },
+            {
+                "deedNo": "10402",
+                "date": "08-10-1994"
+            },
+            {
+                "deedNo": "19839",
+                "date": "12-10-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            2311
+        ],
+        "saKhatianDetails": [
+            364,
+            238
+        ],
+        "saDaagDetails": [
+            2311
+        ],
+        "rsKhatianDetails": [
+            1578
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5566,
+                "perDeed": 21.00,
+                "perMutation": 21.00,
+                "perMortgage": 21.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "5,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Johor Ali",
+                "south": "Md. Kalay Miah",
+                "east": "Iman Ali",
+                "west": "Abdul Awal"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "473",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Momotaj Begum",
+        "deedNo": "23319",
+        "date": "28-11-2010",
+        "landAreaPerDeed": 17.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3255",
+                "date": "22-12-1942"
+            },
+            {
+                "deedNo": "10696",
+                "date": "09-12-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            980
+        ],
+        "saKhatianDetails": [
+            1030
+        ],
+        "saDaagDetails": [
+            980
+        ],
+        "rsKhatianDetails": [
+            1452
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3583/3740",
+                "perDeed": 17.00,
+                "perMutation": 17.00,
+                "perMortgage": 17.00
+            }
+        ],
+        "rsMutationNo": "3192",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3192",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "4,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdur Sobahan",
+                "south": "Abdur Sobahan",
+                "east": "Abdul Barek",
+                "west": "Abdul Barek"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "474",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "Mohammed Fayazur Rahman Bhuiyan",
+        "deedNo": "1242",
+        "date": "16-01-2012",
+        "landAreaPerDeed": 134.14,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "21704",
+                "date": "03-10-2011"
+            },
+            {
+                "deedNo": "21182",
+                "date": "26-09-2011"
+            },
+            {
+                "deedNo": "27860",
+                "date": "19-12-2011"
+            },
+            {
+                "deedNo": "301",
+                "date": "13-01-1999"
+            },
+            {
+                "deedNo": "21300",
+                "date": "27-09-2011"
+            },
+            {
+                "deedNo": "26562",
+                "date": "05-12-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            2303,
+            2188,
+            2102,
+            1142,
+            1148,
+            1132
+        ],
+        "saKhatianDetails": [
+            364,
+            1089,
+            1288,
+            392,
+            381,
+            1090
+        ],
+        "saDaagDetails": [
+            2303,
+            2188,
+            2102,
+            1142,
+            1148,
+            1132
+        ],
+        "rsKhatianDetails": [
+            1578,
+            802,
+            1176,
+            702,
+            405,
+            87
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5593,
+                "perDeed": 29.00,
+                "perMutation": 29.00,
+                "perMortgage": 29.00
+            },
+            {
+                "rsDaag": 5616,
+                "perDeed": 60.00,
+                "perMutation": 60.00,
+                "perMortgage": 60.00
+            },
+            {
+                "rsDaag": 6712,
+                "perDeed": 11.00,
+                "perMutation": 11.00,
+                "perMortgage": 11.00
+            },
+            {
+                "rsDaag": 3207,
+                "perDeed": 10.00,
+                "perMutation": 10.00,
+                "perMortgage": 10.00
+            },
+            {
+                "rsDaag": 3210,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            },
+            {
+                "rsDaag": 3204,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            },
+            {
+                "rsDaag": 3205,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            },
+            {
+                "rsDaag": 3206,
+                "perDeed": 3.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            },
+            {
+                "rsDaag": 3098,
+                "perDeed": 3.08,
+                "perMutation": 3.08,
+                "perMortgage": 3.08
+            },
+            {
+                "rsDaag": 3066,
+                "perDeed": 1.31,
+                "perMutation": 1.31,
+                "perMortgage": 1.31
+            },
+            {
+                "rsDaag": 3054,
+                "perDeed": 0.68,
+                "perMutation": 0.68,
+                "perMortgage": 0.68
+            },
+            {
+                "rsDaag": 3057,
+                "perDeed": 0.68,
+                "perMutation": 0.68,
+                "perMortgage": 0.68
+            },
+            {
+                "rsDaag": 3056,
+                "perDeed": 0.78,
+                "perMutation": 0.78,
+                "perMortgage": 0.78
+            },
+            {
+                "rsDaag": 3055,
+                "perDeed": 0.75,
+                "perMutation": 0.75,
+                "perMortgage": 0.75
+            },
+            {
+                "rsDaag": 3100,
+                "perDeed": 0.87,
+                "perMutation": 0.87,
+                "perMortgage": 0.87
+            },
+            {
+                "rsDaag": 3095,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": 1.00
+            },
+            {
+                "rsDaag": 3096,
+                "perDeed": 0.95,
+                "perMutation": 0.95,
+                "perMortgage": 0.95
+            },
+            {
+                "rsDaag": 3097,
+                "perDeed": 0.95,
+                "perMutation": 0.95,
+                "perMortgage": 0.95
+            },
+            {
+                "rsDaag": 3090,
+                "perDeed": 3.09,
+                "perMutation": 3.09,
+                "perMortgage": 3.09
+            }
+        ],
+        "rsMutationNo": "3727",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3727",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "44,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ala Uddin",
+                "south": "Toaj Ali",
+                "east": "Md. Rofik Miah",
+                "west": "Jafor Ali"
+            },
+            {
+                "north": "Mojid Miah",
+                "south": "Ataur Rahman",
+                "east": "Johor Ali",
+                "west": "Rajaul and Asad Miah"
+            },
+            {
+                "north": "Haji Seraj Mollah",
+                "south": "Akkabor Bhuiyan",
+                "east": "Jamal Bhuiyan",
+                "west": "Haji Seraj Mollah"
+            },
+            {
+                "north": "Noresh Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Lahu Bibi",
+                "west": "Akkabor"
+            },
+            {
+                "north": "Belat and Other",
+                "south": "Cannel",
+                "east": "Abdul",
+                "west": "Awal"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "475",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "Md. Sohidulla & Other",
+        "deedNo": "9647",
+        "date": "24-04-2012",
+        "landAreaPerDeed": 41.33,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "273",
+                "date": "07-01-1961"
+            },
+            {
+                "deedNo": "5860",
+                "date": "01-08-1993"
+            },
+            {
+                "deedNo": "7839",
+                "date": "30-06-1977"
+            },
+            {
+                "deedNo": "7036",
+                "date": "23-07-1994"
+            },
+            {
+                "deedNo": "1857",
+                "date": "06-03-2003"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1446,
+            1447
+        ],
+        "saKhatianDetails": [
+            915
+        ],
+        "saDaagDetails": [
+            1446,
+            1447
+        ],
+        "rsKhatianDetails": [
+            1426
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5199,
+                "perDeed": 26.00,
+                "perMutation": 26.00,
+                "perMortgage": 26.00
+            },
+            {
+                "rsDaag": 5200,
+                "perDeed": 13.30,
+                "perMutation": 13.30,
+                "perMortgage": 13.30
+            },
+            {
+                "rsDaag": 5202,
+                "perDeed": 1.15,
+                "perMutation": 1.15,
+                "perMortgage": 1.15
+            },
+            {
+                "rsDaag": 5201,
+                "perDeed": 0.88,
+                "perMutation": 0.88,
+                "perMortgage": 0.88
+            }
+        ],
+        "rsMutationNo": "3981",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3981",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "4,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Owaskurunney and Other",
+                "south": "Mutual Concern corporation Ltd.",
+                "east": "Lal Miah Molla and Other",
+                "west": "Taher Master"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "476",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "Md. Sohidulla & Other",
+        "deedNo": "9648",
+        "date": "24-04-2012",
+        "landAreaPerDeed": 27.23,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2690",
+                "date": "24-06-1937"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1118,
+            1117,
+            2560
+        ],
+        "saKhatianDetails": [
+            351
+        ],
+        "saDaagDetails": [
+            1118,
+            1117,
+            2560
+        ],
+        "rsKhatianDetails": [
+            349
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3084,
+                "perDeed": 10.01,
+                "perMutation": 10.01,
+                "perMortgage": 10.01
+            },
+            {
+                "rsDaag": 3083,
+                "perDeed": 7.81,
+                "perMutation": 7.81,
+                "perMortgage": 7.81
+            },
+            {
+                "rsDaag": 3078,
+                "perDeed": 9.41,
+                "perMutation": 9.41,
+                "perMortgage": 9.41
+            }
+        ],
+        "rsMutationNo": "3892",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3892",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "11,45,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Billal and Othe",
+                "south": "Hult",
+                "east": "Md. Sohidulla & Other",
+                "west": "Seraj Haji"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "477",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "MD. Fojor Ali & Other",
+        "deedNo": "19939",
+        "date": "13-08-2010",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11408",
+                "date": "13-09-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            2265
+        ],
+        "saKhatianDetails": [
+            819
+        ],
+        "saDaagDetails": [
+            2265
+        ],
+        "rsKhatianDetails": [
+            1582
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 6764,
+                "perDeed": 14.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "3,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "478",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "Mst. Lotifa Khatun & Others",
+        "deedNo": "18186",
+        "date": "04-08-2012",
+        "landAreaPerDeed": 28.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            417
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            471
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5495,
+                "perDeed": 7.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5496,
+                "perDeed": 7.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5497,
+                "perDeed": 7.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5498,
+                "perDeed": 7.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "11,76,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ahad and Other",
+                "south": "Owrish",
+                "east": "Mst. Lotifa Khatun & Others",
+                "west": "Bokul and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "479",
+        "mouza": "Chowddapaika",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Moheshasura",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 75",
+        "buyer": "Mutual Concern corporation Ltd.",
+        "seller": "Abdul Malak & Others",
+        "deedNo": "18188",
+        "date": "03-08-2012",
+        "landAreaPerDeed": 30.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            417
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            471
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 5495,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5496,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5497,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 5498,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "12,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ahad and Other",
+                "south": "Owrish",
+                "east": "Mst. Lotifa Khatun & Others",
+                "west": "Bokul and Other"
             }
         ],
         "remarks": null
