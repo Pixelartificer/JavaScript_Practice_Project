@@ -45231,5 +45231,449 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "527",
+        "mouza": "Gujiam",
+        "upazila": "Trisal",
+        "ps": "Amirabari",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 85",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdus Salam",
+        "deedNo": "1175",
+        "date": "11-03-2012",
+        "landAreaPerDeed": 26.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4801",
+                "date": "14-07-2003"
+            },
+            {
+                "deedNo": "3229",
+                "date": "16-05-2005"
+            },
+            {
+                "deedNo": "1789",
+                "date": "16-04-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1765,
+            1766,
+            1767
+        ],
+        "saKhatianDetails": [
+            177,
+            586,
+            535
+        ],
+        "saDaagDetails": [
+            1765,
+            1766,
+            1767
+        ],
+        "rsKhatianDetails": [
+            1514,
+            1510
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 11173,
+                "perDeed": 13.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11174,
+                "perDeed": 6.50,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11177,
+                "perDeed": 6.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "20,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shahjahan and Other",
+                "south": "Shofikul Islam and Other",
+                "east": "Motin and Other",
+                "west": "Salam and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "528",
+        "mouza": "Gujiam",
+        "upazila": "Trisal",
+        "ps": "Amirabari",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 85",
+        "buyer": "Jaj Bhuiyan Group Ltd.",
+        "seller": "Md. Haharat Ali",
+        "deedNo": "8104",
+        "date": "11-11-2012",
+        "landAreaPerDeed": 26.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3340",
+                "date": "19-04-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1767,
+            1768
+        ],
+        "saKhatianDetails": [
+            177,
+            68
+        ],
+        "saDaagDetails": [
+            1767,
+            1768
+        ],
+        "rsKhatianDetails": [
+            58
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 11171,
+                "perDeed": 17.25,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11168,
+                "perDeed": 9.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "26,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Hajarat Ali Mowlovi",
+                "east": "Jaj Bhuiyan Group",
+                "west": "Abdul Barek and Other"
+            },
+            {
+                "north": "Road",
+                "south": "Abul Kalam",
+                "east": "Abdul Barek",
+                "west": "C & B Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "529",
+        "mouza": "Gujiam",
+        "upazila": "Trisal",
+        "ps": "Amirabari",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 85",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abul Munsur",
+        "deedNo": "344",
+        "date": "16-01-2014",
+        "landAreaPerDeed": 16.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "659",
+                "date": "28-01-1999"
+            },
+            {
+                "deedNo": "904",
+                "date": "14-02-1999"
+            },
+            {
+                "deedNo": "1999",
+                "date": "22-03-1999"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1794,
+            3340,
+            3370,
+            "1794/3441"
+        ],
+        "saKhatianDetails": [
+            101,
+            464,
+            838
+        ],
+        "saDaagDetails": [
+            1794,
+            3340,
+            3370,
+            "1794/3441"
+        ],
+        "rsKhatianDetails": [
+            674
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 11164,
+                "perDeed": 3.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11163,
+                "perDeed": 2.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11134,
+                "perDeed": 4.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 11164,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "14,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "C & B Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "530",
+        "mouza": "Gulshan Residential Area",
+        "upazila": "Gulshan",
+        "ps": "Gulshan",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 85",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mostafejur Rahman Bhuiyan",
+        "deedNo": "8498",
+        "date": "14-09-2011",
+        "landAreaPerDeed": 0.97,
+        "buildingAreaSqft": 2979.00,
+        "biaDeed": [
+            {
+                "deedNo": "11266",
+                "date": "20-03-1974"
+            },
+            {
+                "deedNo": "13290",
+                "date": "08-05-1974"
+            },
+            {
+                "deedNo": "4312",
+                "date": "18-04-1994"
+            },
+            {
+                "deedNo": "7744",
+                "date": "23-09-2008"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            360,
+            366
+        ],
+        "saKhatianDetails": [
+            3
+        ],
+        "saDaagDetails": [
+            360,
+            366
+        ],
+        "rsKhatianDetails": [
+            5,
+            956
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3001/3529",
+                "perDeed": 0.50,
+                "perMutation": 0.50,
+                "perMortgage": 0.50
+            },
+            {
+                "rsDaag": 7521,
+                "perDeed": 0.47,
+                "perMutation": 0.47,
+                "perMortgage": 0.47
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "LankaBangla Finance PLC.",
+        "borrowerName": "Home Lone",
+        "deedValue": "57,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": "The area of this flat is 1314.00 square feet, but the mortgage is for 2979.00 square feet. The name of the apartment is Gausia Paradiso, and it is a 10-story building. The flat in question is Flat B-4, located on the 3rd floor of the building, and it has been purchased through this deed."
+    },
+    {
+        "id": "531",
+        "mouza": "Hatiber",
+        "upazila": "Valuka",
+        "ps": "Uthura",
+        "district": "Mymenshing",
+        "deedType": "Power Deed",
+        "jlNumber": "RS- 3",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Sajeda Khatun & Other",
+        "deedNo": "6348",
+        "date": "06-10-2020",
+        "landAreaPerDeed": 563.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            396,
+            500,
+            516,
+            524,
+            594,
+            596
+        ],
+        "saKhatianDetails": [
+            72,
+            155
+        ],
+        "saDaagDetails": [
+            396,
+            500,
+            516,
+            524,
+            594,
+            596
+        ],
+        "rsKhatianDetails": [
+            40
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3078,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3180,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3187,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3188,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3199,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3303,
+                "perDeed": 80.00,
+                "perMutation": 80.00,
+                "perMortgage": 80.00
+            },
+            {
+                "rsDaag": 3306,
+                "perDeed": 83.00,
+                "perMutation": 83.00,
+                "perMortgage": 83.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Paper Mill and Other",
+                "south": "Helal and Other",
+                "east": "Tarif Ullah and Other",
+                "west": "Sentu and Other"
+            }
+        ],
+        "remarks": null
     }
 ]
