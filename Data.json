@@ -48076,5 +48076,271 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "562",
+        "mouza": "Kotalirchar",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 81",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Najrul Islam",
+        "deedNo": "2437",
+        "date": "09-02-2010",
+        "landAreaPerDeed": 7.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "11916",
+                "date": "08-11-1984"
+            },
+            {
+                "deedNo": "8225",
+                "date": "04-09-2003"
+            },
+            {
+                "deedNo": "5813",
+                "date": "08-06-2005"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            169
+        ],
+        "saKhatianDetails": [
+            30
+        ],
+        "saDaagDetails": [
+            169
+        ],
+        "rsKhatianDetails": [
+            315
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 249,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "2615",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2615",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "20,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Solman and Other",
+                "south": "Road",
+                "east": "Mofij Uddin",
+                "west": "Ahammed Ali and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "563",
+        "mouza": "Kotalirchar",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 81",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sheddik Miah & Other",
+        "deedNo": "15638",
+        "date": "10-08-2010",
+        "landAreaPerDeed": 5.40,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2206",
+                "date": "27-03-2006"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            169
+        ],
+        "saKhatianDetails": [
+            30
+        ],
+        "saDaagDetails": [
+            169
+        ],
+        "rsKhatianDetails": [
+            315
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 249,
+                "perDeed": 5.40,
+                "perMutation": 5.40,
+                "perMortgage": 5.40
+            }
+        ],
+        "rsMutationNo": "2615",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2615",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "M M Knitting & Embroidery Ltd.",
+        "deedValue": "9,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mst. Fatema Begum and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Md. Younus Miah",
+                "west": "Ahammed Dawan and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "564",
+        "mouza": "Kotalirchar",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 81",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ataur Rahman & Other",
+        "deedNo": "17039",
+        "date": "30-08-2010",
+        "landAreaPerDeed": 5.72,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            169
+        ],
+        "saKhatianDetails": [
+            30
+        ],
+        "saDaagDetails": [
+            169
+        ],
+        "rsKhatianDetails": [
+            315
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 249,
+                "perDeed": 5.72,
+                "perMutation": 5.72,
+                "perMortgage": 5.72
+            }
+        ],
+        "rsMutationNo": "2957",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2957",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "6,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Mofij Miah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Md. Younus Miah",
+                "west": "Ahammed Dawan and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "565",
+        "mouza": "Lalbag",
+        "upazila": "Lalbag",
+        "ps": "South City Corporation",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 1",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Salim & Other",
+        "deedNo": "214",
+        "date": "14-01-2015",
+        "landAreaPerDeed": 0.018,
+        "buildingAreaSqft": 680.00,
+        "biaDeed": [
+            {
+                "deedNo": "14788",
+                "date": "20-05-1997"
+            },
+            {
+                "deedNo": "",
+                "date": "13-02-1985"
+            },
+            {
+                "deedNo": "4502",
+                "date": "17-06-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            807,
+            808
+        ],
+        "saKhatianDetails": [
+            425,
+            375
+        ],
+        "saDaagDetails": [
+            807,
+            808
+        ],
+        "rsKhatianDetails": [
+            1356,
+            3820
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1511,
+                "perDeed": 0.009,
+                "perMutation": 0.009,
+                "perMortgage": 0.009
+            },
+            {
+                "rsDaag": 4086,
+                "perDeed": 0.009,
+                "perMutation": 0.009,
+                "perMortgage": 0.009
+            }
+        ],
+        "rsMutationNo": "16902",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "16902",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "18,01,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shekha Parvin",
+                "south": "Road",
+                "east": "Mujibur Rahman",
+                "west": "Dr. Farjana Yesmin"
+            }
+        ],
+        "remarks": "3en Floor, G-4"
     }
 ]
