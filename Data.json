@@ -48342,5 +48342,438 @@
             }
         ],
         "remarks": "3en Floor, G-4"
+    },
+    {
+        "id": "566",
+        "mouza": "Laluah",
+        "upazila": "Kalapara",
+        "ps": "Laluah",
+        "district": "Potuakhali",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Salim & Other",
+        "deedNo": "3777",
+        "date": "12-08-2021",
+        "landAreaPerDeed": 88.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2670",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2671",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2672",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2673",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2674",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "303",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "304",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "305",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "100",
+                "date": "08-01-1986"
+            },
+            {
+                "deedNo": "1676",
+                "date": "30-04-1992"
+            },
+            {
+                "deedNo": "98",
+                "date": "08-01-1986"
+            },
+            {
+                "deedNo": "2032",
+                "date": "05-04-1990"
+            },
+            {
+                "deedNo": "99",
+                "date": "08-01-1986"
+            },
+            {
+                "deedNo": "301",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "1391",
+                "date": "19-02-1985"
+            },
+            {
+                "deedNo": "2033",
+                "date": "05-04-1990"
+            },
+            {
+                "deedNo": "2640",
+                "date": "05-05-1990"
+            },
+            {
+                "deedNo": "469",
+                "date": "18-02-1993"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            115
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            266
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1687,
+                "perDeed": 88.00,
+                "perMutation": 88.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": "1022",
+        "khajna": "1427",
+        "holdingNo": "16902",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "15,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Sota Khan",
+                "south": "Road",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Delowar and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "567",
+        "mouza": "Laluah",
+        "upazila": "Kalapara",
+        "ps": "Laluah",
+        "district": "Potuakhali",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mejanur Rahman Liton & Other",
+        "deedNo": "4239",
+        "date": "12-11-2020",
+        "landAreaPerDeed": 140.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2670",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2671",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2672",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2673",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2674",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "303",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "304",
+                "date": "06-02-1964"
+            },
+            {
+                "deedNo": "100",
+                "date": "08-01-1986"
+            },
+            {
+                "deedNo": "1676",
+                "date": "30-04-1992"
+            },
+            {
+                "deedNo": "98",
+                "date": "08-01-1986"
+            },
+            {
+                "deedNo": "2032",
+                "date": "05-04-1990"
+            },
+            {
+                "deedNo": "2033",
+                "date": "05-04-1990"
+            },
+            {
+                "deedNo": "2640",
+                "date": "05-05-1990"
+            },
+            {
+                "deedNo": "469",
+                "date": "18-02-1993"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [
+            115
+        ],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            266,
+            55
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1687,
+                "perDeed": 140.00,
+                "perMutation": 140.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": "1005",
+        "khajna": "1427",
+        "holdingNo": "1005",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "34,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Sota Khan",
+                "south": "Road",
+                "east": "Faruk Mollik and Other",
+                "west": "Md. Mejanur Rahman Liton & Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "568",
+        "mouza": "Laluah",
+        "upazila": "Kalapara",
+        "ps": "Laluah",
+        "district": "Potuakhali",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "MD Abdusamad Miah & other",
+        "deedNo": "6001",
+        "date": "09-11-2022",
+        "landAreaPerDeed": 39.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "354",
+                "date": "19-02-1964"
+            },
+            {
+                "deedNo": "355",
+                "date": "19-02-1964"
+            },
+            {
+                "deedNo": "177",
+                "date": "07-02-1959"
+            },
+            {
+                "deedNo": "195",
+                "date": "27-01-1964"
+            },
+            {
+                "deedNo": "2675",
+                "date": "05-08-1963"
+            },
+            {
+                "deedNo": "2482",
+                "date": "13-06-2020"
+            },
+            {
+                "deedNo": "2483",
+                "date": "13-06-2020"
+            },
+            {
+                "deedNo": "4685",
+                "date": "28-12-2006"
+            },
+            {
+                "deedNo": "2904",
+                "date": "02-06-2004"
+            },
+            {
+                "deedNo": "4796",
+                "date": "26-10-2017"
+            },
+            {
+                "deedNo": "12",
+                "date": "06-01-2021"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            625,
+            626,
+            627,
+            629,
+            630,
+            631,
+            632
+        ],
+        "saKhatianDetails": [
+            115
+        ],
+        "saDaagDetails": [
+            625,
+            626,
+            627,
+            629,
+            630,
+            631,
+            632
+        ],
+        "rsKhatianDetails": [
+            90,
+            552
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1688,
+                "perDeed": 39.2235,
+                "perMutation": 39.2235,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": null,
+        "brsMutationNo": "172",
+        "khajna": "1427",
+        "holdingNo": "172",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "25,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Ali Akkabor",
+                "east": "Road",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "569",
+        "mouza": "Matuail-2",
+        "upazila": "Jatrabari",
+        "ps": "Matuail",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Khan Md. Raifuddin Jahan (Ripu) & Other",
+        "deedNo": "321",
+        "date": "13-01-2014",
+        "landAreaPerDeed": 15.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1306",
+                "date": "07-03-1942"
+            },
+            {
+                "deedNo": "11975",
+                "date": "19-09-1960"
+            },
+            {
+                "deedNo": "3891",
+                "date": "29-03-2012"
+            },
+            {
+                "deedNo": "8150",
+                "date": "28-06-2012"
+            },
+            {
+                "deedNo": "393",
+                "date": "14-01-2013"
+            },
+            {
+                "deedNo": "315",
+                "date": "13-01-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1605
+        ],
+        "saKhatianDetails": [
+            213
+        ],
+        "saDaagDetails": [
+            1605
+        ],
+        "rsKhatianDetails": [
+            1099,
+            1139
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3213,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 4628,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "27174",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "27174",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "36,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohidun Nessa",
+                "south": "land of RS 3208 no daag",
+                "east": "Fajlul Haque Bhuiyan(Sohail)",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
     }
 ]
