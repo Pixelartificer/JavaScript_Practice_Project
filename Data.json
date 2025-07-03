@@ -47488,5 +47488,593 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "554",
+        "mouza": "Kharia",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Khathaliah",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 131",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Amin Uddin & Other",
+        "deedNo": "11506",
+        "date": "23-06-2014",
+        "landAreaPerDeed": 22.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7872",
+                "date": "08-08-1973"
+            },
+            {
+                "deedNo": "84",
+                "date": "01-01-1975"
+            },
+            {
+                "deedNo": "11063",
+                "date": "11-10-1977"
+            },
+            {
+                "deedNo": "18546",
+                "date": "17-08-2013"
+            },
+            {
+                "deedNo": "23300",
+                "date": "14-10-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            407,
+            407
+        ],
+        "saKhatianDetails": [
+            10,
+            397
+        ],
+        "saDaagDetails": [
+            407,
+            407
+        ],
+        "rsKhatianDetails": [
+            57,
+            751,
+            717
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 588,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            },
+            {
+                "rsDaag": 589,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            }
+        ],
+        "rsMutationNo": "836",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "836",
+        "type": "Original",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "9,90,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mujibur Rahman",
+                "south": "Road",
+                "east": "Chand Miah Prodan and Suruj Miah",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "555",
+        "mouza": "Khatehara",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 53",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdul Khalek",
+        "deedNo": "20585",
+        "date": "19-09-2011",
+        "landAreaPerDeed": 14.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7953",
+                "date": "06-09-1992"
+            },
+            {
+                "deedNo": "4989",
+                "date": "04-07-1993"
+            },
+            {
+                "deedNo": "11290",
+                "date": "19-12-1996"
+            },
+            {
+                "deedNo": "8315",
+                "date": "25-09-1996"
+            }
+        ],
+        "csKhatianDetails": [
+            41
+        ],
+        "csDaagDetails": [
+            36
+        ],
+        "saKhatianDetails": [
+            43
+        ],
+        "saDaagDetails": [
+            36
+        ],
+        "rsKhatianDetails": [
+            128
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 72,
+                "perDeed": 14.75,
+                "perMutation": null,
+                "perMortgage": 14.75
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "92,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Jonob Ali",
+                "south": "Delowar Hossain and Road",
+                "east": "Nedhon Miah",
+                "west": "Kartik Babu"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "556",
+        "mouza": "Kismat Baniadi",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Shilmondi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 89",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ali Akbor",
+        "deedNo": "3647",
+        "date": "14-02-13, 15-02-12",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "81",
+                "date": "02-01-1997"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            276
+        ],
+        "saKhatianDetails": [
+            78
+        ],
+        "saDaagDetails": [
+            276
+        ],
+        "rsKhatianDetails": [
+            133
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 514,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            }
+        ],
+        "rsMutationNo": "417",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "417",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "10,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Billal and Other",
+                "south": "Sholim Uddin and Other",
+                "east": "Sokhina Bibi and Other",
+                "west": "Torun Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "557",
+        "mouza": "Kismat Baniadi",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Shilmondi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 89",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Ali Hossain",
+        "deedNo": "16797",
+        "date": "29-08-2013",
+        "landAreaPerDeed": 6.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2798",
+                "date": "04-04-2000"
+            },
+            {
+                "deedNo": "8062",
+                "date": "14-08-1994"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            141
+        ],
+        "saKhatianDetails": [
+            163
+        ],
+        "saDaagDetails": [
+            141
+        ],
+        "rsKhatianDetails": [
+            70
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 236,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            }
+        ],
+        "rsMutationNo": "464",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "464",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Omor Ali",
+                "south": "Ali Hossain",
+                "east": "Ali Hossain",
+                "west": "Ali Hossain and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "558",
+        "mouza": "Kismat Baniadi",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Shilmondi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 89",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Tofazzal Hossain",
+        "deedNo": "16488",
+        "date": "06-11-2018",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8090",
+                "date": "26-09-1991"
+            },
+            {
+                "deedNo": "2273",
+                "date": "17-03-2003"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            132
+        ],
+        "saKhatianDetails": [
+            186
+        ],
+        "saDaagDetails": [
+            132
+        ],
+        "rsKhatianDetails": [
+            70
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 239,
+                "perDeed": 5.00,
+                "perMutation": 5.00,
+                "perMortgage": 5.00
+            }
+        ],
+        "rsMutationNo": "568",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "568",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "3,75,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Md. Tofazzal Hossain",
+                "east": "Khalekur Jamman",
+                "west": "Nashima Akter"
+            }
+        ],
+        "remarks": "No SRO"
+    },
+    {
+        "id": "559",
+        "mouza": "Koiyadi",
+        "upazila": "Valuka",
+        "ps": "Uthura",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 5",
+        "buyer": "Jaj Bhuiyan Textile Mills Ltd.",
+        "seller": "Md. Abdul Kuddus",
+        "deedNo": "1752",
+        "date": "25-02-2020",
+        "landAreaPerDeed": 128.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            117
+        ],
+        "saKhatianDetails": [
+            166
+        ],
+        "saDaagDetails": [
+            117
+        ],
+        "rsKhatianDetails": [
+            11,
+            2,
+            70
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2146,
+                "perDeed": 32.00,
+                "perMutation": null,
+                "perMortgage": 32.00
+            },
+            {
+                "rsDaag": 2148,
+                "perDeed": 32.00,
+                "perMutation": null,
+                "perMortgage": 32.00
+            },
+            {
+                "rsDaag": 2149,
+                "perDeed": 32.00,
+                "perMutation": null,
+                "perMortgage": 32.00
+            },
+            {
+                "rsDaag": 2150,
+                "perDeed": 32.00,
+                "perMutation": null,
+                "perMortgage": 32.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "34,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Tara Miah and Other",
+                "south": "Road",
+                "east": "Kanda Land",
+                "west": "Kanda Land"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "560",
+        "mouza": "Koiyadi",
+        "upazila": "Valuka",
+        "ps": "Uthura",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 5",
+        "buyer": "Jaj Bhuiyan Textile Mills Ltd.",
+        "seller": "Md. Abdul Kuddus",
+        "deedNo": "1753",
+        "date": "25-02-2020",
+        "landAreaPerDeed": 191.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            117
+        ],
+        "saKhatianDetails": [
+            166
+        ],
+        "saDaagDetails": [
+            117
+        ],
+        "rsKhatianDetails": [
+            11,
+            2
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2146,
+                "perDeed": 47.75,
+                "perMutation": null,
+                "perMortgage": 47.75
+            },
+            {
+                "rsDaag": 2148,
+                "perDeed": 47.75,
+                "perMutation": null,
+                "perMortgage": 47.75
+            },
+            {
+                "rsDaag": 2149,
+                "perDeed": 47.75,
+                "perMutation": null,
+                "perMortgage": 47.75
+            },
+            {
+                "rsDaag": 2150,
+                "perDeed": 47.75,
+                "perMutation": null,
+                "perMortgage": 47.75
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "46,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ismail Khan and Other",
+                "south": "Halot",
+                "east": "Kanda Land",
+                "west": "Kanda Land"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "561",
+        "mouza": "Koiyadi",
+        "upazila": "Valuka",
+        "ps": "Uthura",
+        "district": "Mymenshing",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 5",
+        "buyer": "Jaj Bhuiyan Textile Mills Ltd.",
+        "seller": "Sree Endra Mohan Chandra Barman",
+        "deedNo": "2373",
+        "date": "18-03-2020",
+        "landAreaPerDeed": 212.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            10,
+            38
+        ],
+        "saKhatianDetails": [
+            136
+        ],
+        "saDaagDetails": [
+            10,
+            38
+        ],
+        "rsKhatianDetails": [
+            23
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 78,
+                "perDeed": 102.5,
+                "perMutation": null,
+                "perMortgage": 102.5
+            },
+            {
+                "rsDaag": 81,
+                "perDeed": 202.5,
+                "perMutation": null,
+                "perMortgage": 202.5
+            },
+            {
+                "rsDaag": 96,
+                "perDeed": 7.00,
+                "perMutation": null,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Union Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "46,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Idris Ali Member and Other",
+                "south": "Kanda Land",
+                "east": "Kanda Land",
+                "west": "Kanda Land"
+            },
+            {
+                "north": "Bahadur and Other",
+                "south": "Shahdat Hossain",
+                "east": "Aibaly and Other",
+                "west": "Shahdat Hossain"
+            }
+        ],
+        "remarks": null
     }
 ]
