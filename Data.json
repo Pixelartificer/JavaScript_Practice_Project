@@ -50811,5 +50811,629 @@
             }
         ],
         "remarks": null
+    },
+    {
+        "id": "595",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Nasima Akter & Other",
+        "deedNo": "2898",
+        "date": "16-03-2015",
+        "landAreaPerDeed": 13.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7289",
+                "date": "27-02-1975"
+            },
+            {
+                "deedNo": "20956",
+                "date": "06-10-1985"
+            },
+            {
+                "deedNo": "3621",
+                "date": "27-03-2013"
+            },
+            {
+                "deedNo": "5384",
+                "date": "22-05-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1649
+        ],
+        "saKhatianDetails": [
+            542
+        ],
+        "saDaagDetails": [
+            1649
+        ],
+        "rsKhatianDetails": [
+            1862
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3315,
+                "perDeed": 13.00,
+                "perMutation": 13.00,
+                "perMortgage": 13.00
+            }
+        ],
+        "rsMutationNo": "3992",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3992",
+        "type": "Certified copy",
+        "mortgageBank": "Rupali Bank Ltd. PLC",
+        "borrowerName": "Jaj Spinning Mills Ltd.",
+        "deedValue": "7,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Enyat Ullah",
+                "south": "Sheraj",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "596",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Fairly Propertys Ltd.",
+        "deedNo": "7710",
+        "date": "08-07-2014",
+        "landAreaPerDeed": 8.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1922",
+                "date": "26-03-1956"
+            },
+            {
+                "deedNo": "2029",
+                "date": "16-04-1963"
+            },
+            {
+                "deedNo": "14505",
+                "date": "15-12-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1648
+        ],
+        "saKhatianDetails": [
+            507
+        ],
+        "saDaagDetails": [
+            1648
+        ],
+        "rsKhatianDetails": [
+            439
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3314,
+                "perDeed": 8.75,
+                "perMutation": 8.75,
+                "perMortgage": 8.75
+            }
+        ],
+        "rsMutationNo": "3853",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3853",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "4,82,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "597",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Shaheda Haque Parven",
+        "deedNo": "8241",
+        "date": "04-08-2014",
+        "landAreaPerDeed": 20.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "971",
+                "date": "11-03-1989"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1650
+        ],
+        "saKhatianDetails": [
+            542
+        ],
+        "saDaagDetails": [
+            1650
+        ],
+        "rsKhatianDetails": [
+            615
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3316,
+                "perDeed": 20.20,
+                "perMutation": 20.20,
+                "perMortgage": 24.00
+            }
+        ],
+        "rsMutationNo": "3856",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3856",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "13,20,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Jashim Uddin and Other",
+                "south": "Md. Feroj",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Road"
+            }
+        ],
+        "remarks": "The 3.80 decimal land has been transferred to Deed no. 480 through the exchange deed."
+    },
+    {
+        "id": "598",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Anower Hossain Mer & Other",
+        "deedNo": "7289",
+        "date": "26-06-2014",
+        "landAreaPerDeed": 12.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3884",
+                "date": "02-08-1993"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1619
+        ],
+        "saKhatianDetails": [
+            1339
+        ],
+        "saDaagDetails": [
+            1619
+        ],
+        "rsKhatianDetails": [
+            1755
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3267,
+                "perDeed": 12.50,
+                "perMutation": 12.50,
+                "perMortgage": 12.50
+            }
+        ],
+        "rsMutationNo": "3880",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3880",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "7,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Alal Uddin",
+                "south": "Mosharof Hossain",
+                "east": "Shanna Ullah",
+                "west": "High Way"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "599",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Rokaiya Begum & Other",
+        "deedNo": "707",
+        "date": "19-01-2014",
+        "landAreaPerDeed": 25.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            3208
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            3208
+        ],
+        "rsKhatianDetails": [
+            49
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 6194,
+                "perDeed": 25.00,
+                "perMutation": 25.00,
+                "perMortgage": 25.00
+            }
+        ],
+        "rsMutationNo": "3779",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3779",
+        "type": "Certified copy",
+        "mortgageBank": "BD Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "13,75,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul Rouf and Other",
+                "south": "Abdul Hakim",
+                "east": "Abdul Ajiz",
+                "west": "Khokon"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "600",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Belatu Nessa Allies Belatu Nessa",
+        "deedNo": "2996",
+        "date": "20-03-2013",
+        "landAreaPerDeed": 48.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5225",
+                "date": "02-05-1968"
+            },
+            {
+                "deedNo": "2369",
+                "date": "17-03-1985"
+            },
+            {
+                "deedNo": "9300",
+                "date": "10-08-2011"
+            },
+            {
+                "deedNo": "2609",
+                "date": "09-03-2016"
+            },
+            {
+                "deedNo": "7886",
+                "date": "20-07-1967"
+            },
+            {
+                "deedNo": "2380",
+                "date": "23-03-1985"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1657
+        ],
+        "saKhatianDetails": [
+            1078
+        ],
+        "saDaagDetails": [
+            1657
+        ],
+        "rsKhatianDetails": [
+            447
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3320,
+                "perDeed": 48.00,
+                "perMutation": 48.00,
+                "perMortgage": 48.00
+            }
+        ],
+        "rsMutationNo": "4118",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "4118",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "29,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Samsul Mollah",
+                "south": "Islam and Other",
+                "east": "Cannel",
+                "west": "Fajul Hapqu and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "601",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sofekuzaman & Other",
+        "deedNo": "5534",
+        "date": "06-06-2016",
+        "landAreaPerDeed": 43.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "13111",
+                "date": "30-12-2010"
+            },
+            {
+                "deedNo": "2044",
+                "date": "10-02-1968"
+            },
+            {
+                "deedNo": "13112",
+                "date": "30-12-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1624
+        ],
+        "saKhatianDetails": [
+            860
+        ],
+        "saDaagDetails": [
+            1624
+        ],
+        "rsKhatianDetails": [
+            1211
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3275,
+                "perDeed": 21.00,
+                "perMutation": 21.00,
+                "perMortgage": 21.00
+            },
+            {
+                "rsDaag": 3276,
+                "perDeed": 22.00,
+                "perMutation": 22.00,
+                "perMortgage": 22.00
+            }
+        ],
+        "rsMutationNo": "4170, 4228",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "4170, 4228",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Zakia Cotton Text Ltd.",
+        "deedValue": "25,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shohidullah and Other",
+                "south": "Astan and Other",
+                "east": "Cannel",
+                "west": "Noor Mohammed and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "602",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Asma Akter Ema",
+        "deedNo": "8425",
+        "date": "05-08-2014",
+        "landAreaPerDeed": 4.58,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2151",
+                "date": "15-02-2011"
+            },
+            {
+                "deedNo": "4728",
+                "date": "24-04-2014"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1335
+        ],
+        "saKhatianDetails": [
+            1019
+        ],
+        "saDaagDetails": [
+            1335
+        ],
+        "rsKhatianDetails": [
+            1490
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3294,
+                "perDeed": 4.58,
+                "perMutation": 4.58,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3975",
+        "brsMutationNo": null,
+        "khajna": "1428",
+        "holdingNo": "3975",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Arob Ali Mir",
+                "south": "Samsul Haque and Other",
+                "east": "Jahangir Hossain and Other",
+                "west": "C & B Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "603",
+        "mouza": "Panchrukhai",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "RS- 9",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Enayet Ullah",
+        "deedNo": "480",
+        "date": "14-01-2015",
+        "landAreaPerDeed": 4.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1922",
+                "date": "26-03-1957"
+            },
+            {
+                "deedNo": "2029",
+                "date": "16-04-1963"
+            },
+            {
+                "deedNo": "2091",
+                "date": "30-03-2010"
+            },
+            {
+                "deedNo": "2092",
+                "date": "30-03-2010"
+            },
+            {
+                "deedNo": "7801",
+                "date": "10-08-2010"
+            },
+            {
+                "deedNo": "1162",
+                "date": "26-01-2011"
+            },
+            {
+                "deedNo": "1163",
+                "date": "26-01-2011"
+            },
+            {
+                "deedNo": "13843",
+                "date": "15-12-2014"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1648
+        ],
+        "saKhatianDetails": [
+            507
+        ],
+        "saDaagDetails": [
+            1648
+        ],
+        "rsKhatianDetails": [
+            439
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3314,
+                "perDeed": 4.25,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "2,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Md. Enyat Ullah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mijan and Other",
+                "west": "Nacima Begom"
+            }
+        ],
+        "remarks": null
     }
 ]
