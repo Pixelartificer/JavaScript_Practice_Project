@@ -61077,13 +61077,13 @@
             {
                 "rsDaag": 2430,
                 "perDeed": 2.45,
-                "perMutation": 2.31,
+                "perMutation": null,
                 "perMortgage": null
             },
             {
                 "rsDaag": 2486,
                 "perDeed": 1.70,
-                "perMutation": 0.32,
+                "perMutation": null,
                 "perMortgage": null
             }
         ],
