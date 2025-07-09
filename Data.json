@@ -14606,7 +14606,7 @@
         "holdingNo": "3657",
         "type": "Certified copy",
         "mortgageBank": "Janata Bank Ltd. PLC",
-        "borrowerName": "Parent Denim",
+        "borrowerName": "Parent Denim Ltd.",
         "deedValue": "1,46,00,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -46772,7 +46772,7 @@
     },
     {
         "id": "547",
-        "mouza": "jateiya",
+        "mouza": "Jateiya",
         "upazila": "Valuka",
         "ps": "Uthura",
         "district": "Mymenshing",
@@ -57206,7 +57206,9 @@
         "csDaagDetails": [
             777
         ],
-        "saKhatianDetails": [],
+        "saKhatianDetails": [
+            240
+        ],
         "saDaagDetails": [
             777
         ],
@@ -57276,7 +57278,9 @@
         "csDaagDetails": [
             777
         ],
-        "saKhatianDetails": [],
+        "saKhatianDetails": [
+            240
+        ],
         "saDaagDetails": [
             777
         ],
@@ -57305,6 +57309,2291 @@
                 "north": "Rojon Uddin Mollah and Other",
                 "south": "Mohammed Fayazur Rahman Bhuiyan",
                 "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "681",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Chana Miah Allias Dana Miah",
+        "deedNo": "10247",
+        "date": "17-09-2014",
+        "landAreaPerDeed": 7.73,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1627",
+                "date": "11-01-1964"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            777
+        ],
+        "saKhatianDetails": [
+            240
+        ],
+        "saDaagDetails": [
+            777
+        ],
+        "rsKhatianDetails": [
+            260
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2353,
+                "perDeed": 7.73,
+                "perMutation": 7.73,
+                "perMortgage": 7.73
+            }
+        ],
+        "rsMutationNo": "2641",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2641",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "3,92,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "682",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mojahed & Other",
+        "deedNo": "5908",
+        "date": "10-06-2015",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            572,
+            639
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            572,
+            639
+        ],
+        "rsKhatianDetails": [
+            323
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2296,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            },
+            {
+                "rsDaag": 2148,
+                "perDeed": 7.00,
+                "perMutation": 7.00,
+                "perMortgage": 7.00
+            }
+        ],
+        "rsMutationNo": "1980",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1980",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "10,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mijan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Haji Abdul Owhid",
+                "west": "Ajharul and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "683",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sakil Miah & Other",
+        "deedNo": "4434",
+        "date": "29-04-2015",
+        "landAreaPerDeed": 11.40,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            777
+        ],
+        "saKhatianDetails": [
+            240
+        ],
+        "saDaagDetails": [
+            777
+        ],
+        "rsKhatianDetails": [
+            260
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2353,
+                "perDeed": 11.40,
+                "perMutation": 11.40,
+                "perMortgage": 11.40
+            }
+        ],
+        "rsMutationNo": "2641",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2641",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "8,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "684",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nasim Uddin Sarker",
+        "deedNo": "12813",
+        "date": "22-12-2015",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            777
+        ],
+        "saKhatianDetails": [
+            240
+        ],
+        "saDaagDetails": [
+            777
+        ],
+        "rsKhatianDetails": [
+            260
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2353,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            }
+        ],
+        "rsMutationNo": "2641",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2641",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "1,54,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "685",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Nurul Islam",
+        "deedNo": "5602",
+        "date": "02-06-2015",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            800,
+            801
+        ],
+        "saKhatianDetails": [
+            372
+        ],
+        "saDaagDetails": [
+            800,
+            801
+        ],
+        "rsKhatianDetails": [
+            229
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2439,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": 2.00
+            },
+            {
+                "rsDaag": 2443,
+                "perDeed": 6.00,
+                "perMutation": 6.00,
+                "perMortgage": 6.00
+            }
+        ],
+        "rsMutationNo": "1980",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1980",
+        "type": "Original",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "6,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "686",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Shahjahan",
+        "deedNo": "14328",
+        "date": "19-12-2019",
+        "landAreaPerDeed": 39.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1459",
+                "date": "10-02-1959"
+            },
+            {
+                "deedNo": "3580",
+                "date": "05-04-1916"
+            },
+            {
+                "deedNo": "5351",
+                "date": "01-06-2016"
+            },
+            {
+                "deedNo": "4090",
+                "date": "25-03-1986"
+            },
+            {
+                "deedNo": "4487",
+                "date": "01-09-1993"
+            },
+            {
+                "deedNo": "7519",
+                "date": "17-11-1994"
+            },
+            {
+                "deedNo": "5154",
+                "date": "08-08-2016"
+            },
+            {
+                "deedNo": "1272",
+                "date": "29-02-1992"
+            },
+            {
+                "deedNo": "1503",
+                "date": "16-03-1991"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776,
+            772,
+            775
+        ],
+        "saKhatianDetails": [
+            394,
+            419,
+            403
+        ],
+        "saDaagDetails": [
+            776,
+            772,
+            775
+        ],
+        "rsKhatianDetails": [
+            868,
+            392,
+            545
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 26.75,
+                "perMutation": 26.75,
+                "perMortgage": 26.75
+            },
+            {
+                "rsDaag": 2407,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            },
+            {
+                "rsDaag": 2515,
+                "perDeed": 4.50,
+                "perMutation": null,
+                "perMortgage": 4.50
+            }
+        ],
+        "rsMutationNo": "2551",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2551",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "31,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "687",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hannan Miah & Other",
+        "deedNo": "9369",
+        "date": "29-08-2019",
+        "landAreaPerDeed": 13.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1459",
+                "date": "10-02-1959"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            394,
+            388
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            373,
+            868
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 13.25,
+                "perMutation": 13.25,
+                "perMortgage": 13.25
+            }
+        ],
+        "rsMutationNo": "2551",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2551",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Mutual Concern corporation Ltd.",
+        "deedValue": "10,65,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "688",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Rahmat Ullah & Other",
+        "deedNo": "7925",
+        "date": "14-07-2013",
+        "landAreaPerDeed": 18.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6072",
+                "date": "12-04-1972"
+            },
+            {
+                "deedNo": "6001",
+                "date": "04-09-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            872
+        ],
+        "saKhatianDetails": [
+            20
+        ],
+        "saDaagDetails": [
+            872
+        ],
+        "rsKhatianDetails": [
+            703
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2557,
+                "perDeed": 18.00,
+                "perMutation": 18.00,
+                "perMortgage": 18.00
+            }
+        ],
+        "rsMutationNo": "1777",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1777",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "7,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abul Hossain and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Kiron"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "689",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Rafekul Islam & Other",
+        "deedNo": "7926",
+        "date": "10-07-2013",
+        "landAreaPerDeed": 9.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6072",
+                "date": "12-04-1972"
+            },
+            {
+                "deedNo": "6001",
+                "date": "04-09-2000"
+            },
+            {
+                "deedNo": "5494",
+                "date": "13-05-2013"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            872
+        ],
+        "saKhatianDetails": [
+            20
+        ],
+        "saDaagDetails": [
+            872
+        ],
+        "rsKhatianDetails": [
+            703
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2557,
+                "perDeed": 9.00,
+                "perMutation": 9.00,
+                "perMortgage": 9.00
+            }
+        ],
+        "rsMutationNo": "1777",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1777",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "3,90,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abul Hossain and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Kiron"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "690",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdul Hannan Molla & Other",
+        "deedNo": "13570",
+        "date": "18-12-2012",
+        "landAreaPerDeed": 25.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            395
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            442
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 25.00,
+                "perMutation": 25.00,
+                "perMortgage": 25.00
+            }
+        ],
+        "rsMutationNo": "1730",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1730",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "8,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "691",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Feroj Miah",
+        "deedNo": "49",
+        "date": "02-01-2013",
+        "landAreaPerDeed": 5.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            395
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            442
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 5.00,
+                "perMutation": 3.00,
+                "perMortgage": 3.00
+            }
+        ],
+        "rsMutationNo": "1730",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1730",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "2,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Raju Miah",
+                "south": "Raju Miah",
+                "east": "Robiul Haji",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "692",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ratan Miah",
+        "deedNo": "1159",
+        "date": "28-01-2013",
+        "landAreaPerDeed": 15.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            395
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            442
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 15.00,
+                "perMutation": 15.00,
+                "perMortgage": 15.00
+            }
+        ],
+        "rsMutationNo": "1730",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1730",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "6,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "693",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mohammed Ali",
+        "deedNo": "8119",
+        "date": "17-07-2013",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "6880",
+                "date": "24-11-1997"
+            },
+            {
+                "deedNo": "8116",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            778
+        ],
+        "saKhatianDetails": [
+            407
+        ],
+        "saDaagDetails": [
+            778
+        ],
+        "rsKhatianDetails": [
+            356
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2309,
+                "perDeed": 8.00,
+                "perMutation": 8.00,
+                "perMortgage": 8.00
+            }
+        ],
+        "rsMutationNo": "1778",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1778",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "3,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "694",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Samsunaher",
+        "deedNo": "12901",
+        "date": "27-11-2013",
+        "landAreaPerDeed": 11.20,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5287",
+                "date": "20-05-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            614
+        ],
+        "saKhatianDetails": [
+            193
+        ],
+        "saDaagDetails": [
+            614
+        ],
+        "rsKhatianDetails": [
+            344
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2360,
+                "perDeed": 11.20,
+                "perMutation": 11.20,
+                "perMortgage": 11.20
+            }
+        ],
+        "rsMutationNo": "1778",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1778",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "4,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdul and Other",
+                "south": "Neamot Ullah and Other",
+                "east": "Nadir and Other",
+                "west": "Shamim and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "695",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Heba Deed",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nuruzaman",
+        "deedNo": "8371",
+        "date": "02-08-2012",
+        "landAreaPerDeed": 161.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "7457",
+                "date": "14-11-2002"
+            },
+            {
+                "deedNo": "2330",
+                "date": "06-04-2009"
+            },
+            {
+                "deedNo": "5674",
+                "date": "12-02-1987"
+            },
+            {
+                "deedNo": "3306",
+                "date": "15-05-2000"
+            },
+            {
+                "deedNo": "63",
+                "date": "04-01-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            395
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            442
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 161.00,
+                "perMutation": 161.00,
+                "perMortgage": 161.00
+            }
+        ],
+        "rsMutationNo": "1807",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1807",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "55,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "696",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Reazul Islam & Other",
+        "deedNo": "365",
+        "date": "09-01-2013",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "8484",
+                "date": "11-03-1975"
+            },
+            {
+                "deedNo": "191",
+                "date": "06-01-1994"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            804
+        ],
+        "saKhatianDetails": [
+            170
+        ],
+        "saDaagDetails": [
+            804
+        ],
+        "rsKhatianDetails": [
+            43
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2433,
+                "perDeed": 8.00,
+                "perMutation": 6.50,
+                "perMortgage": 6.50
+            }
+        ],
+        "rsMutationNo": "1684",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1684",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "3,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ahasan Ullah",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Robi Ullah Haji",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "697",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Feroj Miah",
+        "deedNo": "13456",
+        "date": "17-12-2012",
+        "landAreaPerDeed": 7.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "191",
+                "date": "06-01-1994"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            804
+        ],
+        "saKhatianDetails": [
+            140
+        ],
+        "saDaagDetails": [
+            804
+        ],
+        "rsKhatianDetails": [
+            46
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2433,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            }
+        ],
+        "rsMutationNo": "1685",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1685",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "Ainun Trade House Ltd.",
+        "deedValue": "2,55,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Robi Ullah Haji",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "698",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Arman Miah",
+        "deedNo": "2820",
+        "date": "15-03-2016",
+        "landAreaPerDeed": 43.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "977",
+                "date": "04-02-1972"
+            },
+            {
+                "deedNo": "978",
+                "date": "04-02-1972"
+            },
+            {
+                "deedNo": "4680",
+                "date": "08-07-2004"
+            },
+            {
+                "deedNo": "1554",
+                "date": "08-03-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            740,
+            741
+        ],
+        "saKhatianDetails": [
+            167
+        ],
+        "saDaagDetails": [
+            740,
+            741
+        ],
+        "rsKhatianDetails": [
+            554
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2389,
+                "perDeed": 14.00,
+                "perMutation": 14.00,
+                "perMortgage": 14.00
+            },
+            {
+                "rsDaag": 2388,
+                "perDeed": 29.00,
+                "perMutation": 29.00,
+                "perMortgage": 29.00
+            }
+        ],
+        "rsMutationNo": "2406",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2406",
+        "type": "Original",
+        "mortgageBank": "Janata Bank Ltd. PLC",
+        "borrowerName": "Parent Denim Ltd.",
+        "deedValue": "34,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Shahjahan and Other",
+                "east": "Titu",
+                "west": "Arman Miah"
+            },
+            {
+                "north": "Road",
+                "south": "Sadek",
+                "east": "Titu",
+                "west": "Arman Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "699",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Julekha Begum & Other",
+        "deedNo": "6739",
+        "date": "12-06-2014",
+        "landAreaPerDeed": 12.70,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "12433",
+                "date": "02-10-1974"
+            },
+            {
+                "deedNo": "8230",
+                "date": "19-12-1996"
+            },
+            {
+                "deedNo": "3703",
+                "date": "30-05-2002"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            864,
+            863
+        ],
+        "saKhatianDetails": [
+            84,
+            6
+        ],
+        "saDaagDetails": [
+            864,
+            863
+        ],
+        "rsKhatianDetails": [
+            115,
+            481
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2542,
+                "perDeed": 6.35,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 2543,
+                "perDeed": 6.35,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "6,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rohij Uddin",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "700",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Awaj Benemoy",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Alfaj Hossain",
+        "deedNo": "2074",
+        "date": "28-02-2012",
+        "landAreaPerDeed": 4.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9423",
+                "date": "24-12-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            225
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2330,
+                "perDeed": 4.66,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "701",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Eshob Ali Prodhan & Other",
+        "deedNo": "6418",
+        "date": "18-06-2012",
+        "landAreaPerDeed": 4.66,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            802,
+            803
+        ],
+        "saKhatianDetails": [
+            82,
+            372
+        ],
+        "saDaagDetails": [
+            802,
+            803
+        ],
+        "rsKhatianDetails": [
+            227,
+            229
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2435,
+                "perDeed": 3.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 2434,
+                "perDeed": 1.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,40,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Jashim Uddin",
+                "east": "Jashim Uddin",
+                "west": "Jashim Uddin"
+            },
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Hajarat Ali",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Haji Robiul"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "702",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Lokman Hossain",
+        "deedNo": "2040",
+        "date": "27-02-2012",
+        "landAreaPerDeed": 8.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [],
+        "saKhatianDetails": [],
+        "saDaagDetails": [],
+        "rsKhatianDetails": [
+            225
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2410,
+                "perDeed": 8.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "2,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "703",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Falu Miah & Other",
+        "deedNo": "9219",
+        "date": "30-09-2010",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            804
+        ],
+        "saKhatianDetails": [
+            170
+        ],
+        "saDaagDetails": [
+            804
+        ],
+        "rsKhatianDetails": [
+            410
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2432,
+                "perDeed": 12.00,
+                "perMutation": 12.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "1423",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "1423",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Hajarat Ali"
+            }
+        ],
+        "remarks": "The original mutation of this deed is with Premier Bank."
+    },
+    {
+        "id": "704",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Moli Hossain",
+        "deedNo": "8296",
+        "date": "19-07-2011",
+        "landAreaPerDeed": 12.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            880
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            880
+        ],
+        "rsKhatianDetails": [
+            463
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2676,
+                "perDeed": 12.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "4,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ayab Ali",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Ali Hossain",
+                "west": "Road"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "705",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Alfaj Hossain & Other",
+        "deedNo": "2039",
+        "date": "27-02-2012",
+        "landAreaPerDeed": 38.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "9423",
+                "date": "24-12-2009"
+            },
+            {
+                "deedNo": "9424",
+                "date": "24-12-2009"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            781,
+            841
+        ],
+        "saKhatianDetails": [
+            75
+        ],
+        "saDaagDetails": [
+            781,
+            841
+        ],
+        "rsKhatianDetails": [
+            563
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2352,
+                "perDeed": 28.00,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": "",
+                "perDeed": 10.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "12,80,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rojon Uddin Mollah",
+                "south": "Abdul Mojid",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "706",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hokul Miah & Other",
+        "deedNo": "9918",
+        "date": "20-09-2012",
+        "landAreaPerDeed": 13.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            780,
+            782
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            780,
+            782
+        ],
+        "rsKhatianDetails": [
+            459
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2321,
+                "perDeed": 9.75,
+                "perMutation": null,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 2331,
+                "perDeed": 4.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "4,70,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Cannel"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "707",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Abu Taher",
+        "deedNo": "9813",
+        "date": "19-09-2012",
+        "landAreaPerDeed": 1.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            802
+        ],
+        "saKhatianDetails": [
+            82
+        ],
+        "saDaagDetails": [
+            802
+        ],
+        "rsKhatianDetails": [
+            228
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2435,
+                "perDeed": 1.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "51,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "708",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Hasmot Ullah Miah",
+        "deedNo": "12414",
+        "date": "22-11-2012",
+        "landAreaPerDeed": 30.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            844
+        ],
+        "saKhatianDetails": [
+            15
+        ],
+        "saDaagDetails": [
+            844
+        ],
+        "rsKhatianDetails": [
+            144
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2508,
+                "perDeed": 30.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "709",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Aftab Uddin",
+        "deedNo": "11000",
+        "date": "07-10-2013",
+        "landAreaPerDeed": 1.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3771",
+                "date": "25-05-2008"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            841
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            841
+        ],
+        "rsKhatianDetails": [
+            684
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2422,
+                "perDeed": 1.00,
+                "perMutation": 1.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2406",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2406",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "43,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Gohor",
+                "south": "Anar and Other",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The original mutation of this deed is with Janata Bank PLC."
+    },
+    {
+        "id": "710",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nurul Islam",
+        "deedNo": "12303",
+        "date": "11-11-2013",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3899",
+                "date": "04-02-1975"
+            },
+            {
+                "deedNo": "2360",
+                "date": "08-04-1995"
+            },
+            {
+                "deedNo": "1035",
+                "date": "22-02-1997"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            881
+        ],
+        "saKhatianDetails": [
+            7
+        ],
+        "saDaagDetails": [
+            881
+        ],
+        "rsKhatianDetails": [
+            814
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2554,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": null
+            },
+            {
+                "rsDaag": 2555,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "2406",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2406",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,28,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Fajlul Haque",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "The original mutation of this deed is with Janata Bank PLC."
+    },
+    {
+        "id": "711",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Ali & Other",
+        "deedNo": "1043",
+        "date": "27-01-2014",
+        "landAreaPerDeed": 30.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2782",
+                "date": "03-05-1999"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            776
+        ],
+        "saKhatianDetails": [
+            395
+        ],
+        "saDaagDetails": [
+            776
+        ],
+        "rsKhatianDetails": [
+            442
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2414,
+                "perDeed": 30.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "15,15,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "712",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Nosor Ali",
+        "deedNo": "2754",
+        "date": "09-03-2014",
+        "landAreaPerDeed": 3.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3899",
+                "date": "04-02-1975"
+            },
+            {
+                "deedNo": "2360",
+                "date": "08-04-1995"
+            },
+            {
+                "deedNo": "1035",
+                "date": "22-02-1997"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            881
+        ],
+        "saKhatianDetails": [
+            7
+        ],
+        "saDaagDetails": [
+            881
+        ],
+        "rsKhatianDetails": [
+            814,
+            547
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2554,
+                "perDeed": 3.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,52,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Mohammed Fayazur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "713",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nayamot Ullah & Other",
+        "deedNo": "3308",
+        "date": "20-03-2014",
+        "landAreaPerDeed": 16.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            609
+        ],
+        "saKhatianDetails": [
+            240
+        ],
+        "saDaagDetails": [
+            609
+        ],
+        "rsKhatianDetails": [
+            309
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2361,
+                "perDeed": 16.00,
+                "perMutation": 15.25,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3620",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3620",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "8,08,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mottasim Billah and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Abdullah and Other",
+                "west": "Mohammed Ali"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "714",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Assomuddin & Other",
+        "deedNo": "7795",
+        "date": "10-04-2014",
+        "landAreaPerDeed": 14.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            611
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            611
+        ],
+        "rsKhatianDetails": [
+            295
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2363,
+                "perDeed": 14.00,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "7,07,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Sharajul Islam and Other",
+                "south": "Cannel",
+                "east": "Sharajul Islam and Other",
+                "west": "Billal and Other"
+            }
+        ],
+        "remarks": "There is an issue in the schedule of this deed."
+    },
+    {
+        "id": "715",
+        "mouza": "Rasulpur",
+        "upazila": "Arihajar",
+        "ps": "Shatgram",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Meraj Uddin Allias Basheb Miah & Other",
+        "deedNo": "5839",
+        "date": "22-05-2014",
+        "landAreaPerDeed": 4.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            844
+        ],
+        "saKhatianDetails": [],
+        "saDaagDetails": [
+            844
+        ],
+        "rsKhatianDetails": [
+            244
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 2511,
+                "perDeed": 4.50,
+                "perMutation": 1.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "3621",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "3621",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "2,30,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Mohammed Fayazur Rahman Bhuiyan",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "Khalil and Other",
                 "west": "Mohammed Fayazur Rahman Bhuiyan"
             }
         ],
