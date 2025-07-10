@@ -63208,8 +63208,8 @@
         "khajna": "1427",
         "holdingNo": "701/B",
         "type": "Original",
-        "mortgageBank": "Free",
-        "borrowerName": "",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
         "deedValue": "19,15,000.00",
         "mortgageValue": "",
         "surrounding": [
@@ -63221,5 +63221,1995 @@
             }
         ],
         "remarks": "JB Tower (Babur hat) 2.47 Decimal Land"
+    },
+    {
+        "id": "766",
+        "mouza": "Shekherchar",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Shilmondi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 87",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Mahmudur Rahman Bhuiyan",
+        "deedNo": "1579",
+        "date": "06-02-2008",
+        "landAreaPerDeed": 0.085,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2861",
+                "date": "31-03-1999"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            472
+        ],
+        "saKhatianDetails": [
+            197
+        ],
+        "saDaagDetails": [
+            472
+        ],
+        "rsKhatianDetails": [
+            601
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1210,
+                "perDeed": 0.085,
+                "perMutation": 0.085,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "601/4/1",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "601/4/1",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,55,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Halot",
+                "east": "Md. Mahmudur Rahman Bhuiyan",
+                "west": "Mohammed Fayazur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": "Shop"
+    },
+    {
+        "id": "767",
+        "mouza": "Shekherchar",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Shilmondi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 87",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Awlad Hossain Bhuiyan & Other",
+        "deedNo": "10030",
+        "date": "29-04-2012",
+        "landAreaPerDeed": 0.38,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "20426",
+                "date": "15-09-2011"
+            }
+        ],
+        "csKhatianDetails": [
+            394
+        ],
+        "csDaagDetails": [
+            550
+        ],
+        "saKhatianDetails": [
+            354
+        ],
+        "saDaagDetails": [
+            550
+        ],
+        "rsKhatianDetails": [
+            230
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1607,
+                "perDeed": 0.38,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Original",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "21,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Halot",
+                "south": "Shahin Bhuiyan and Other",
+                "east": "Md. Mahmudur Rahman Bhuiyan",
+                "west": "Halot"
+            }
+        ],
+        "remarks": "Shop"
+    },
+    {
+        "id": "768",
+        "mouza": "Shekherchar",
+        "upazila": "Mirpur",
+        "ps": "Mirpur",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Menhajur Rahman",
+        "deedNo": "11507",
+        "date": "19-09-2011",
+        "landAreaPerDeed": 1.10,
+        "buildingAreaSqft": 2550.00,
+        "biaDeed": [
+            {
+                "deedNo": "7879",
+                "date": "29-12-2003"
+            },
+            {
+                "deedNo": "11091",
+                "date": "26-12-2007"
+            },
+            {
+                "deedNo": "11092",
+                "date": "26-12-2007"
+            },
+            {
+                "deedNo": "11093",
+                "date": "26-12-2007"
+            },
+            {
+                "deedNo": "11094",
+                "date": "26-12-2007"
+            },
+            {
+                "deedNo": "11095",
+                "date": "26-12-2007"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            399
+        ],
+        "saKhatianDetails": [
+            312
+        ],
+        "saDaagDetails": [
+            399
+        ],
+        "rsKhatianDetails": [
+            1763
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 1714,
+                "perDeed": 1.10,
+                "perMutation": 1.10,
+                "perMortgage": 1.10
+            }
+        ],
+        "rsMutationNo": "9178",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "9178",
+        "type": "Original",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "7,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Cannel",
+                "east": "Afsana Rahman",
+                "west": "Aliya Yesmin and Other"
+            }
+        ],
+        "remarks": "Flat F-1, F-2 in 6th floor with 1 car parking, 1.5 Decimal Land"
+    },
+    {
+        "id": "769",
+        "mouza": "Shekherchar",
+        "upazila": "Mirpur",
+        "ps": "Pallabi",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mrs. Sumana Murshed Khan",
+        "deedNo": "2142",
+        "date": "18-02-2016",
+        "landAreaPerDeed": 0.375,
+        "buildingAreaSqft": 730.00,
+        "biaDeed": [
+            {
+                "deedNo": "13674",
+                "date": "22-08-1966"
+            },
+            {
+                "deedNo": "29951",
+                "date": "12-12-1973"
+            },
+            {
+                "deedNo": "30046",
+                "date": "12-12-1973"
+            },
+            {
+                "deedNo": "4354",
+                "date": "13-12-1986"
+            },
+            {
+                "deedNo": "4253",
+                "date": "22-04-2015"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1312
+        ],
+        "saKhatianDetails": [
+            190
+        ],
+        "saDaagDetails": [
+            1312
+        ],
+        "rsKhatianDetails": [
+            124
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 10079,
+                "perDeed": 0.375,
+                "perMutation": 0.375,
+                "perMortgage": 0.375
+            }
+        ],
+        "rsMutationNo": "32602",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "32602",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "16,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rahim Uddin and Other",
+                "south": "Manirul Islam and Other",
+                "east": "Morshed Ali",
+                "west": "Road"
+            }
+        ],
+        "remarks": "A/1 First Floor"
+    },
+    {
+        "id": "770",
+        "mouza": "Shekherchar",
+        "upazila": "Mirpur",
+        "ps": "Pallabi",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 25",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mr. Tarek Murshed Khan",
+        "deedNo": "2143",
+        "date": "18-02-2016",
+        "landAreaPerDeed": 1.50,
+        "buildingAreaSqft": 2920.00,
+        "biaDeed": [
+            {
+                "deedNo": "13674",
+                "date": "22-08-1966"
+            },
+            {
+                "deedNo": "29951",
+                "date": "12-12-1973"
+            },
+            {
+                "deedNo": "30046",
+                "date": "12-12-1973"
+            },
+            {
+                "deedNo": "4354",
+                "date": "13-12-1986"
+            },
+            {
+                "deedNo": "4253",
+                "date": "22-04-2015"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1312
+        ],
+        "saKhatianDetails": [
+            190
+        ],
+        "saDaagDetails": [
+            1312
+        ],
+        "rsKhatianDetails": [
+            124
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 10079,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": 1.50
+            }
+        ],
+        "rsMutationNo": "32605",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "32605",
+        "type": "Certified copy",
+        "mortgageBank": "GSP Finance Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "66,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Rahim Uddin and Other",
+                "south": "Manirul Islam and Other",
+                "east": "Morshed Ali",
+                "west": "Road"
+            }
+        ],
+        "remarks": "Flat- B/1, A/4, B/4, B/5"
+    },
+    {
+        "id": "771",
+        "mouza": "Uttar- Durgapur",
+        "upazila": "Nacerabad",
+        "ps": "Demra",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Abdus Shalam",
+        "deedNo": "3426",
+        "date": "06-04-2014",
+        "landAreaPerDeed": 11.25,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1194",
+                "date": "10-02-1948"
+            },
+            {
+                "deedNo": "16230",
+                "date": "29-12-1958"
+            },
+            {
+                "deedNo": "6534",
+                "date": "18-09-1996"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            48
+        ],
+        "saKhatianDetails": [
+            8
+        ],
+        "saDaagDetails": [
+            48
+        ],
+        "rsKhatianDetails": [
+            5
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 96,
+                "perDeed": 11.25,
+                "perMutation": 11.25,
+                "perMortgage": 11.25
+            }
+        ],
+        "rsMutationNo": "555",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "555",
+        "type": "Certified copy",
+        "mortgageBank": "Southeast Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "18,52,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "Shahjahan and Other",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "772",
+        "mouza": "Uttar- Durgapur",
+        "upazila": "Nacerabad",
+        "ps": "Demra",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 6",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Yeanus Miah",
+        "deedNo": "479",
+        "date": "16-01-2013",
+        "landAreaPerDeed": 7.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "1194",
+                "date": "10-02-1948"
+            },
+            {
+                "deedNo": "6537",
+                "date": "18-09-1996"
+            },
+            {
+                "deedNo": "7425",
+                "date": "20-10-1998"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            48
+        ],
+        "saKhatianDetails": [
+            8
+        ],
+        "saDaagDetails": [
+            48
+        ],
+        "rsKhatianDetails": [
+            5
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 96,
+                "perDeed": 7.50,
+                "perMutation": 7.50,
+                "perMortgage": 7.50
+            }
+        ],
+        "rsMutationNo": "570",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "570",
+        "type": "Certified copy",
+        "mortgageBank": "The Premier Bank Ltd.",
+        "borrowerName": "FM Textile & Yarn Trading Ltd.",
+        "deedValue": "7,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Moinuddin",
+                "south": "Lal Miah",
+                "east": "Abul Hashem",
+                "west": "Monju Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "773",
+        "mouza": "TeayaKhali",
+        "upazila": "Kalapara",
+        "ps": "Kalapara",
+        "district": "Potuakhali",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 10",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Gazi Md. Rofekul Islam & Other",
+        "deedNo": "3886",
+        "date": "18-08-2016",
+        "landAreaPerDeed": 73.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1225
+        ],
+        "saKhatianDetails": [
+            37
+        ],
+        "saDaagDetails": [
+            1225
+        ],
+        "rsKhatianDetails": [],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "",
+                "perDeed": 73.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "3,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ismail Gaji and Other",
+                "south": "Mohammed Fayazur Rahman Bhuiyan",
+                "east": "River",
+                "west": "Owabda"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "774",
+        "mouza": "Tatar Para",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 112",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Nurul Islam Bhuiyan",
+        "deedNo": "18668",
+        "date": "26-09-2013",
+        "landAreaPerDeed": 17.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "4733",
+                "date": "09-04-1985"
+            },
+            {
+                "deedNo": "7987",
+                "date": "07-09-2000"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            5
+        ],
+        "saKhatianDetails": [
+            45
+        ],
+        "saDaagDetails": [
+            5
+        ],
+        "rsKhatianDetails": [
+            23
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 7,
+                "perDeed": 17.00,
+                "perMutation": 17.00,
+                "perMortgage": 17.00
+            }
+        ],
+        "rsMutationNo": "365",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "365",
+        "type": "Certified copy",
+        "mortgageBank": "Rupali Bank Ltd. PLC",
+        "borrowerName": "Jaj Spinning Mills Ltd.",
+        "deedValue": "51,35,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Ataur Rahman Khan",
+                "south": "Jaynal Abedin",
+                "east": "Road",
+                "west": "Md. Menhajur Rahman Bhuiyan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "775",
+        "mouza": "Tatar Para",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 112",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Ms. Hosneara Begum",
+        "deedNo": "22563",
+        "date": "04-10-2012",
+        "landAreaPerDeed": 4.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5977",
+                "date": "13-07-1961"
+            },
+            {
+                "deedNo": "4980",
+                "date": "05-06-2003"
+            },
+            {
+                "deedNo": "5813",
+                "date": "31-03-2010"
+            },
+            {
+                "deedNo": "17941",
+                "date": "31-07-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            7
+        ],
+        "saKhatianDetails": [
+            20
+        ],
+        "saDaagDetails": [
+            7
+        ],
+        "rsKhatianDetails": [
+            75
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 10,
+                "perDeed": 4.00,
+                "perMutation": 4.00,
+                "perMortgage": 4.00
+            }
+        ],
+        "rsMutationNo": "335",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "335",
+        "type": "Certified copy",
+        "mortgageBank": "Rupali Bank Ltd. PLC",
+        "borrowerName": "Jaj Spinning Mills Ltd.",
+        "deedValue": "9,10,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Abdur Samad",
+                "south": "Raod",
+                "east": "Tajul Islam",
+                "west": "Shahjahan Miah"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "776",
+        "mouza": "Tatar Para",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 112",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Parven Akter & Other",
+        "deedNo": "28252",
+        "date": "04-01-2012",
+        "landAreaPerDeed": 4.61,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "23084",
+                "date": "17-10-2011"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            82
+        ],
+        "saKhatianDetails": [
+            43
+        ],
+        "saDaagDetails": [
+            82
+        ],
+        "rsKhatianDetails": [
+            "16/1"
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 105,
+                "perDeed": 4.61,
+                "perMutation": 4.61,
+                "perMortgage": 4.61
+            }
+        ],
+        "rsMutationNo": "329",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "329",
+        "type": "Certified copy",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "8,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Altaf Hossain",
+                "east": "Md. Nuru Miah",
+                "west": "Md. Rofiqul Islam (Angur)"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "777",
+        "mouza": "Tatar Para",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 112",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Md. Sadekur Rahman Allias Shadek Hossain",
+        "deedNo": "289",
+        "date": "03-01-2012",
+        "landAreaPerDeed": 0.70,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "Inheritance",
+                "date": ""
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            82
+        ],
+        "saKhatianDetails": [
+            43
+        ],
+        "saDaagDetails": [
+            82
+        ],
+        "rsKhatianDetails": [
+            "16/1"
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 105,
+                "perDeed": 0.70,
+                "perMutation": 0.70,
+                "perMortgage": 0.70
+            }
+        ],
+        "rsMutationNo": "329",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "329",
+        "type": "Certified copy",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "2,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Altaf and Other",
+                "east": "Md. Nuru Miah",
+                "west": "Md. Rofiqul Islam (Angur) and Other"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "778",
+        "mouza": "Tatar Para",
+        "upazila": "Narsingdi Sodor",
+        "ps": "Madhabdi",
+        "district": "Narsingdi",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 112",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Fatema Bibi",
+        "deedNo": "28424",
+        "date": "26-12-2011",
+        "landAreaPerDeed": 1.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "576",
+                "date": "22-02-1936"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            82
+        ],
+        "saKhatianDetails": [
+            43
+        ],
+        "saDaagDetails": [
+            82
+        ],
+        "rsKhatianDetails": [
+            "16/1"
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 105,
+                "perDeed": 1.50,
+                "perMutation": 1.50,
+                "perMortgage": 1.50
+            }
+        ],
+        "rsMutationNo": "329",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "329",
+        "type": "Original",
+        "mortgageBank": "Uttara Bank Ltd.",
+        "borrowerName": "JB Traders Ltd.",
+        "deedValue": "2,60,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Road",
+                "south": "Md. Nuru Miah",
+                "east": "Altaf Hossain and Other",
+                "west": "Dr. Rofikul Islam Khan"
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "779",
+        "mouza": "Tarabo",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Maksuda Begum & Other",
+        "deedNo": "28740",
+        "date": "26-12-2011",
+        "landAreaPerDeed": 7.50,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 7.50,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,68,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "780",
+        "mouza": "Tarabo",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Zakia Beium",
+        "deedNo": "22084",
+        "date": "07-05-2010",
+        "landAreaPerDeed": 2.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5858",
+                "date": "27-11-1969"
+            },
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            },
+            {
+                "deedNo": "1206",
+                "date": "10-07-1948"
+            },
+            {
+                "deedNo": "3354",
+                "date": "07-03-1970"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 2.75,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "6,13,500.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "781",
+        "mouza": "Tarabo",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Sufia Begum",
+        "deedNo": "3154",
+        "date": "27-02-2012",
+        "landAreaPerDeed": 3.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5858",
+                "date": "27-11-1969"
+            },
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            },
+            {
+                "deedNo": "1206",
+                "date": "10-07-1948"
+            },
+            {
+                "deedNo": "3354",
+                "date": "07-03-1970"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 3.75,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,64,500.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "782",
+        "mouza": "Tarabo",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Shaila Khandoker",
+        "deedNo": "11347",
+        "date": "02-10-2013",
+        "landAreaPerDeed": 2.75,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "2429",
+                "date": "24-10-1962"
+            },
+            {
+                "deedNo": "17377",
+                "date": "04-05-2010"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 2.75,
+                "perMutation": null,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "",
+        "brsMutationNo": null,
+        "khajna": "",
+        "holdingNo": "",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "9,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "783",
+        "mouza": "Jatramura",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Maksuda Begum & Other",
+        "deedNo": "28740",
+        "date": "26-12-2011",
+        "landAreaPerDeed": 3.88,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 3.88,
+                "perMutation": 3.88,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "465",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "465",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "1,68,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "784",
+        "mouza": "Jatramura",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Zakia Beium",
+        "deedNo": "22084",
+        "date": "07-05-2010",
+        "landAreaPerDeed": 1.94,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5858",
+                "date": "27-11-1969"
+            },
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            },
+            {
+                "deedNo": "1206",
+                "date": "10-07-1948"
+            },
+            {
+                "deedNo": "3354",
+                "date": "07-03-1970"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 1.94,
+                "perMutation": 1.94,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "465",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "465",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "6,13,500.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "785",
+        "mouza": "Jatramura",
+        "upazila": "Rupgonj",
+        "ps": "Tarabo",
+        "district": "Narayangonj",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- 17",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Mst. Sufia Begum",
+        "deedNo": "3154",
+        "date": "27-02-2012",
+        "landAreaPerDeed": 2.00,
+        "buildingAreaSqft": null,
+        "biaDeed": [
+            {
+                "deedNo": "5858",
+                "date": "27-11-1969"
+            },
+            {
+                "deedNo": "3429",
+                "date": "24-10-1962"
+            },
+            {
+                "deedNo": "1206",
+                "date": "10-07-1948"
+            },
+            {
+                "deedNo": "3354",
+                "date": "07-03-1970"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            787
+        ],
+        "saKhatianDetails": [
+            112
+        ],
+        "saDaagDetails": [
+            787
+        ],
+        "rsKhatianDetails": [
+            274
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 946,
+                "perDeed": 2.00,
+                "perMutation": 2.00,
+                "perMortgage": null
+            }
+        ],
+        "rsMutationNo": "465",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "465",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "10,64,500.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "",
+                "south": "",
+                "east": "",
+                "west": ""
+            }
+        ],
+        "remarks": null
+    },
+    {
+        "id": "786",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Neptune Property",
+        "deedNo": "3371",
+        "date": "24-04-2011",
+        "landAreaPerDeed": 0.6136,
+        "buildingAreaSqft": 2027.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.6136,
+                "perMutation": 0.6136,
+                "perMortgage": 0.6136
+            }
+        ],
+        "rsMutationNo": "2237",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2237",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "40,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "6th Floor (610)"
+    },
+    {
+        "id": "787",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Neptune Property",
+        "deedNo": "4930",
+        "date": "15-06-2011",
+        "landAreaPerDeed": 0.1175,
+        "buildingAreaSqft": 386.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.1175,
+                "perMutation": 0.1175,
+                "perMortgage": 0.1175
+            }
+        ],
+        "rsMutationNo": "2427",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2427",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "7,65,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "Car Parking"
+    },
+    {
+        "id": "788",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Neptune Property",
+        "deedNo": "8247",
+        "date": "20-10-2011",
+        "landAreaPerDeed": 0.9166,
+        "buildingAreaSqft": 3015.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.9166,
+                "perMutation": 0.9166,
+                "perMortgage": 0.9166
+            }
+        ],
+        "rsMutationNo": "2664",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2664",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "59,50,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "7th Floor (703)"
+    },
+    {
+        "id": "789",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Neptune Property",
+        "deedNo": "1524",
+        "date": "23-02-2011",
+        "landAreaPerDeed": 0.8771,
+        "buildingAreaSqft": 2499.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.8771,
+                "perMutation": 0.8771,
+                "perMortgage": 0.8771
+            }
+        ],
+        "rsMutationNo": "2338",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "2338",
+        "type": "Original",
+        "mortgageBank": "Al Arafah Islami Bank Ltd.",
+        "borrowerName": "Jaj Bhuiyan Textile Mills Ltd.",
+        "deedValue": "56,93,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "8th Floor (811)"
+    },
+    {
+        "id": "790",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "Naptune Property",
+        "deedNo": "4209",
+        "date": "24-06-2012",
+        "landAreaPerDeed": 0.6408,
+        "buildingAreaSqft": 2108.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.6408,
+                "perMutation": 0.6408,
+                "perMortgage": 0.6408
+            }
+        ],
+        "rsMutationNo": "4105",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "4105",
+        "type": "Certified copy",
+        "mortgageBank": "Agrani Bank Ltd. PLC",
+        "borrowerName": "JM Classic Fashion Ltd.",
+        "deedValue": "43,05,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "6th Floor (605)"
+    },
+    {
+        "id": "791",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "Jayanta Kumer  Deb And Other",
+        "deedNo": "900",
+        "date": "14-03-2021",
+        "landAreaPerDeed": 0.6410,
+        "buildingAreaSqft": 2108.00,
+        "biaDeed": [
+            {
+                "deedNo": "3863",
+                "date": "14-06-1948"
+            },
+            {
+                "deedNo": "3569",
+                "date": "20-03-1972"
+            },
+            {
+                "deedNo": "67",
+                "date": "21-05-1995"
+            },
+            {
+                "deedNo": "55",
+                "date": "24-04-1995"
+            },
+            {
+                "deedNo": "3869",
+                "date": "29-10-2003"
+            },
+            {
+                "deedNo": "3851",
+                "date": "11-05-2011"
+            }
+        ],
+        "csKhatianDetails": [
+            454
+        ],
+        "csDaagDetails": [
+            675
+        ],
+        "saKhatianDetails": [
+            641
+        ],
+        "saDaagDetails": [
+            1516
+        ],
+        "rsKhatianDetails": [
+            468
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": "3423, 3424, 3913",
+                "perDeed": 0.6410,
+                "perMutation": 0.6410,
+                "perMortgage": 0.6410
+            }
+        ],
+        "rsMutationNo": "8841",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "8841",
+        "type": "Certified copy",
+        "mortgageBank": "Free",
+        "borrowerName": "",
+        "deedValue": "53,45,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Shiddheswari Appertment",
+                "south": "Shiddheswari Road",
+                "east": "House No- 45",
+                "west": "House No- 46"
+            }
+        ],
+        "remarks": "7th Floor (702), Floor - 1722 Sqf, Car Parking- 386 Sqf"
+    },
+    {
+        "id": "792",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mohammed Fayazur Rahman Bhuiyan",
+        "seller": "A K Nasim Halder & Other",
+        "deedNo": "3807",
+        "date": "11-06-2015",
+        "landAreaPerDeed": 0.09636,
+        "buildingAreaSqft": 188.00,
+        "biaDeed": [
+            {
+                "deedNo": "",
+                "date": "26-03-1951"
+            },
+            {
+                "deedNo": "",
+                "date": "27-08-1953"
+            },
+            {
+                "deedNo": "254",
+                "date": "11-01-1954"
+            },
+            {
+                "deedNo": "327",
+                "date": "10-01-1979"
+            },
+            {
+                "deedNo": "2240",
+                "date": "26-03-1957"
+            },
+            {
+                "deedNo": "4058",
+                "date": "10-05-2010"
+            },
+            {
+                "deedNo": "748",
+                "date": "27-01-2011"
+            },
+            {
+                "deedNo": "8294",
+                "date": "11-12-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1544,
+            1539
+        ],
+        "saKhatianDetails": [
+            "572/1",
+            "573/4"
+        ],
+        "saDaagDetails": [
+            1544,
+            1539
+        ],
+        "rsKhatianDetails": [
+            70
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3545,
+                "perDeed": 0.09636,
+                "perMutation": 0.09636,
+                "perMortgage": 0.09636
+            }
+        ],
+        "rsMutationNo": "5552",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "5552",
+        "type": "Certified copy",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "20,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Emty Plot",
+                "south": "Baily Road",
+                "east": "House No- 1/C",
+                "west": "Baily Roab no-3"
+            }
+        ],
+        "remarks": "Shop"
+    },
+    {
+        "id": "793",
+        "mouza": "Shiddheswari",
+        "upazila": "Shiddheswari",
+        "ps": "Romna",
+        "district": "Dhaka",
+        "deedType": "Safkabla",
+        "jlNumber": "RS- ",
+        "buyer": "Mrs. Morium Akter",
+        "seller": "A K Nasim Halder & Other",
+        "deedNo": "3808",
+        "date": "11-06-2015",
+        "landAreaPerDeed": 0.090585,
+        "buildingAreaSqft": 177.00,
+        "biaDeed": [
+            {
+                "deedNo": "",
+                "date": "26-03-1951"
+            },
+            {
+                "deedNo": "",
+                "date": "27-08-1953"
+            },
+            {
+                "deedNo": "254",
+                "date": "11-01-1954"
+            },
+            {
+                "deedNo": "327",
+                "date": "10-01-1979"
+            },
+            {
+                "deedNo": "2240",
+                "date": "26-03-1957"
+            },
+            {
+                "deedNo": "4058",
+                "date": "10-05-2010"
+            },
+            {
+                "deedNo": "748",
+                "date": "27-01-2011"
+            },
+            {
+                "deedNo": "8294",
+                "date": "11-12-2012"
+            }
+        ],
+        "csKhatianDetails": [],
+        "csDaagDetails": [
+            1544,
+            1539
+        ],
+        "saKhatianDetails": [
+            "572/1",
+            "573/4"
+        ],
+        "saDaagDetails": [
+            1544,
+            1539
+        ],
+        "rsKhatianDetails": [
+            70
+        ],
+        "rsDaagDetails": [
+            {
+                "rsDaag": 3545,
+                "perDeed": 0.090585,
+                "perMutation": 0.090585,
+                "perMortgage": 0.090585
+            }
+        ],
+        "rsMutationNo": "5553",
+        "brsMutationNo": null,
+        "khajna": "1427",
+        "holdingNo": "5553",
+        "type": "Certified copy",
+        "mortgageBank": "Premier Leasing & Finance Limited",
+        "borrowerName": "Mahaid Expo International Textile Ltd.",
+        "deedValue": "20,00,000.00",
+        "mortgageValue": "",
+        "surrounding": [
+            {
+                "north": "Emty Plot",
+                "south": "Baily Road",
+                "east": "House No- 1/C",
+                "west": "Baily Roab no-3"
+            }
+        ],
+        "remarks": "Shop"
     }
 ]
